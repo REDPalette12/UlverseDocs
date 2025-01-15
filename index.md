@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Tales of the Eternal Core"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: Tales of the Eternal Core Wiki
+  # text: A VitePress Site
+  # tagline: My great project tagline
   actions:
     - theme: brand
       text: Characters

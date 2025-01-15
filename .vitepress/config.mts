@@ -2,16 +2,13 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Tales of the Eternal Core Wiki",
-  description: "A VitePress Site",
+  title: "Tales of the Eternal Core",
+  description: "Wiki",
   cleanUrls: true,
   base: "/UlverseDocs/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
-    ],
+    nav: [{ text: "Home", link: "/" }],
 
     sidebar: [
       {
