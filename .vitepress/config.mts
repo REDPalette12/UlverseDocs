@@ -74,6 +74,7 @@ export default defineConfig({
             items: [
               { text: "Ozul Umbra", link: "/docs/characters/ozul_umbra" },
               { text: "Melaina Umbra", link: "/docs/characters/melaina_umbra" },
+              { text: "Riley Umbra", link: "/docs/characters/riley_umbra" },
             ],
           },
         ],
