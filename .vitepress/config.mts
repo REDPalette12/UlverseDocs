@@ -40,6 +40,7 @@ export default defineConfig({
               { text: "Kaylus", link: "/docs/characters/kaylus" },
               { text: "Obsolis", link: "/docs/characters/obsolis" },
               { text: "Grand Architect", link: "/docs/characters/g_architect" },
+              { text: "Riley Umbra", link: "/docs/characters/riley_umbra" },
             ],
           },
           {
@@ -74,7 +75,6 @@ export default defineConfig({
             items: [
               { text: "Ozul Umbra", link: "/docs/characters/ozul_umbra" },
               { text: "Melaina Umbra", link: "/docs/characters/melaina_umbra" },
-              { text: "Riley Umbra", link: "/docs/characters/riley_umbra" },
             ],
           },
         ],
