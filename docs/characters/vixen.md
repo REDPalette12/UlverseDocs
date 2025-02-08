@@ -1,7 +1,66 @@
+---
+outline: [2, 3]
+---
+
+## **Basic Information**
+
+- **Full Name:** Vixen Xalvinar
+- **Nickname(s)/Alias(es):**
+- **Age:**
+- **Date of Birth:**
+- **Species:** Split Existence
+- **Gender & Pronouns:** Female
+- **Sexuality:**
+- **Nationality/Ethnicity:**
+
+## **Physical Appearance**
+
+- **Height:**
+- **Weight:**
+- **Eye Color:**
+- **Hair Color & Style:**
+- **Skin Tone:**
+- **Distinguishing Features:** Fox ears on top of her head, Golden fox-like eyes
+- **Typical Clothing Style:**
+
+## **Personal Information**
+
+- **Personality:**
+- **Strengths:**
+- **Weaknesses:**
+- **Fears/Phobias:**
+- **Hobbies & Interests:**
+- **Likes:**
+- **Dislikes:**
+
+## **Abilities & Skills**
+
+- **Powers/Special Abilities:**
+- **Combat Skills:**
+- **Talents/Professions:**
+- **Weapons/Equipment:**
+
+## **Social & Background Information**
+
+- **Job/Role in Society:** Public Relations & Advertising Head of the Development Department
+- **Home/Place of Residence:**
+- **Family Members:** Voltt Xalvinar(Husband)
+- **Friends/Allies:**
+- **Rivals/Enemies:**
+
+## **Backstory**
+
+(A brief or detailed summary of the character’s history, including major life events and how they became who they are.)
+
+## **Additional Notes**
+
+(Anything extra that doesn't fit into the categories above.)
+
+---
+
 #### **Vixen**
 
 - **Species**: Rogue Kaylus Body
-- **Role**: Public Relations & Advertising Head of the Development Department
 - **Abilities**:
   - **Mild Hypnosis**: A subtle yet potent power that allows her to nudge decisions in her favor, particularly in negotiations or debates. This ability is carefully controlled but is ever-present in her advertisements, subtly influencing the minds of her audience.
   - **Persuasion Mastery**: Even without her abilities, Vixen is an expert in rhetoric, able to charm and inspire almost anyone.

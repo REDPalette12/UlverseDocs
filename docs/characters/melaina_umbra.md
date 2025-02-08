@@ -1,3 +1,64 @@
+---
+outline: [2, 3]
+---
+
+## **Basic Information**
+
+- **Full Name:** Melaina Umbra
+- **Nickname(s)/Alias(es):** The Guardian of Shadows
+- **Age:**
+- **Date of Birth:**
+- **Species:** Void being
+- **Gender & Pronouns:**
+- **Sexuality:**
+- **Nationality/Ethnicity:**
+
+## **Physical Appearance**
+
+- **Height:**
+- **Weight:**
+- **Eye Color:**
+- **Hair Color & Style:**
+- **Skin Tone:**
+- **Distinguishing Features:**
+- **Typical Clothing Style:**
+
+## **Personal Information**
+
+- **Personality:**
+- **Strengths:**
+- **Weaknesses:**
+- **Fears/Phobias:**
+- **Hobbies & Interests:**
+- **Likes:**
+- **Dislikes:**
+
+## **Abilities & Skills**
+
+- **Powers/Special Abilities:**
+- **Combat Skills:**
+- **Talents/Professions:**
+- **Weapons/Equipment:**
+
+## **Social & Background Information**
+
+- **Job/Role in Society:**
+- **Home/Place of Residence:**
+- **Family Members:**
+- **Friends/Allies:**
+- **Rivals/Enemies:**
+- **Love Interest(s):**
+
+## **Backstory**
+
+(A brief or detailed summary of the character’s history, including major life events and how they became who they are.)
+
+## **Additional Notes**
+
+(Anything extra that doesn't fit into the categories above.)
+
+---
+
 ### **Melaina Umbra, The Guardian of Shadows**
 
 Melaina Umbra is the steadfast and fiercely loyal middle sibling of the Umbra trio. She is a being of elegance and menace, devoted to her family above all else. Her loyalty is unmatched, and her protective instincts toward her siblings, Umbra and Ozul, define her very essence.

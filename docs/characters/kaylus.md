@@ -1,3 +1,64 @@
+---
+outline: [2, 3]
+---
+
+## **Basic Information**
+
+- **Full Name:** Kaylus
+- **Nickname(s)/Alias(es):** Eidolon of Chaos
+- **Age:**
+- **Date of Birth:**
+- **Species:** Collective Existence
+- **Gender & Pronouns:** Depends on which body you meet
+- **Sexuality:**
+- **Nationality/Ethnicity:**
+
+## **Physical Appearance**
+
+- **Height:**
+- **Weight:**
+- **Eye Color:**
+- **Hair Color & Style:**
+- **Skin Tone:**
+- **Distinguishing Features:** Fox-like eyes, Fox insignia somewhere on their body
+- **Typical Clothing Style:** Formal
+
+## **Personal Information**
+
+- **Personality:**
+- **Strengths:**
+- **Weaknesses:**
+- **Fears/Phobias:**
+- **Hobbies & Interests:**
+- **Likes:**
+- **Dislikes:**
+
+## **Abilities & Skills**
+
+- **Powers/Special Abilities:**
+- **Combat Skills:**
+- **Talents/Professions:**
+- **Weapons/Equipment:**
+
+## **Social & Background Information**
+
+- **Job/Role in Society:**
+- **Home/Place of Residence:**
+- **Family Members:**
+- **Friends/Allies:**
+- **Rivals/Enemies:**
+- **Love Interest(s):**
+
+## **Backstory**
+
+(A brief or detailed summary of the character’s history, including major life events and how they became who they are.)
+
+## **Additional Notes**
+
+(Anything extra that doesn't fit into the categories above.)
+
+---
+
 ### **Kaylus, The Eternal Showman**
 
 Kaylus is a uniquely chaotic and enigmatic Collective Existence whose nature defies traditional Ulversian norms. Born of the energy woven into each universe, Kaylus possesses a single shared mind that exists simultaneously across all his bodies. These bodies emerge spontaneously in universes at varying times, ensuring Kaylus has a constant presence somewhere in the vastness of the Ulverse. His true motivation? Pure, unadulterated entertainment—for himself, regardless of the consequences.
@@ -74,7 +135,3 @@ In the _Era of the Shining Vortex_, Kaylus aided the Watchers during a critical 
 ### **Kaylus’ Legacy**
 
 Kaylus is as much a force of nature as a being, and his presence leaves a lasting impression wherever he goes. Despite his chaotic tendencies, many Ulversians acknowledge the peculiar wisdom hidden in his actions. He embodies the Ulverse’s complexity—a balance of creativity and chaos, of unpredictability and ingenuity.
-
-### **Ozul Umbra, The Wanderer of Forms**
-
-Ozul Umbra, sibling to Umbra, is a being born from the void energy that defines their kin. Unlike Umbra, who embodies control and watchfulness, Ozul represents the fluidity of existence and the transient nature of identity. They are a humanoid void being, but their ever-shifting forms make them an enigma even among their own kind.

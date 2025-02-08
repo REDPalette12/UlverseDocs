@@ -1,3 +1,64 @@
+---
+outline: [2, 3]
+---
+
+## **Basic Information**
+
+- **Full Name:** Red Palette
+- **Nickname(s)/Alias(es):**
+- **Age:**
+- **Date of Birth:**
+- **Species:** Ulverse Elf
+- **Gender & Pronouns:** Male
+- **Sexuality:**
+- **Nationality/Ethnicity:**
+
+## **Physical Appearance**
+
+- **Height:**
+- **Weight:**
+- **Eye Color:**
+- **Hair Color & Style:**
+- **Skin Tone:**
+- **Distinguishing Features:**
+- **Typical Clothing Style:**
+
+## **Personal Information**
+
+- **Personality:**
+- **Strengths:**
+- **Weaknesses:**
+- **Fears/Phobias:**
+- **Hobbies & Interests:**
+- **Likes:**
+- **Dislikes:**
+
+## **Abilities & Skills**
+
+- **Powers/Special Abilities:**
+- **Combat Skills:**
+- **Talents/Professions:**
+- **Weapons/Equipment:** Custom-made Staff of the Eternal Lamp, Custom-made Luminous Quill
+
+## **Social & Background Information**
+
+- **Job/Role in Society:**
+- **Home/Place of Residence:**
+- **Family Members:**
+- **Friends/Allies:**
+- **Rivals/Enemies:**
+- **Love Interest(s):**
+
+## **Backstory**
+
+(A brief or detailed summary of the character’s history, including major life events and how they became who they are.)
+
+## **Additional Notes**
+
+(Anything extra that doesn't fit into the categories above.)
+
+---
+
 ### **Red Palette’s Signature Invention**
 
 One story not tied to a specific myth but highly regarded in Ulversian culture is how **Red Palette** improved magical theory using his combination of the **Luminous Quill** and the **Staff of the Eternal Lamp**.

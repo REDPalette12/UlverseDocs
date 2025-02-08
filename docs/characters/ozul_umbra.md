@@ -1,3 +1,67 @@
+---
+outline: [2, 3]
+---
+
+## **Basic Information**
+
+- **Full Name:** Ozul Umbra
+- **Nickname(s)/Alias(es):**
+- **Age:**
+- **Date of Birth:**
+- **Species:** Void Being
+- **Gender & Pronouns:** Fluid (Depends on current form)
+- **Sexuality:**
+- **Nationality/Ethnicity:**
+
+## **Physical Appearance**
+
+- **Height:**
+- **Weight:**
+- **Eye Color:**
+- **Hair Color & Style:**
+- **Skin Tone:**
+- **Distinguishing Features:**
+  - Eyes resembling miniature galaxies swirling with void energy.
+  - A faint, shadowy aura that seems to tug at light and space around them.
+  - A symbol etched onto their containment device, a spiral or vortex motif that glows faintly with void energy.
+- **Typical Clothing Style:**
+
+## **Personal Information**
+
+- **Personality:**
+- **Strengths:**
+- **Weaknesses:**
+- **Fears/Phobias:**
+- **Hobbies & Interests:**
+- **Likes:**
+- **Dislikes:**
+
+## **Abilities & Skills**
+
+- **Powers/Special Abilities:**
+- **Combat Skills:**
+- **Talents/Professions:**
+- **Weapons/Equipment:**
+
+## **Social & Background Information**
+
+- **Job/Role in Society:**
+- **Home/Place of Residence:**
+- **Family Members:**
+- **Friends/Allies:**
+- **Rivals/Enemies:**
+- **Love Interest(s):**
+
+## **Backstory**
+
+(A brief or detailed summary of the character’s history, including major life events and how they became who they are.)
+
+## **Additional Notes**
+
+(Anything extra that doesn't fit into the categories above.)
+
+---
+
 ### **Appearance**
 
 Ozul's physical form is defined by two key factors:
@@ -73,3 +137,7 @@ One of Ozul’s forms met an untimely end while trying to contain a rogue void a
 ### **Legacy**
 
 Despite their inability to retain memories, Ozul’s various forms have left a lasting impact on the Ulverse. Stories of a kind-hearted void being who treasures life are told across settlements, inspiring others to embrace the fleeting moments of their existence. Some settlements even host small festivals to honor "Ozul's Day," celebrating the joy of exploration and connection.
+
+### **Ozul Umbra, The Wanderer of Forms**
+
+Ozul Umbra, sibling to Umbra, is a being born from the void energy that defines their kin. Unlike Umbra, who embodies control and watchfulness, Ozul represents the fluidity of existence and the transient nature of identity. They are a humanoid void being, but their ever-shifting forms make them an enigma even among their own kind.
