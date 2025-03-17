@@ -202,6 +202,139 @@ export default defineConfig({
               { text: "Gear Tokens", link: "/docs/technology/gear_tokens" },
             ],
           },
+          {
+            text: "Power & Traversal Systems",
+            collapsed: true,
+            items: [
+              {
+                text: "Engines",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Flight Engines",
+                    collapsed: true,
+                    items: [
+                      {
+                        text: "V.E.L.O.X. Engine",
+                        link: "/docs/technology/veloxengine",
+                      },
+                      {
+                        text: "G.R.A.V. Engine",
+                        link: "/docs/technology/gravengine",
+                      },
+                      {
+                        text: "PHASE-WAVE Engine",
+                        link: "/docs/technology/phasewaveengine",
+                      },
+                    ],
+                  },
+                  {
+                    text: "Aquatic Engines",
+                    collapsed: true,
+                    items: [
+                      {
+                        text: "HYDRO-JET Engines",
+                        link: "/docs/technology/hydrojetengines",
+                      },
+                      {
+                        text: "AQUA-GRAV Engines",
+                        link: "/docs/technology/aquagravengines",
+                      },
+                      {
+                        text: "WAVESHIFT Engines",
+                        link: "/docs/technology/waveshiftengines",
+                      },
+                    ],
+                  },
+                  {
+                    text: "Land Engines",
+                    collapsed: true,
+                    items: [
+                      {
+                        text: "MAG-STRIDE Engines",
+                        link: "/docs/technology/magstrideengines",
+                      },
+                      {
+                        text: "T.R.E.A.D. Engines",
+                        link: "/docs/technology/treadengines",
+                      },
+                      {
+                        text: "A.E.G.I.S. WALK Engines",
+                        link: "/docs/technology/aegiswalkengines",
+                      },
+                      {
+                        text: "A.R.C. Climber Engines",
+                        link: "/docs/technology/arcclimberengines",
+                      },
+                    ],
+                  },
+                ],
+              },
+              {
+                text: "Warp Drives",
+                collapsed: true,
+                items: [
+                  { text: "Warp Overview", link: "/docs/technology/warp" },
+                  {
+                    text: "F.R.A.C.T.A.L. Jump-Drive",
+                    link: "/docs/technology/fractaldrive",
+                  },
+                  {
+                    text: "R.I.F.T. SYNC' Drive",
+                    link: "/docs/technology/riftsync",
+                  },
+                  {
+                    text: "C.O.D.E. Drive",
+                    link: "/docs/technology/codedrive",
+                  },
+                  {
+                    text: "G.A.T.E. TETHER Drive",
+                    link: "/docs/technology/gatetether",
+                  },
+                  {
+                    text: "W.A.R.P. RAIL Drive",
+                    link: "/docs/technology/warprail",
+                  },
+                  {
+                    text: "W.E.A.V.E. Drive",
+                    link: "/docs/technology/weavedrive",
+                  },
+                  {
+                    text: "W.E.A.V.E. Drive",
+                    link: "/docs/technology/warprail",
+                  },
+                  {
+                    text: "Obselete Drives",
+                    collapsed: true,
+                    items: [
+                      {
+                        text: "C.O.R.E. Drive",
+                        link: "/docs/technology/coredrive",
+                      },
+                      {
+                        text: "PHASE-Vor.T.E.X. Drive",
+                        link: "/docs/technology/phasevortexdrive",
+                      },
+                    ],
+                  },
+                ],
+              },
+              {
+                text: "Power Systems",
+                collapsed: true,
+                items: [
+                  {
+                    text: "C.C.E. Systems",
+                    link: "/docs/technology/ccesystems",
+                  },
+                  {
+                    text: "C.S.E. Systems",
+                    link: "/docs/technology/csesystems",
+                  },
+                ],
+              },
+            ],
+          },
         ],
       },
       {
@@ -323,7 +456,12 @@ export default defineConfig({
       {
         text: "Metals and Materials",
         collapsed: true,
-        items: [],
+        items: [
+          {
+            text: "Cosmora Crystals",
+            link: "/docs/materials/cosmoracrystals",
+          },
+        ],
       },
     ],
 
