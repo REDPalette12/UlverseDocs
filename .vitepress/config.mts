@@ -300,10 +300,6 @@ export default defineConfig({
                     link: "/docs/technology/weavedrive",
                   },
                   {
-                    text: "W.E.A.V.E. Drive",
-                    link: "/docs/technology/warprail",
-                  },
-                  {
                     text: "Obselete Drives",
                     collapsed: true,
                     items: [
