@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-.vitepress/cache/
+.vite_opt_cache
 
 # Editor directories and files
 .vscode/*
