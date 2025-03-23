@@ -2,6 +2,10 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  rewrites: {
+    'docs/:rest*': ':rest*'
+  },
+
   title: "Tales of the Eternal Core",
   description: "Wiki",
   cleanUrls: true,
@@ -9,11 +13,12 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
+    outline: [2,3],
 
     sidebar: [
       {
         text: "Introduction",
-        link: "/docs/",
+        link: "/",
       },
       {
         text: "Characters",
@@ -25,7 +30,7 @@ export default defineConfig({
             items: [
               {
                 text: "Riley Non (former)",
-                link: "/docs/characters/non0",
+                link: "/characters/non0",
               },
             ],
           },
@@ -35,30 +40,30 @@ export default defineConfig({
             items: [
               {
                 text: "Aspharions Overview",
-                link: "/docs/characters/aspharions_overview",
+                link: "/characters/aspharions_overview",
               },
-              { text: "Kaylus", link: "/docs/characters/kaylus" },
-              { text: "Obsolis", link: "/docs/characters/obsolis" },
-              { text: "Grand Architect", link: "/docs/characters/g_architect" },
-              { text: "Riley Umbra", link: "/docs/characters/riley_umbra" },
+              { text: "Kaylus", link: "/characters/kaylus" },
+              { text: "Obsolis", link: "/characters/obsolis" },
+              { text: "Grand Architect", link: "/characters/g_architect" },
+              { text: "Riley Umbra", link: "/characters/riley_umbra" },
             ],
           },
           {
             text: "Department heads",
             collapsed: true,
             items: [
-              { text: "Red Palette", link: "/docs/characters/red_palette" },
-              { text: "Vixen Xalvinar", link: "/docs/characters/vixen" },
-              { text: "Voltt Xalvinar", link: "/docs/characters/voltt" },
-              { text: "Lariel Velstara", link: "/docs/characters/lariel" },
-              { text: "Brindle Vexiron", link: "/docs/characters/brindle" },
-              { text: "Ophis Tarvell", link: "/docs/characters/ophis" },
-              { text: "Eon", link: "/docs/characters/eon" },
+              { text: "Red Palette", link: "/characters/red_palette" },
+              { text: "Vixen Xalvinar", link: "/characters/vixen" },
+              { text: "Voltt Xalvinar", link: "/characters/voltt" },
+              { text: "Lariel Velstara", link: "/characters/lariel" },
+              { text: "Brindle Vexiron", link: "/characters/brindle" },
+              { text: "Ophis Tarvell", link: "/characters/ophis" },
+              { text: "Eon", link: "/characters/eon" },
             ],
           },
-          { text: "Aven Noa", link: "/docs/characters/aven_noa" },
-          { text: "Veyron Kael", link: "/docs/characters/veyron_kael" },
-          { text: "Veylan Solivis", link: "/docs/characters/veylan_solivis" },
+          { text: "Aven Noa", link: "/characters/aven_noa" },
+          { text: "Veyron Kael", link: "/characters/veyron_kael" },
+          { text: "Veylan Solivis", link: "/characters/veylan_solivis" },
           {
             text: "Ship Crew",
             collapsed: true,
@@ -73,8 +78,8 @@ export default defineConfig({
             text: "Void Beings",
             collapsed: true,
             items: [
-              { text: "Ozul Umbra", link: "/docs/characters/ozul_umbra" },
-              { text: "Melaina Umbra", link: "/docs/characters/melaina_umbra" },
+              { text: "Ozul Umbra", link: "/characters/ozul_umbra" },
+              { text: "Melaina Umbra", link: "/characters/melaina_umbra" },
             ],
           },
         ],
@@ -87,27 +92,27 @@ export default defineConfig({
             text: "Ulversian Races",
             collapsed: true,
             items: [
-              { text: "Ulverse Races", link: "/docs/species/ulverse_races" },
-              { text: "Ulverse Elves", link: "/docs/species/ulverse_elves" },
+              { text: "Ulverse Races", link: "/species/ulverse_races" },
+              { text: "Ulverse Elves", link: "/species/ulverse_elves" },
               {
                 text: "Ulverse Humans",
-                link: "/docs/species/ulverse_humans",
+                link: "/species/ulverse_humans",
               },
               {
                 text: "Ulverse Hybrids",
-                link: "/docs/species/ulverse_hybrids",
+                link: "/species/ulverse_hybrids",
               },
               {
                 text: "Mechromorphs",
-                link: "/docs/species/mechromorphs",
+                link: "/species/mechromorphs",
               },
               {
                 text: "Collective Existences",
-                link: "/docs/species/collective_existences",
+                link: "/species/collective_existences",
               },
               {
                 text: "People of the code",
-                link: "/docs/species/code_people",
+                link: "/species/code_people",
               },
             ],
           },
@@ -118,11 +123,11 @@ export default defineConfig({
             items: [
               {
                 text: "Animals of the isles",
-                link: "/docs/species/isle_animals",
+                link: "/species/isle_animals",
               },
               {
                 text: "Nyxara",
-                link: "/docs/species/nyxara",
+                link: "/species/nyxara",
               },
             ],
           },
@@ -132,7 +137,7 @@ export default defineConfig({
             items: [
               {
                 text: "Illnesses Overview",
-                link: "/docs/species/ill_overview",
+                link: "/species/ill_overview",
               },
             ],
           },
@@ -142,7 +147,7 @@ export default defineConfig({
             items: [
               {
                 text: "Disabilities Overview",
-                link: "/docs/species/diability_overview",
+                link: "/species/diability_overview",
               },
             ],
           },
@@ -156,12 +161,12 @@ export default defineConfig({
             text: "Aurorian Armada",
             collapsed: true,
             items: [
-              { text: "Aurorian Armada", link: "/docs/vehicles/a_armada" },
-              { text: "Astraeus", link: "/docs/vehicles/astraeus" },
-              { text: "Eclipsus", link: "/docs/vehicles/eclipsus" },
+              { text: "Aurorian Armada", link: "/vehicles/a_armada" },
+              { text: "Astraeus", link: "/vehicles/astraeus" },
+              { text: "Eclipsus", link: "/vehicles/eclipsus" },
               {
                 text: "Ecliptian Aegis",
-                link: "/docs/vehicles/ecliptian_aegis",
+                link: "/vehicles/ecliptian_aegis",
               },
             ],
           },
@@ -171,11 +176,11 @@ export default defineConfig({
             items: [
               {
                 text: "CodeHopper Overview",
-                link: "/docs/vehicles/codehop_overview",
+                link: "/vehicles/codehop_overview",
               },
               {
                 text: "The Chromavoyager",
-                link: "/docs/vehicles/red_codehop",
+                link: "/vehicles/red_codehop",
               },
             ],
           },
@@ -189,17 +194,17 @@ export default defineConfig({
             text: "Weapons",
             collapsed: true,
             items: [
-              { text: "V.O.R.T.E.X", link: "/docs/technology/vortex" },
-              { text: "A.N.V.I.L", link: "/docs/technology/anvil" },
-              { text: "M.I.R.A.G.E", link: "/docs/technology/mirage" },
-              { text: "R.W. Systems", link: "/docs/technology/rws" },
+              { text: "V.O.R.T.E.X", link: "/technology/vortex" },
+              { text: "A.N.V.I.L", link: "/technology/anvil" },
+              { text: "M.I.R.A.G.E", link: "/technology/mirage" },
+              { text: "R.W. Systems", link: "/technology/rws" },
             ],
           },
           {
             text: "Personal Systems",
             collapsed: true,
             items: [
-              { text: "Gear Tokens", link: "/docs/technology/gear_tokens" },
+              { text: "Gear Tokens", link: "/technology/gear_tokens" },
             ],
           },
           {
@@ -216,15 +221,15 @@ export default defineConfig({
                     items: [
                       {
                         text: "V.E.L.O.X. Engine",
-                        link: "/docs/technology/veloxengine",
+                        link: "/technology/veloxengine",
                       },
                       {
                         text: "G.R.A.V. Engine",
-                        link: "/docs/technology/gravengine",
+                        link: "/technology/gravengine",
                       },
                       {
                         text: "PHASE-WAVE Engine",
-                        link: "/docs/technology/phasewaveengine",
+                        link: "/technology/phasewaveengine",
                       },
                     ],
                   },
@@ -234,15 +239,15 @@ export default defineConfig({
                     items: [
                       {
                         text: "HYDRO-JET Engines",
-                        link: "/docs/technology/hydrojetengines",
+                        link: "/technology/hydrojetengines",
                       },
                       {
                         text: "AQUA-GRAV Engines",
-                        link: "/docs/technology/aquagravengines",
+                        link: "/technology/aquagravengines",
                       },
                       {
                         text: "WAVESHIFT Engines",
-                        link: "/docs/technology/waveshiftengines",
+                        link: "/technology/waveshiftengines",
                       },
                     ],
                   },
@@ -252,19 +257,19 @@ export default defineConfig({
                     items: [
                       {
                         text: "MAG-STRIDE Engines",
-                        link: "/docs/technology/magstrideengines",
+                        link: "/technology/magstrideengines",
                       },
                       {
                         text: "T.R.E.A.D. Engines",
-                        link: "/docs/technology/treadengines",
+                        link: "/technology/treadengines",
                       },
                       {
                         text: "A.E.G.I.S. WALK Engines",
-                        link: "/docs/technology/aegiswalkengines",
+                        link: "/technology/aegiswalkengines",
                       },
                       {
                         text: "A.R.C. Climber Engines",
-                        link: "/docs/technology/arcclimberengines",
+                        link: "/technology/arcclimberengines",
                       },
                     ],
                   },
@@ -274,30 +279,30 @@ export default defineConfig({
                 text: "Warp Drives",
                 collapsed: true,
                 items: [
-                  { text: "Warp Overview", link: "/docs/technology/warp" },
+                  { text: "Warp Overview", link: "/technology/warp" },
                   {
                     text: "F.R.A.C.T.A.L. Jump-Drive",
-                    link: "/docs/technology/fractaldrive",
+                    link: "/technology/fractaldrive",
                   },
                   {
                     text: "R.I.F.T. SYNC' Drive",
-                    link: "/docs/technology/riftsync",
+                    link: "/technology/riftsync",
                   },
                   {
                     text: "C.O.D.E. Drive",
-                    link: "/docs/technology/codedrive",
+                    link: "/technology/codedrive",
                   },
                   {
                     text: "G.A.T.E. TETHER Drive",
-                    link: "/docs/technology/gatetether",
+                    link: "/technology/gatetether",
                   },
                   {
                     text: "W.A.R.P. RAIL Drive",
-                    link: "/docs/technology/warprail",
+                    link: "/technology/warprail",
                   },
                   {
                     text: "W.E.A.V.E. Drive",
-                    link: "/docs/technology/weavedrive",
+                    link: "/technology/weavedrive",
                   },
                   {
                     text: "Obselete Drives",
@@ -305,11 +310,11 @@ export default defineConfig({
                     items: [
                       {
                         text: "C.O.R.E. Drive",
-                        link: "/docs/technology/coredrive",
+                        link: "/technology/coredrive",
                       },
                       {
                         text: "PHASE-Vor.T.E.X. Drive",
-                        link: "/docs/technology/phasevortexdrive",
+                        link: "/technology/phasevortexdrive",
                       },
                     ],
                   },
@@ -321,11 +326,11 @@ export default defineConfig({
                 items: [
                   {
                     text: "C.C.E. Systems",
-                    link: "/docs/technology/ccesystems",
+                    link: "/technology/ccesystems",
                   },
                   {
                     text: "C.S.E. Systems",
-                    link: "/docs/technology/csesystems",
+                    link: "/technology/csesystems",
                   },
                 ],
               },
@@ -365,27 +370,27 @@ export default defineConfig({
         items: [
           {
             text: "Ulverse High Council",
-            link: "/docs/organisations/high_council",
+            link: "/organisations/high_council",
           },
           {
             text: "Council of Eight",
-            link: "/docs/organisations/council8",
+            link: "/organisations/council8",
           },
           {
             text: "PMA Department Heads",
-            link: "/docs/organisations/dep_heads",
+            link: "/organisations/dep_heads",
           },
           {
             text: "The Watchers",
-            link: "/docs/organisations/watchers",
+            link: "/organisations/watchers",
           },
           {
             text: "Vixen & Voltt Technologies",
-            link: "/docs/organisations/vixen_voltt_tech",
+            link: "/organisations/vixen_voltt_tech",
           },
           {
             text: "The Codebreakers",
-            link: "/docs/organisations/codebreakers",
+            link: "/organisations/codebreakers",
           },
         ],
       },
@@ -393,14 +398,14 @@ export default defineConfig({
         text: "Locations",
         collapsed: true,
         items: [
-          { text: "Ulverse Isles", link: "/docs/locations/ulverse_isles" },
+          { text: "Ulverse Isles", link: "/locations/ulverse_isles" },
 
           {
             text: "Cities And Settlements",
             collapsed: true,
             items: [
-              { text: "Cities", link: "/docs/locations/cities" },
-              { text: "Machina Aeternum", link: "/docs/locations/mechcity" },
+              { text: "Cities", link: "/locations/cities" },
+              { text: "Machina Aeternum", link: "/locations/mechcity" },
             ],
           },
         ],
@@ -416,7 +421,7 @@ export default defineConfig({
         items: [
           {
             text: "War of the Shining Vortex",
-            link: "/docs/historical_events/WOTSV",
+            link: "/historical_events/WOTSV",
           },
         ],
       },
@@ -431,7 +436,7 @@ export default defineConfig({
             items: [
               {
                 text: "Death Traditions Overview",
-                link: "/docs/culture/dtoverview",
+                link: "/culture/dtoverview",
               },
             ],
           },
@@ -440,14 +445,14 @@ export default defineConfig({
           { text: "Festivals and Holidays", items: [] },
           {
             text: "Greetings and Introductions",
-            link: "/docs/culture/greetandintro",
+            link: "/culture/greetandintro",
           },
         ],
       },
       {
         text: "Language",
         collapsed: true,
-        items: [{ text: "Javaxian", link: "/docs/language/javaxian" }],
+        items: [{ text: "Javaxian", link: "/language/javaxian" }],
       },
       {
         text: "Metals and Materials",
@@ -455,7 +460,7 @@ export default defineConfig({
         items: [
           {
             text: "Cosmora Crystals",
-            link: "/docs/materials/cosmoracrystals",
+            link: "/materials/cosmoracrystals",
           },
         ],
       },
