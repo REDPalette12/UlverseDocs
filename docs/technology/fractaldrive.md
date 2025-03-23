@@ -7,7 +7,7 @@
 - Codehoppers
 - Large vessels of all types
 
-**Scientific Explanation**
+**Scientific Explanation**\
 Unlike Rift-Sync Drives or Ulversian Highway navigation, which require massive power draws, the Fractal-Jump Drive operates on a localized manipulation of space-time itself, drastically reducing the energy needed for travel.
 When travelling the F.R.A.C.T.A.L. Drive flattens and folds space in on itself, causing areas a very long ways away become much closer. It then manipulates this folded space to 'teleport' to another location.
 The ship's Fractal Field temporarily breaks spatial continuity, allowing it to "fold" through itself instead of moving through traditional distances.
@@ -26,13 +26,15 @@ Because the Codehopper never enters the Ulversian Highway, it does not suffer fr
 - Some Codehoppers vanish entirely when their FJ Drive fails, though whether they are destroyed or merely misplaced is unknown.
 
 **Inventor(s) & Development History**
-_Original Inventor:_
-_Development Timeline:_
-_First Use:_
+
+- _Original Inventor:_
+- _Development Timeline:_
+- _First Use:_
 
 **Variations & Alternative Designs**
-_Upgraded Versions:_
-_Variation Designs_
+
+- _Upgraded Versions:_
+- _Variation Designs_
 
 **Regulations**
 
