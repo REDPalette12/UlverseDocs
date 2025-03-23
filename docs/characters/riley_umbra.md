@@ -106,7 +106,6 @@
 - **Job/Role in Society:**
 - **Home/Place of Residence:**
 - **Family Members:**
-  <!-- `./*` is in the same folder (`/docs/characters/*`), `../*` is back a folder (`/docs/*) -->
   - [Melaina Umbra](./melaina_umbra) (younger sister)
   - [Ozul Umbra](./ozul_umbra) (youngest sibling)
 - **Friends/Allies:**
