@@ -1,1 +1,0 @@
-import{_ as e,c as s,o as c}from"./chunks/framework.CYDeWOiT.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/vehicles/eclipsus.md","filePath":"docs/vehicles/eclipsus.md"}'),t={name:"docs/vehicles/eclipsus.md"};function a(o,r,i,n,p,l){return c(),s("div")}const m=e(t,[["render",a]]);export{_ as __pageData,m as default};

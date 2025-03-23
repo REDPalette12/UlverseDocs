@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as s}from"./chunks/framework.CYDeWOiT.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/species/nyxara.md","filePath":"docs/species/nyxara.md"}'),t={name:"docs/species/nyxara.md"};function r(c,o,n,p,d,i){return s(),a("div")}const f=e(t,[["render",r]]);export{m as __pageData,f as default};
