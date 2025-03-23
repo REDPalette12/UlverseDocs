@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   rewrites: {
-    "/docs/:rest*": "/:rest*",
+    "docs/:rest*": ":rest*",
   },
 
   title: "Tales of the Eternal Core",
