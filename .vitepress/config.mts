@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   rewrites: {
-    'docs/:rest*': ':rest*'
+    "docs/:rest*": ":rest*",
   },
 
   title: "Tales of the Eternal Core",
@@ -13,7 +13,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
-    outline: [2,3],
+    outline: [2, 3],
 
     sidebar: [
       {
@@ -64,16 +64,16 @@ export default defineConfig({
           { text: "Aven Noa", link: "/characters/aven_noa" },
           { text: "Veyron Kael", link: "/characters/veyron_kael" },
           { text: "Veylan Solivis", link: "/characters/veylan_solivis" },
-          {
-            text: "Ship Crew",
-            collapsed: true,
-            items: [
-              { text: "Captains", collapsed: true, items: [] },
+          // {
+          //   text: "Ship Crew",
+          //   collapsed: true,
+          //   items: [
+          //     { text: "Captains", collapsed: true, items: [] },
 
-              { text: "First Officers", collapsed: true, items: [] },
-              { text: "Technical Officers", collapsed: true, items: [] },
-            ],
-          },
+          //     { text: "First Officers", collapsed: true, items: [] },
+          //     { text: "Technical Officers", collapsed: true, items: [] },
+          //   ],
+          // },
           {
             text: "Void Beings",
             collapsed: true,
@@ -157,7 +157,7 @@ export default defineConfig({
             items: [
               {
                 text: "Disabilities Overview",
-                link: "/species/diability_overview",
+                link: "/species/disability_overview",
               },
             ],
           },
@@ -213,9 +213,7 @@ export default defineConfig({
           {
             text: "Personal Systems",
             collapsed: true,
-            items: [
-              { text: "Gear Tokens", link: "/technology/gear_tokens" },
-            ],
+            items: [{ text: "Gear Tokens", link: "/technology/gear_tokens" }],
           },
           {
             text: "Power & Traversal Systems",
@@ -354,23 +352,23 @@ export default defineConfig({
         items: [
           {
             text: "Spells",
-            collapsed: true,
-            items: [],
+            // collapsed: true,
+            // items: [],
           },
           {
             text: "Magic Items",
-            collapsed: true,
-            items: [],
+            // collapsed: true,
+            // items: [],
           },
           {
             text: "Wands",
-            collapsed: true,
-            items: [],
+            // collapsed: true,
+            // items: [],
           },
           {
             text: "Staves",
-            collapsed: true,
-            items: [],
+            // collapsed: true,
+            // items: [],
           },
         ],
       },

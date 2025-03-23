@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 .vite_opt_cache
+cache
 
 # Editor directories and files
 .vscode/*
