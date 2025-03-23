@@ -127,6 +127,16 @@ export default defineConfig({
             ],
           },
           {
+            text: "Other Species",
+            collapsed: true,
+            items: [
+              {
+                text: "Universal Errors",
+                link: "/docs/species/universalerrors",
+              },
+            ],
+          },
+          {
             text: "Illnesses",
             collapsed: true,
             items: [

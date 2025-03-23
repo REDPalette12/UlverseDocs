@@ -8,7 +8,7 @@
 - Large vessels of all types
 
 **Scientific Explanation**
-Unlike Rift-Sync Drives or Ulversian Highway navigation, which require massive power draws, the Fractal-Jump Drive operates on a localized manipulation of space-time itself, drastically reducing the energy needed for travel.
+Unlike Rift-Sync Drives or Ulversian Highway navigation, which require massive power draws, the Fractal-Jump Drive operates on a localized manipulation of space-time itself, drastically reducing the energy needed for travel.  
 When travelling the F.R.A.C.T.A.L. Drive flattens and folds space in on itself, causing areas a very long ways away become much closer. It then manipulates this folded space to 'teleport' to another location.
 The ship's Fractal Field temporarily breaks spatial continuity, allowing it to "fold" through itself instead of moving through traditional distances.
 The ship remains in reality, but its relative position becomes undefined —this lets it bypass conventional motion and reappear elsewhere almost instantly.
