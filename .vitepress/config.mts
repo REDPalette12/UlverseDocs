@@ -101,6 +101,10 @@ export default defineConfig({
                 link: "/species/ulverse_humans",
               },
               {
+                text: "Shared Ulversian Traits",
+                link: "/species/shared_ulverse_traits",
+              },
+              {
                 text: "Ulverse Hybrids",
                 link: "/species/ulverse_hybrids",
               },
