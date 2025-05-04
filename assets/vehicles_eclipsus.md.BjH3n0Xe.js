@@ -1,1 +1,0 @@
-import{_ as e,c as s,o as t}from"./chunks/framework.C4qgxD4H.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vehicles/eclipsus.md","filePath":"docs/vehicles/eclipsus.md"}'),c={name:"vehicles/eclipsus.md"};function a(o,r,i,n,p,l){return t(),s("div")}const m=e(c,[["render",a]]);export{_ as __pageData,m as default};
