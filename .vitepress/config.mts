@@ -66,6 +66,10 @@ export default defineConfig({
           { text: "Aven Noa", link: "/characters/aven_noa" },
           { text: "Veyron Kael", link: "/characters/veyron_kael" },
           { text: "Veylan Solivis", link: "/characters/veylan_solivis" },
+          {
+            text: "Lyra Calwen",
+            link: "/characters/lyra_calwen",
+          },
           // {
           //   text: "Ship Crew",
           //   collapsed: true,
@@ -183,6 +187,10 @@ export default defineConfig({
               {
                 text: "Ecliptian Aegis",
                 link: "/vehicles/ecliptian_aegis",
+              },
+              {
+                text: "Vast Horizon",
+                link: "/vehicles/vast_horizon",
               },
             ],
           },
@@ -350,12 +358,17 @@ export default defineConfig({
               },
             ],
           },
+          { text: "T.H.R.E.A.D.E Network", link: "/technology/threaden" },
         ],
       },
       {
         text: "Magic",
         collapsed: true,
         items: [
+          {
+            text: "Ulversian Magic",
+            link: "/magic/magic_basics",
+          },
           {
             text: "Spells",
             // collapsed: true,
@@ -406,6 +419,10 @@ export default defineConfig({
             text: "The Codebreakers",
             link: "/organisations/codebreakers",
           },
+          {
+            text: "The Ulversian Emergency Services (UES)",
+            link: "/organisations/ues",
+          },
         ],
       },
       {
@@ -443,7 +460,30 @@ export default defineConfig({
         text: "Culture",
         collapsed: true,
         items: [
-          { text: "Birth Traditions", items: [] },
+          {
+            text: "Ulversian calendar",
+            link: "/culture/calendar",
+          },
+          {
+            text: "Birth Traditions",
+            collapsed: true,
+            items: [
+              {
+                text: "Twin Births",
+                link: "/culture/twins",
+              },
+            ],
+          },
+          {
+            text: "Family Traditions",
+            collapsed: true,
+            items: [
+              {
+                text: "Vyran Sigils",
+                link: "/culture/vyren_sigils",
+              },
+            ],
+          },
           {
             text: "Death Traditions",
             collapsed: true,
@@ -460,6 +500,16 @@ export default defineConfig({
           {
             text: "Greetings and Introductions",
             link: "/culture/greetandintro",
+          },
+          {
+            text: "Stories and Mythology",
+            collapsed: true,
+            items: [
+              {
+                text: "'Weaver of Horizons' Myth",
+                link: "/culture/xeyara",
+              },
+            ],
           },
         ],
       },

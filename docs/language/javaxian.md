@@ -439,3 +439,455 @@ The Core will guide our path through night."
 ### **Would You Like to See This Visualized?**
 
 I can create a mock artifact or inscription visually combining both languages or expand into more poetic works and ceremonial uses. Let me know!
+
+### **Ulversian Terms for Family and Partnership**
+
+Since the **Ulverse** is home to many diverse species, including **shapeshifters and beings with fluid identities**, its languages have evolved to include **gender-neutral terminology** for important relationships like parenthood and marriage. These words carry deep cultural meaning, reflecting the Ulversian view of **bonds as fluid, adaptable, and enduring** rather than rigidly defined by biological roles.
+
+---
+
+### **🔹 Parental Term: "Veyra"** _(Plural: Veyran)_
+
+- **Meaning:** **"Guiding Light"** or **"Life Weaver"**
+- Used to refer to a **parental figure**, regardless of whether they gave birth, adopted, or nurtured a child in any form.
+- Derived from the **Ulversian word "Vey," meaning "to guide"**, symbolizing a parent's role in shaping a child's journey.
+- **Examples in Speech:**
+  - _"My Veyra taught me how to navigate the rift currents."_
+  - _"Among the Nyxara, Veyran raise their young together in Flurries."_
+
+---
+
+### **🔹 Marriage Partner Term: "Teyren"** _(Plural: Teyrai)_
+
+- **Meaning:** **"Bound Soul"** or **"Eternal Companion"**
+- A term that signifies a **lifelong marriage partner** or **Unity-Bonded individual**.
+- Comes from **"Tey" (meaning connection) and "Ren" (meaning eternal)**—together, it symbolizes a bond that transcends time and form.
+- **Examples in Speech:**
+  - _"We exchanged Ohamonite and became Teyrai beneath the Riftstars."_
+  - _"Your Teyren's energy still lingers in your Unity Mark. They are always with you."_
+
+---
+
+These words not only **respect the fluid nature** of relationships in the Ulverse but also emphasize the **deep spiritual and emotional bonds** that define family and commitment. Would you like additional cultural phrases or formal ceremony terms tied to these relationships?
+
+## **Javaxian Respectful Terms for People**
+
+### **General Honorifics (Neutral Alternatives to Mr., Ms., etc.)**
+
+| Javaxian Term | Pronunciation | Usage / Meaning                              | Context                                                         |
+| ------------- | ------------- | -------------------------------------------- | --------------------------------------------------------------- |
+| **Vaelu**     | VAY-loo       | Respected individual                         | General respectful term for any adult, neutral and formal       |
+| **Seran**     | SEH-ran       | Honored peer or guest                        | Used for guests, dignitaries, or respected acquaintances        |
+| **Tirell**    | TEE-rell      | Trusted elder or figure of wisdom            | Used for mentors, older guides, or teachers                     |
+| **Nariin**    | NAH-reen      | Polite stranger or unknown person            | Used when addressing someone respectfully without knowing them  |
+| **Asu**       | AH-soo        | Esteemed friend                              | Casual yet polite, like “mate” or “friend,” but more respectful |
+| **Koress**    | KO-res        | Formal designation of command/responsibility | Used in military, noble, or formal hierarchy titles             |
+
+---
+
+### **Respectful Forms of Address (Situational)**
+
+| Term                                           | Usage                                                 |
+| ---------------------------------------------- | ----------------------------------------------------- |
+| **“Vaelu-Kein”** – _"Respected one of skill.”_ | Used to address artists, scientists, or creators.     |
+| **“Seran-Val”** – _"Honored traveler”_         | Used in cultural exchange or diplomatic settings.     |
+| **“Tirellan”** – _"Voice of Wisdom”_           | A title of respect for elders, scholars, or advisors. |
+| **“Koress-Dael”** – _"Commander of Duty”_      | Used in formal or military chains of command.         |
+
+---
+
+## **Polite Phrases (Formal & Informal)**
+
+### **Greetings / Introductions**
+
+| Javaxian             | Translation               | Context                                               |
+| -------------------- | ------------------------- | ----------------------------------------------------- |
+| **“Shaevu-nai.”**    | “Peace upon your path.”   | Formal greeting, used with strangers or in diplomacy. |
+| **“Luraen to-ka.”**  | “Light finds you well.”   | Warm, poetic greeting—often used among friends.       |
+| **“Taval kai’rel.”** | “Our meeting is honored.” | Formal and ceremonial greeting.                       |
+
+---
+
+### **Thanks / Gratitude**
+
+| Javaxian          | Translation             | Context                                            |
+| ----------------- | ----------------------- | -------------------------------------------------- |
+| **“Myal taren.”** | “My spirit thanks you.” | Deep, soul-level gratitude—used in formal moments. |
+| **“Ka’so.”**      | “Thanks.”               | Casual, everyday thanks.                           |
+| **“Teylun’ar.”**  | “Gratitude flows.”      | Poetic or formal version of thanks.                |
+
+---
+
+### **Apologies / Acknowledgment**
+
+| Javaxian         | Translation             | Context                                                |
+| ---------------- | ----------------------- | ------------------------------------------------------ |
+| **“Reylos na.”** | “I seek your pardon.”   | Formal apology.                                        |
+| **“Toren-ka.”**  | “I meant no harm.”      | Informal but respectful.                               |
+| **“Vaari'len.”** | “Forgive this misstep.” | Used in situations of etiquette or formality breaches. |
+
+---
+
+### **Departures / Goodbyes**
+
+| Javaxian         | Translation                    | Context                      |
+| ---------------- | ------------------------------ | ---------------------------- |
+| **“Tirashaen.”** | “May your threads weave true.” | Deep farewell, often poetic. |
+| **“Lurai.”**     | “Safe travels.”                | Common, friendly goodbye.    |
+| **“Sereval.”**   | “Until next time.”             | Formal and neutral.          |
+
+---
+
+## **Quick Examples of Use**
+
+- **“Vaelu, I offer you my thanks — Ka’so.”**
+- **“Seran-Val, your presence honors us. Shaevu-nai.”**
+- **“Tirellan, may your guidance shine. Myal taren.”**
+- **“Koress-Dael, the fleet awaits your word.”**
+
+---
+
+Would you like slang terms, poetic dialect variants, or translations into specific cultural dialects (like Aurorian, Elven, or hybrid regional forms)?
+
+Absolutely! Here's a collection of **Javaxian slang, casual expressions, and commonly used phrases** that you'd hear in **everyday Ulversian speech**. These expressions reflect the dynamic, energy-based culture of the Ulverse and adapt across regions, species, and social groups. They're often used by **Codehoppers, youth, travelers, and day-to-day folks**.
+
+---
+
+## **Javaxian Slang & Casual Terms**
+
+| **Term**                 | **Pronunciation** | **Meaning / Usage**                                                 |
+| ------------------------ | ----------------- | ------------------------------------------------------------------- |
+| **Zeyna**                | ZAY-nuh           | Cool, impressive, stylish. “That jump was _zeyna!_”                 |
+| **Tharn**                | THARN             | To mess up / fail badly. “I totally _tharned_ that warp sync.”      |
+| **Plisk**                | PLISS-k           | Nonsense or junk talk. “Ignore her, that’s _plisk._”                |
+| **Greth**                | GRETH             | A close friend / trusted ally. “You’re my _greth_, always.”         |
+| **Shyrr**                | SHIRE             | An exclamation of surprise. “_Shyrr!_ That’s a voidbeast!”          |
+| **Kivvy**                | KIH-vee           | Someone acting weird or erratic. “Don’t go all _kivvy_ on me.”      |
+| **Streakin’ the stream** | —                 | Going too fast, recklessly. “They’re _streakin’ the stream_ again!” |
+| **Ghost-drive**          | —                 | To vanish without notice. “He _ghost-drove_ after the argument.”    |
+| **Pulse-hopped**         | —                 | Exhausted or burned out. “You look _pulse-hopped_, take a break.”   |
+
+---
+
+## **Casual Greetings & Farewells**
+
+| **Phrase**                | **Meaning / Context**                                      |
+| ------------------------- | ---------------------------------------------------------- |
+| **“Heya-beam!”**          | Friendly hello, especially from distance or through comms. |
+| **“Light flow with ya.”** | Chill goodbye, often used casually between friends.        |
+| **“All currents calm?”**  | “How’s it going?” or “Everything good?”                    |
+| **“Ride smooth.”**        | “Take care,” often said to Codehoppers or pilots.          |
+| **“Stay synced.”**        | “Keep your head in it / stay sharp.”                       |
+
+---
+
+## **Everyday Expressions**
+
+| **Phrase**                      | **Meaning / Context**                                 |
+| ------------------------------- | ----------------------------------------------------- |
+| **“That’s core-deep.”**         | Something that really hits emotionally or feels true. |
+| **“You’ve got bright-thread.”** | You’re lucky / destined for good things.              |
+| **“Don’t fry your weave.”**     | Don’t stress too hard.                                |
+| **“I’ll buzz a loop.”**         | “I’ll check in / swing by soon.”                      |
+| **“Catch the slip.”**           | Be ready for sudden changes / adapt quickly.          |
+| **“Ain’t my stream.”**          | Not my problem / responsibility.                      |
+| **“She’s got grav-pull.”**      | She’s charismatic or magnetic.                        |
+| **“Syncin’ weird.”**            | Something feels off or suspicious.                    |
+| **“Core’s hummin’.”**           | Feeling energized, motivated.                         |
+| **“Loop me in.”**               | Keep me updated / include me.                         |
+
+---
+
+## **Youth & Rebel Slang (Common in street or alt circles)**
+
+| **Term**                    | **Usage**                                            |
+| --------------------------- | ---------------------------------------------------- |
+| **“Break the glow.”**       | Do something unexpected or rebellious.               |
+| **“Code-flicker.”**         | Someone who jumps identities, moods, or ideas often. |
+| **“Drift-glider.”**         | Someone who goes with the flow, chill personality.   |
+| **“Loop-locked.”**          | Stuck in your own thoughts or routines.              |
+| **“Null it.”**              | Forget it / let it go.                               |
+| **“Patch it or scrap it.”** | Either fix it or walk away — don’t sit idle.         |
+
+---
+
+Want slang specific to **Codehoppers**, **military**, **Elves**, or **urban centers** next? Or something like idioms around **love**, **combat**, or **invention/creation**?
+
+Absolutely! Here's a fresh list of **Ulversian (Javaxian dialect)** words and phrases used in **everyday speech**, excluding titles, formal respectful terms, or previously mentioned slang. These are words woven into the daily lives of Ulversians—used when shopping, working, relaxing, joking, or bonding.
+
+---
+
+### **Common Everyday Ulversian Words (Javaxian Dialect)**
+
+#### **Emotions & Reactions**
+
+- **_Vurei_** (voo-RAY): Joy, delight, or laughter.  
+  _“That brings me real **vurei**.”_
+
+- **_Nekka_** (NEK-kah): Frustration or minor annoyance.  
+  _“Ugh, that delay was such a **nekka**.”_
+
+- **_Seyil_** (SAY-il): Calmness or emotional peace.  
+  _“I need a moment of **seyil** after that jump.”_
+
+- **_Zenth_** (ZENTH): Determination, focused energy.  
+  _“You’ve got real **zenth** going into that project.”_
+
+---
+
+#### **Actions & Verbs**
+
+- **_Keryn_** (KEHR-in): To connect, bond, or sync up (emotionally or mentally).  
+  _“We really **keryned** during that mission.”_
+
+- **_Tolven_** (TOLL-ven): To recalibrate or reset one's path or plans.  
+  _“Need a moment to **tolven** after that mess.”_
+
+- **_Brax_** (BRAKS): To improvise or adapt under pressure.  
+  _“Didn’t have a plan, just had to **brax** it.”_
+
+- **_Jolza_** (JOHL-zah): To relax deeply or take pleasure in rest.  
+  _“I’m just gonna **jolza** at the ring park today.”_
+
+---
+
+#### **People & Roles**
+
+- **_Selphi_** (SELL-fee): A peer, friend, or familiar face (non-intimate).  
+  _“Saw my old **selphi** working the station loop!”_
+
+- **_Maren_** (MAH-ren): A family member or long-standing companion.  
+  _“My **maren** taught me how to tune warp rails.”_
+
+- **_Trynne_** (TRINN): A rival, respected opponent, or playful adversary.  
+  _“You’re my favorite **trynne** in debate class.”_
+
+---
+
+#### **Objects & Concepts**
+
+- **_Kallor_** (KAL-or): Any handheld device, communicator or multitool.  
+  _“Don’t forget your **kallor** when we leave.”_
+
+- **_Stenva_** (STEN-vah): Transit token, pass, or access credential.  
+  _“Check your **stenva**, we’re boarding soon.”_
+
+- **_Vornik_** (VOR-nick): A data burst or short message.  
+  _“Just send me a **vornik** if plans change.”_
+
+- **_Hollin_** (HAW-lin): A casual gathering, meet-up, or rest break.  
+  _“We’ll have a **hollin** after the delivery run.”_
+
+---
+
+#### **Everyday Interjections & Phrases**
+
+- **_“Tei'la!”_** – “No way!” / “Whoa!”
+- **_“Heka’s flow, not again…”_** – Mild curse of exasperation.
+- **_“We shine on it.”_** – “We’re good” / “It’s handled.”
+- **_“Woven and humming.”_** – “Everything’s in sync / going well.”
+- **_“You sparkin’ yet?”_** – “Are you ready?” (motivational)
+
+---
+
+Want **words from specific regions or species**, or ones used in **rituals, combat, love, or artistry** next?
+
+Absolutely! Let's break this into two parts: **Javaxian sentence structure** and **Javaxian swear words (and their cultural impact).**
+
+---
+
+### **1. Javaxian Sentence Structure & Writing Direction**
+
+**Writing Direction:**
+
+- Javaxian script is written **vertically** from **top-right to bottom-left**, moving **in columns**.
+- You start at the **top-right corner**, write **downward**, then move **left** to begin the next vertical line.
+- This style reflects the **flow of Ulversian energy**, which is described as cascading vertically like a stream of light through the Core, then expanding outward.
+
+**Sentence Structure (Standard Grammar Order):**
+
+- Javaxian syntax follows a **VSO** structure: **Verb – Subject – Object**.
+  - Example (in translation):  
+    “_Energize_ (Verb) _I_ (Subject) _the ship_ (Object)”  
+    Javaxian: “Energize I ship”
+
+**Modifiers (Adjectives/Adverbs):**
+
+- Adjectives come **after** the noun they describe.
+  - “Ship strong” instead of “strong ship”
+- Adverbs also come **after** the verb.
+  - “Energize quickly” → “Energize quickly”
+
+**Questions:**
+
+- Marked with a tonal particle at the **start** of the sentence.
+  - “Xa” = denotes a question (like a vocal pitch accent)
+  - Example: “Xa energize you ship?” → “Did you energize the ship?”
+
+**Negation:**
+
+- “Nol” is used before the verb to negate it.
+  - “Nol energize I ship.” = “I did not energize the ship.”
+
+---
+
+### **2. Javaxian Swear Words (and Their Usage)**
+
+Javaxian culture, especially among Ulversians, places **energy balance and harmonic speech** at high value. Swear words aren't always “crude” in the traditional sense—but often imply disharmony, reckless behavior, or even insults to someone's core stability.
+
+#### **Common Swear Words:**
+
+- **_Thrask!_**  
+  Used like “Damn!” or “Crap!”  
+  Mild and widely accepted.  
+  _“Thrask, I dropped my kallor!”_
+
+- **_Veyka_**  
+  More serious—implies chaos energy or recklessness.  
+  Equivalent to calling someone unstable or dangerous.  
+  _“You pulled a Veyka maneuver back there!”_
+
+- **_Kesh'tar_**  
+  A very harsh insult—literally means “core-corrupt.”  
+  Considered deeply offensive; rarely used lightly.  
+  _“Don’t talk to me, you Kesh’tar!”_
+
+- **_Sarnu_**  
+  General vulgar term; equivalent to “ass” or “bastard.”  
+  Can also be friendly among close friends.  
+  _“You sly little sarnu!” (teasing)_
+
+- **_Zark_**  
+  A soft, funny expletive. Used like “heck” or “frick.”  
+  Often used by children and younglings.  
+  _“What the zark is that!?”_
+
+- **_Fyr'nek_**  
+  Harsh, professional insult. Means “Broken-thread.”  
+  Refers to someone unworthy of trust or responsibility.  
+  _“Don’t let that fyr’nek near the jump console.”_
+
+---
+
+#### **Cultural Notes on Swearing:**
+
+- Swearing in formal settings is **frowned upon**, especially near energy-sensitive structures (like Core Temples or Engine Stabilizers).
+- Some **noble families or high-ranking engineers** have unique, archaic oaths passed down, used only in extreme moments.
+- It’s common to hear toned-down versions (e.g., “Thra” or “Zah”) used as **expletive prefixes**—think “Zahstorm,” “Thrak-burst,” etc.
+
+---
+
+If you want, I can also write out **a short sample sentence in Javaxian format** and explain how it looks in writing! Or dive into **ceremonial or ancient Javaxian structures** next.
+
+Absolutely! Here’s a **short Javaxian sentence** with its vertical column format and a breakdown:
+
+---
+
+### **Sentence (in English):**
+
+**“I will protect you.”**
+
+---
+
+### **Javaxian Word-by-Word (VSO structure):**
+
+- **Verb:** _Shan'vet_ (to protect / to shield)
+- **Subject:** _Ai_ (I / me)
+- **Object:** _Tey_ (you)
+
+> **Javaxian sentence:**  
+> **Shan'vet Ai Tey**
+
+---
+
+### **Vertical Format (as written in Javaxian):**
+
+Starting top-right, reading **down the column**, then moving **left**:
+
+```
+| Shan'vet |
+|    Ai    |
+|   Tey    |
+```
+
+---
+
+### **In stylized Javaxian writing** (simplified for display):
+
+```
+Column 1       Column 2       Column 3
+(Top to Bottom, Right to Left)
+
+Tey            Ai             Shan'vet
+```
+
+- You would read from **top to bottom** of each column, starting from the **rightmost** column.
+
+---
+
+### **Optional Stylized Version (In Ulversian Calligraphy):**
+
+In Ulversian culture, sentences like this one would often have **flowing, ribbon-like curves** connecting the columns, representing the stream of energy between core and intent.
+
+They might even use **glyph variations** to emphasize emotional tone—so “protect” in this sentence might have a stylized flourish if spoken passionately.
+
+Would you like a visual sketch/mockup of how this might appear in their script? I can generate that too!
+
+Absolutely! Here's a set of **Ancient Javaxian honorifics and pronouns**—used in poetic, ceremonial, or archaic contexts—comparable to the **Old English** “thee,” “thou,” “art,” etc. These would often be seen in **ritual inscriptions, sacred texts, mythological retellings**, or **formal oaths**. They’re linguistically more elaborate than their modern counterparts, reflecting a **more melodic and reverent style**.
+
+---
+
+## **Ancient Javaxian Honorifics & Pronouns**
+
+### **1. Personal Pronouns & References**
+
+| **Modern Term**                    | **Ancient Javaxian**           | **Meaning / Use**                                                                 |
+| ---------------------------------- | ------------------------------ | --------------------------------------------------------------------------------- |
+| **I / Me**                         | **_Shae’nari_** (SHAE-nah-ree) | “I who am shaped by light” — used ceremonially                                    |
+| **You (singular)**                 | **_Thei’nar_** (THAY-nar)      | Formal version of “you,” used with reverence                                      |
+| **You (plural / respected group)** | **_Thuvan’ei_** (THOO-van-ay)  | “You who walk together” — used when addressing a council, group, or divine beings |
+| **They / Them**                    | **_Vael’eth_** (VAY-leth)      | “Those who weave the flow” — often used for respected third parties or ancestors  |
+| **We / Us**                        | **_Shaelor_** (SHAY-lor)       | “We who bind threads” — often used in unity pledges or partnerships               |
+
+---
+
+### **2. Forms of “To Be” / Existential States**
+
+| **Modern Term**            | **Ancient Javaxian**           | **Meaning / Usage**                                                   |
+| -------------------------- | ------------------------------ | --------------------------------------------------------------------- |
+| **Am / Are**               | **_Elar’mii_** (EH-lar-mee)    | “To be in presence” — poetic form of existence                        |
+| **Was / Were**             | **_Sira’mii_** (SEE-rah-mee)   | “To have woven one’s moment” — past tense of being                    |
+| **Shall Be / Will Become** | **_Thaur’enii_** (THOWR-en-ee) | “To rise into shape” — refers to growth, prophecy, or future identity |
+
+---
+
+### **3. Address & Titles (Archaic Forms)**
+
+| **Modern Term**                | **Ancient Javaxian Equivalent** | **Meaning / Usage**                                                   |
+| ------------------------------ | ------------------------------- | --------------------------------------------------------------------- |
+| **Sir / Ma’am / Honored One**  | **_Vaerai_** (VAY-rye)          | Reverent, genderless title for those of high status or spirit         |
+| **Master / Mentor**            | **_Eluvan_** (EH-loo-vahn)      | “One who shares flow” — a teacher or elder                            |
+| **Companion / Beloved**        | **_Shaerel_** (SHY-ree-el)      | Deep connection, often used between bonded partners or warriors       |
+| **Child / Student / Disciple** | **_Thaleni_** (THAH-leh-nee)    | “Bright thread” — a cherished learner or youth                        |
+| **Stranger / Guest**           | **_Orr’evan_** (OR-eh-van)      | “Wanderer of unknown light” — respectful term for visitors            |
+| **Enemy / Forsaken**           | **_Vel’nath_** (VELL-nath)      | “Those turned from thread” — poetic phrasing for outcasts or traitors |
+
+---
+
+## **Sample Archaic Javaxian Phrases**
+
+- **_“Shae’nari elar’mii Thei’nar.”_**  
+  “I am because you are.” (_Used in sacred unity rituals._)
+
+- **_“Vael’eth sira’mii in flows long gone.”_**  
+  “They once were, in streams now passed.” (_Eulogy line._)
+
+- **_“Thaur’enii, O Thuvan’ei, into woven futures.”_**  
+  “May you become, O gathered ones, the harmony of what comes.” (_Prophetic or blessing statement._)
+
+- **_“Eluvan Vaerai, I keryn to thee my vow.”_**  
+  “Master Honored One, I bind to you my vow.” (_Used in oath-giving._)
+
+---
+
+Would you like me to create a short **ancient-style blessing or oath** next using these forms? Or explore **how modern Javaxian evolved from this ancient style** over time?

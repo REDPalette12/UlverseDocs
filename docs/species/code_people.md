@@ -256,3 +256,104 @@ The People of the Code and the Aspharions share a symbiotic relationship, with t
    - **Appearance:** A serene figure with flowing hair made of mist and eyes that resemble deep, starry voids.
    - **Role:** Reverie translates dreams into tangible art or knowledge. They guide beings through the Dreamscape, ensuring they emerge with clarity or inspiration.
    - **Personality:** Gentle and nurturing, Reverie is known for their calming presence. They often hum softly while they work.
+
+### **The People of the Code & Their Relationship with Veythral Forms**
+
+The **People of the Code** are the **servants, attendants, and facilitators** of the Aspharions, existing in a unique **symbiotic relationship** with their vast, cosmic masters. Given that **Veythral Forms** are the primary way Aspharions interact with reality, the People of the Code play a critical role in **maintaining, managing, and even constructing** these avatars.
+
+---
+
+## **🔹 Who Are the People of the Code?**
+
+The **People of the Code** are a race of beings created, uplifted, or influenced by the **Aspharions**, acting as their servants, workers, and intermediaries. While their exact **origins** vary depending on the individual Aspharion they serve, all share a common trait:
+
+- They exist as **structured beings**, composed of **pure information, reality-woven logic, or coded constructs** given form.
+- They act as **extensions of the Aspharions’ will**, though many possess free will and identities of their own.
+- Some are **created directly by an Aspharion**, while others are **ascended mortals**, chosen to join the ranks of the **People of the Code** through service or exceptional understanding of cosmic principles.
+
+---
+
+## **🔻 Interaction with Veythral Forms**
+
+The **People of the Code** serve as the **primary caretakers, managers, and stabilizers** of the Aspharions' **Veythral Forms**. Since these forms are **essential to Aspharions functioning within reality**, their upkeep is a delicate and precise duty.
+
+### **1. Maintenance & Reinforcement ("The Codeseal Rituals")**
+
+- Some Veythral Forms require **periodic stabilizing rituals**, ensuring that their presence does not distort reality.
+- The **People of the Code** use **harmonic stabilizers**, energy filaments, or **ritualized command sequences** to reinforce an avatar’s structure.
+- When an unstable Veythral Form begins **decaying**, a high-ranking **Codesealer** must **reinforce it or shut it down before it collapses catastrophically**.
+
+### **2. Customization & Design ("The Shaping Process")**
+
+- Some Veythral Forms are **crafted with the assistance of the People of the Code**.
+- They act as **architects**, helping to shape a form’s **appearance, function, and reality-integration properties**.
+- Certain forms are **designed for specific environments**, requiring different levels of energy balance and interaction with physical matter.
+
+### **3. Multiplicity Management ("Coherence Control")**
+
+- Since an Aspharion can have **multiple Veythral Forms active at once**, the **People of the Code** sometimes help **synchronize** these avatars.
+- They act as **coherence managers**, ensuring that the different forms do not **conflict, overlap, or contradict one another’s actions**.
+- This is especially crucial when an Aspharion operates in **multiple dimensions simultaneously**.
+
+---
+
+## **🔹 Different Roles in Handling Veythral Forms**
+
+The **People of the Code** are not all equal—some serve in higher, more specialized capacities, particularly when managing their Aspharion’s avatars.
+
+### **🔸 1. Codesealers – Guardians of Stability**
+
+- Their primary role is to **ensure that a Veythral Form remains stable**.
+- If an avatar starts to **weaken, distort, or become corrupted**, Codesealers enact powerful **rituals** to repair or contain it.
+- If necessary, they are responsible for **"Decommissioning"** a form that is beyond repair.
+- **Example:**
+  - If an Aspharion leaves a battlefield and no longer needs its war avatar, a Codesealer might **unravel it in a controlled process** rather than let it dissolve chaotically.
+
+### **🔸 2. Shapers – Designers of Veythral Forms**
+
+- These individuals act as **architects**, responsible for **assisting in the design of new Veythral Forms**.
+- While Aspharions can create avatars **instantly**, many prefer a more **refined process** overseen by Shapers.
+- Some Shapers specialize in **adaptive designs**, ensuring that a Veythral Form can exist in **multiple realities or environmental conditions** without breaking apart.
+- **Example:**
+  - A Shaper might ensure that a combat avatar **maintains a humanoid form** in some environments but **reconfigures into a serpentine shape when submerged in an ocean world**.
+
+### **🔸 3. Coherence Overseers – The Synchronizers**
+
+- If an Aspharion has **multiple Veythral Forms**, these specialists help ensure **consistency between them**.
+- Overseers make sure that **one avatar does not contradict another**, particularly when interacting with different civilizations.
+- In high-stakes scenarios, Coherence Overseers help **channel information between active avatars**, making sure that an Aspharion is **fully aware of everything happening across all its forms**.
+- **Example:**
+  - If The Grand Architect has **three avatars running different games across the Ulverse**, an Overseer may relay **real-time updates** between them, ensuring that no two "Architects" accidentally contradict each other’s riddles.
+
+---
+
+## **🔻 Challenges & Risks of Managing Veythral Forms**
+
+While the **People of the Code** are highly skilled, working with Veythral Forms carries significant **risks**.
+
+### **1. Veythral Corruption ("Unstable Echoes")**
+
+- If a Veythral Form is **left unchecked for too long**, it can begin to degrade, leading to **erratic behavior, unpredictable power surges, or outright hostility**.
+- The **People of the Code** must act quickly to **re-stabilize** or **neutralize** these anomalies.
+
+### **2. Avatar Overlap ("Paradox Conflict")**
+
+- If an Aspharion has **too many active avatars** in close proximity, they may begin to **influence each other unpredictably**.
+- Overseers sometimes have to **collapse one or more avatars** to prevent a **paradoxical chain reaction**.
+
+### **3. Rogue Forms ("Echoes That Defy Control")**
+
+- On **rare occasions**, a Veythral Form may develop **too much independence** and start acting **against its creator’s intentions**.
+- These rogue forms may even **escape into reality**, becoming **self-contained entities** that are no longer fully under Aspharion control.
+- **Example:**
+  - An ancient **Rogue Veythral** might still wander the Ulverse long after its Aspharion has ceased using it, becoming a **legendary entity in its own right**.
+
+---
+
+## **🔹 Final Thoughts**
+
+The **People of the Code** act as **caretakers, stabilizers, and managers** of the **Veythral Forms** used by Aspharions. While the **Aspharions are vast, unfathomable beings**, their servants are the ones who ensure their interactions with the **Ulverse remain stable and coherent**.
+
+Some specialize in **creating and maintaining these forms**, while others focus on **synchronization and control**. However, even among them, **errors and anomalies occur**, leading to cases where Veythral Forms behave **in unpredictable ways**, becoming something **more than they were meant to be**.
+
+Would you like to explore **notable figures among the People of the Code**, or instances where **a Veythral Form became something unintended**?

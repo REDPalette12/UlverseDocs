@@ -100,62 +100,6 @@ The fleet’s vessels are visually cohesive, blending sleek, aerodynamic forms w
 - **Flagship Prestige:** Serving on the _Eclipser_ is seen as a high honor, and its crew is often viewed with awe by members of other ships. Despite this, the flagship’s crew members work hard to maintain humility and camaraderie.
 - **The _Astraeus_ Factor:** The crew of the _Astraeus_ are treated with reverence throughout the fleet. They are seen as the pioneers whose innovations made the fleet possible.
 
----
-
-### **Notable Vessels and Their Captains/Pilots**
-
-#### **1. _Eclipser_**
-
-- **Captain:** **Admiral Lyra Marven**
-  - A seasoned tactician with a firm but approachable demeanor. Lyra’s leadership is a stabilizing force for the fleet, and she often mentors younger captains.
-- **Pilot:** **Kellan Vairn**
-  - Known for his precision and calm under pressure. Kellan ensures the flagship navigates the most challenging universal highways.
-
----
-
-#### **2. _Astraeus_**
-
-- **Captain:** **Red Palette** (Dual role as fleet visionary and researcher)
-  - His role is more advisory than commanding, but his presence on missions ensures morale is high.
-
----
-
-#### **3. _Stellar Whisper_** (Exploration Vessel)
-
-- **Captain:** **Rina Solannis**
-  - An enigmatic figure who values curiosity above all. Her ship is often the first to venture into uncharted universes.
-- **Pilot:** **Jax Orlen**
-  - Known for his daring maneuvers, often pushing the ship’s capabilities to their limits to gather valuable data.
-
----
-
-#### **4. _Aegis Prime_** (Containment Ship)
-
-- **Captain:** **Commander Tarek Vulris**
-  - A pragmatic leader with an unyielding dedication to universal stability. Tarek takes his responsibilities seriously and expects the same from his crew.
-- **Pilot:** **Mira Calen**
-  - Calm and meticulous, Mira specializes in navigating through chaotic and unstable universes.
-
----
-
-#### **5. _Luminous Trail_** (Support Vessel)
-
-- **Captain:** **Seren Arlith**
-  - A logistics mastermind who ensures the fleet is always supplied and ready for action. Seren has a knack for improvisation in emergencies.
-- **Pilot:** **Ellis Droven**
-  - Jovial and approachable, Ellis is the go-to person for morale-boosting stories during long hauls.
-
----
-
-#### **6. _Echo Lance_** (Special Operations Vessel)
-
-- **Captain:** **Kael Darnis**
-  - Leads covert missions and retrieval operations. Kael is sharp, calculating, and intensely loyal to the fleet.
-- **Pilot:** **Sorin Velask**
-  - Silent and mysterious, Sorin is known for their unmatched skill in evasive maneuvers and stealthy approaches.
-
----
-
 ### **Notable Fleet Events**
 
 1. **The Founding Ceremony:**
@@ -170,73 +114,6 @@ The fleet’s vessels are visually cohesive, blending sleek, aerodynamic forms w
    - When a containment ship was stranded in a collapsing universe, the _Astraeus_ led the rescue operation, showcasing its advanced capabilities.
 
 Would you like to explore the backstories of the captains, more on fleet tactics, or how the _Aurorian Armada_ interacts with the broader Ulverse community?
-
-### **Expanding on Fleet Captains' Backstories**
-
-#### **1. Admiral Lyra Marven (Flagship: _Eclipser_)**
-
-- **Backstory:**  
-  Lyra was born into a family of military tacticians, excelling in strategy and leadership from an early age. She started her career commanding small ships during the Era of Reconstruction, where her innovative tactics saved countless lives during post-war relief efforts. Her ability to inspire loyalty among her crew earned her a rapid rise through the ranks. Lyra joined the fleet when Red Palette personally requested her expertise, believing she could bring cohesion to the _Aurorian Armada_.
-
-- **Personality and Relationships:**  
-  Lyra maintains a professional demeanor but has a soft spot for younger captains like Rina Solannis. She often offers mentorship, helping them navigate the responsibilities of leadership. With Red Palette, she shares a deep respect, frequently consulting him on missions requiring scientific insight.
-
----
-
-#### **2. Rina Solannis (Exploration Vessel: _Stellar Whisper_)**
-
-- **Backstory:**  
-  Rina grew up in a nomadic community that traveled between universes, fostering her fascination with exploration. Her resourcefulness and boundless curiosity earned her recognition from Ulverse authorities, eventually leading her to join the fleet. Rina’s unique perspective on uncharted territories makes her the go-to captain for first-contact missions.
-
-- **Personality and Relationships:**  
-  Rina’s playful nature contrasts with the stoic Tarek Vulris, leading to occasional disagreements about risk assessment. However, she works well with Seren Arlith, often collaborating on the logistics of extended exploratory missions.
-
----
-
-#### **3. Commander Tarek Vulris (Containment Ship: _Aegis Prime_)**
-
-- **Backstory:**  
-  Tarek’s family perished in a universal collapse caused by an uncontained glitch outbreak. This tragedy motivated him to dedicate his life to ensuring no other universe suffers a similar fate. Tarek is a former glitch hunter and brought his expertise to the _Aurorian Armada_ to lead containment efforts.
-
-- **Personality and Relationships:**  
-  He is highly pragmatic, often clashing with more idealistic captains like Rina. Tarek respects Lyra’s authority and has a strong working relationship with Kael Darnis, with whom he shares a commitment to protecting the Ulverse at any cost.
-
----
-
-#### **4. Seren Arlith (Support Vessel: _Luminous Trail_)**
-
-- **Backstory:**  
-  Seren grew up managing supply routes during the Age of Expansion, learning how to ensure efficiency under pressure. Her ability to improvise in emergencies and her sharp logistical mind made her a natural fit for the fleet’s support operations.
-
-- **Personality and Relationships:**  
-  Seren is a calming presence in the fleet, known for her humor and approachability. She shares a close friendship with Ellis Droven, the _Luminous Trail’s_ pilot, and frequently exchanges strategies with Lyra Marven to improve fleet cohesion.
-
----
-
-#### **5. Kael Darnis (Special Operations Vessel: _Echo Lance_)**
-
-- **Backstory:**  
-  Kael was once a covert operative for a secretive Ulverse intelligence division, specializing in infiltration and extraction missions. Their skill set proved invaluable during early fleet missions, particularly when stealth and precision were required.
-
-- **Personality and Relationships:**  
-  Kael values efficiency and discipline, forming a strong bond with Tarek Vulris over their shared dedication to safeguarding the multiverse. Though reserved, Kael occasionally shares war stories with Sorin Velask, the _Echo Lance’s_ pilot, further strengthening their camaraderie.
-
----
-
-### **Fleet Tactics and Collaboration**
-
-1. **Multi-Ship Missions:**
-
-   - The fleet employs a coordinated approach where exploration vessels like the _Stellar Whisper_ scout ahead, containment ships like the _Aegis Prime_ secure hazards, and support vessels like the _Luminous Trail_ maintain resources.
-
-2. **Flagship Leadership:**
-
-   - The _Eclipser_ acts as the central command hub, coordinating fleet movements during large-scale operations. Lyra Marven oversees fleet strategy, while Red Palette uses the _Astraeus_ to provide advanced technological support.
-
-3. **Special Operations:**
-   - The _Echo Lance_ handles covert missions, often working alone or with minimal support to avoid detection.
-
----
 
 ### **Fleet-Wide Dynamics**
 
@@ -258,28 +135,6 @@ Would you like to explore the backstories of the captains, more on fleet tactics
 
 3. **The Void Arc Campaign:**
    - The _Echo Lance_ led a stealth mission to recover critical data from a corrupted universal core, preventing widespread instability.
-
----
-
-### **Notable Ships in the Fleet**
-
-1. **The _Celestial Forge_**
-
-   - **Role:** A hybrid exploration and research vessel.
-   - **Captain:** Althea Voren, an inquisitive scientist-turned-captain.
-
-2. **The _Iron Warden_**
-
-   - **Role:** A heavily armored containment ship.
-   - **Captain:** Korin Thal, a no-nonsense commander.
-
-3. **The _Nebula Runner_**
-   - **Role:** A fast-travel scout ship.
-   - **Captain:** Elise Myral, known for her speed and daring maneuvers.
-
----
-
-Would you like to dive deeper into any specific captain, event, or ship? Or focus on Red Palette’s ongoing role in managing the _Aurorian Armada_?
 
 ### **Interaction of the Aurorian Armada with the Rest of the Ulverse**
 
@@ -397,229 +252,6 @@ Would you like to expand on any specific aspect, such as relationships with spec
 ### **Scout Craft Name**
 
 **Raywing** – Named for its sleek, ray-like design, the Raywing scout craft is an agile and efficient vessel built for reconnaissance and quick response missions. Equipped with advanced scanning systems and cloaking capabilities, it is ideal for charting new territories or gathering intel while remaining undetected.
-
----
-
-### **Small Transport Vessel Name**
-
-**Cellet** – The Cellet is a compact transport vessel designed for ferrying personnel, small cargo, and supplies between fleet ships or to planetside locations. Its name reflects its role as a "cell" in the larger "body" of the fleet, emphasizing its importance in maintaining operations. Despite its size, the Cellet is equipped with a robust shielding system and atmospheric versatility.
-
-Would you like additional details about their design or operational uses?
-
-### **Raywing Scout Craft**
-
-**Design and Features:**
-
-- **Shape:** The Raywing resembles a manta ray, with a flat, broad "wing" structure housing its engines and primary systems. Its sleek, curved silhouette minimizes detection and maximizes aerodynamic efficiency.
-- **Engines:** Two large pulse engines at the rear provide exceptional speed and maneuverability. Secondary thrusters enable precise adjustments, crucial for navigating tight spaces or stealth operations.
-- **Scanning Systems:** Equipped with quantum resonance scanners and spectrographic analysis tools, the Raywing can detect and map anomalies, resources, and structures across dimensions.
-- **Cloaking Technology:** An advanced photonic refractor renders the vessel nearly invisible, while silent-running capabilities reduce emissions.
-- **Crew Capacity:** Piloted by a single operator, with space for a co-pilot or mission specialist.
-- **Docking Compatibility:** The Raywing features a docking clamp that allows it to seamlessly attach to the Astraeus for refueling or mission briefings.
-
-**Operational Uses:**
-
-- Stealth reconnaissance in uncharted universes.
-- Tactical support for fleet operations.
-- Quick-response missions to recover stranded personnel or investigate anomalies.
-
----
-
-### **Cellet Transport Vessel**
-
-**Design and Features:**
-
-- **Shape:** The Cellet is compact and rectangular, with a rounded cockpit and reinforced body. It is designed to be modular, allowing for different cargo configurations.
-- **Engines:** Twin adaptive engines enable smooth transitions between space, atmospheric, and underwater environments.
-- **Shielding:** Equipped with advanced shielding to protect passengers and cargo from environmental hazards and minor attacks.
-- **Interior:** Configurable interiors allow for either passenger seating or cargo racks, depending on mission requirements.
-- **Crew Capacity:** Operated by a pilot and navigator, with capacity for up to 10 passengers or equivalent cargo.
-
-**Operational Uses:**
-
-- Shuttle missions between ships and planetside locations.
-- Transporting researchers, tools, or delicate samples for the Astraeus’ labs.
-- Emergency evacuations or supply drops in hostile conditions.
-
----
-
-### **Interplay Between the Two Craft**
-
-- **The Raywing** often scouts ahead to secure landing zones or assess risks for the Cellet during planetary operations.
-- **The Cellet** is the backbone of logistics for small-scale operations, ferrying personnel and equipment once the Raywing confirms the area is safe.
-- Both craft are indispensable for the Astraeus' mission, emphasizing the vessel's adaptability and self-reliance during field operations.
-
-Would you like details on their crew or notable missions?
-
-### **Raywing Scout Craft Crew**
-
-**1. Captain Mira Talvek** (Commander and Pilot)
-
-- **Role:** Leader of the Raywing crew, responsible for piloting the craft and making mission-critical decisions.
-- **Personality:** Charismatic and daring, Mira thrives on the thrill of exploration and takes calculated risks. She is known for her quick thinking and unshakable confidence in high-stress situations.
-- **Background:** Former fighter pilot in the Aurorian Armada, Mira joined the Astraeus crew for the opportunity to lead exploration missions. Her experience in both combat and reconnaissance makes her a natural fit for the Raywing.
-
-**2. Dr. Alaric Fenwick** (Science Officer)
-
-- **Role:** Handles the Raywing’s advanced scanning and analysis systems, interpreting data on anomalies, resources, and environmental hazards.
-- **Personality:** Analytical and meticulous, Alaric can sometimes seem detached but is deeply committed to uncovering the mysteries of the Ulverse.
-- **Background:** A physicist and xenobiologist, Alaric specializes in quantum phenomena and is eager to document new discoveries during missions.
-
-**3. Sgt. Lyna Quorr** (Security Specialist)
-
-- **Role:** Protects the crew during missions, equipped with advanced weaponry and defensive systems.
-- **Personality:** Stoic and disciplined, Lyna is fiercely loyal to her team and often acts as the voice of reason during tense moments.
-- **Background:** A veteran soldier from Machina Aeternum, Lyna volunteered for the Astraeus mission to serve on the front line of multiversal defense.
-
-**4. Eryk Voss** (Engineer)
-
-- **Role:** Maintains the Raywing’s systems, ensuring peak performance and handling emergency repairs during missions.
-- **Personality:** Inventive and resourceful, Eryk is known for his dry humor and knack for solving problems under pressure.
-- **Background:** Originally a technician for Vixen&Voltt Technologies, Eryk was handpicked for his expertise in experimental propulsion and cloaking systems.
-
-**5. Arin Solvay** (Communications and Navigation Officer)
-
-- **Role:** Manages the Raywing’s navigation and coordinates with the Astraeus and other fleet vessels during missions.
-- **Personality:** Friendly and upbeat, Arin keeps morale high and excels at forming connections with others.
-- **Background:** A talented navigator with a passion for exploring uncharted regions, Arin specializes in decoding alien communication protocols.
-
----
-
-### **Cellet Transport Vessel Crew**
-
-**1. Lt. Jorik Kane** (Pilot)
-
-- **Role:** Ensures the Cellet reaches its destinations safely, whether transporting personnel or cargo.
-- **Personality:** Calm and methodical, Jorik is a seasoned pilot who values precision and efficiency.
-- **Background:** Former commercial transport pilot, recruited for his ability to navigate challenging environments.
-
-**2. Dr. Velara Tynn** (Medic and Mission Specialist)
-
-- **Role:** Provides medical support during missions and oversees the safe transport of biological specimens.
-- **Personality:** Compassionate and nurturing, Velara often acts as a confidante for the crew.
-- **Background:** A trained field medic with experience in high-stakes research missions, Velara ensures the crew and cargo are well cared for.
-
-**3. Kade Thrynn** (Cargo Master and Technician)
-
-- **Role:** Oversees the organization and maintenance of cargo and ensures the Cellet is equipped for its missions.
-- **Personality:** Practical and detail-oriented, Kade has a knack for improvisation and thrives in hands-on roles.
-- **Background:** Former warehouse manager and logistics expert, Kade joined the Astraeus team for a chance to work with cutting-edge equipment.
-
----
-
-### **Crew Dynamics**
-
-- **Mira Talvek** and **Jorik Kane** share a professional respect and often discuss tactics for operating in dangerous environments.
-- **Dr. Alaric Fenwick** and **Dr. Velara Tynn** collaborate when transporting or studying biological samples, sharing insights and expertise.
-- **Sgt. Lyna Quorr** and **Kade Thrynn** bond over their shared no-nonsense approach to missions and their resourcefulness in solving problems.
-- **Arin Solvay** and **Eryk Voss** often share banter, their contrasting personalities adding levity to tense situations.
-- Both crews maintain strong connections with the Astraeus crew, with regular exchanges of updates and expertise.
-
-Would you like notable missions or inter-crew rivalries/alliances developed further?
-
-### **Inter-Crew Rivalries and Alliances**
-
-**1. Mira Talvek (Raywing) vs. Jorik Kane (Cellet)**
-
-- **Dynamic:** Professional Rivalry
-- **Details:** Both Mira and Jorik are seasoned pilots with impressive track records, but their methods differ significantly. Mira prefers bold, high-risk maneuvers, while Jorik values precision and methodical planning. This difference often leads to heated debates about tactics and mission strategies. Despite their rivalry, they respect each other's skills, and their dynamic keeps both crews sharp and competitive.
-
-**2. Arin Solvay (Raywing) & Kade Thrynn (Cellet)**
-
-- **Dynamic:** Friendly Alliance
-- **Details:** Arin’s outgoing nature and Kade’s practical approach make them an unlikely but effective pair. Arin often helps Kade organize and label cargo in innovative ways, while Kade advises Arin on efficiency in navigation. Their collaboration has resulted in smoother operations for both crafts, and their friendship often lightens the mood during challenging missions.
-
-**3. Dr. Alaric Fenwick (Raywing) vs. Dr. Velara Tynn (Cellet)**
-
-- **Dynamic:** Intellectual Rivalry
-- **Details:** While both are brilliant in their respective fields, Alaric’s focus on theoretical research often clashes with Velara’s practical, hands-on approach to science. Alaric occasionally dismisses Velara’s work as “routine,” while Velara counters by pointing out the tangible benefits of her medical and field research. Over time, their mutual admiration for each other’s expertise has grown, leading to grudging cooperation when missions demand it.
-
-**4. Sgt. Lyna Quorr (Raywing) & Kade Thrynn (Cellet)**
-
-- **Dynamic:** Tactical Bond
-- **Details:** Lyna and Kade are both no-nonsense individuals who prioritize mission success above all else. They often exchange tips on equipment handling and tactical strategies. Their shared commitment to preparation and resourcefulness makes them a formidable team when their crews collaborate on joint missions.
-
-**5. Eryk Voss (Raywing) vs. the Cellet Crew**
-
-- **Dynamic:** Mistrust and Isolation
-- **Details:** Eryk’s solitary nature and sarcastic wit often make him a target for mild teasing from the Cellet crew, which he does not take lightly. While his expertise is undeniable, Eryk prefers working alone and bristles at what he perceives as interference or incompetence. The Cellet crew finds his attitude frustrating but has come to respect his skill and reliability in a crisis.
-
-**6. Mira Talvek (Raywing) & Dr. Velara Tynn (Cellet)**
-
-- **Dynamic:** Strong Alliance
-- **Details:** Mira and Velara share a deep understanding of the importance of leadership and crew morale. They often exchange advice on managing their teams and collaborate on missions that require balancing risk with crew safety. Velara admires Mira’s decisiveness, while Mira values Velara’s ability to care for the emotional and physical well-being of the team.
-
-**7. Crew-Wide Collaboration During Fleet Missions**
-
-- During large-scale operations involving both the Raywing and Cellet, the crews come together seamlessly, setting aside rivalries for the greater good. Mira and Jorik take co-command, Alaric and Velara pool their expertise, and Lyna, Kade, and Eryk handle logistics and defense with remarkable efficiency.
-
----
-
-Would you like to develop specific joint missions or crises that further deepen these dynamics?
-
-### **Expanded Dynamics: Raywing, Cellet, and Astraeus Crew Relationships**
-
-The smaller crews of the _Raywing_ and _Cellet_ have distinct but deeply intertwined relationships with the larger _Astraeus_ crew. Each relationship is influenced by the unique role and culture of each vessel, fostering a mix of camaraderie, competition, and collaboration.
-
----
-
-#### **Raywing Crew & Astraeus Crew**
-
-- **Mira Talvek (Raywing) vs. Captain Daryn Kale (Astraeus)**
-
-  - **Dynamic:** Tactical Disputes
-  - **Details:** Mira's bold, risk-taking piloting style occasionally clashes with Captain Kale's strategic, big-picture decision-making. Daryn values precision and minimizes unnecessary risk, which leads to Mira sometimes feeling constrained by fleet regulations. Despite these conflicts, Daryn respects Mira’s courage and innovation, often relying on her instincts for unconventional solutions.
-
-- **Lyna Quorr (Raywing) & Astraeus Security Teams**
-
-  - **Dynamic:** Mentorship and Mutual Respect
-  - **Details:** As the Raywing’s tactical officer, Lyna frequently collaborates with the _Astraeus_ security teams during joint operations. Her hands-on experience and combat strategies have earned her the admiration of the _Astraeus_’s junior officers, many of whom see her as a mentor.
-
-- **Dr. Alaric Fenwick (Raywing) & Dr. Elenora Vass (Astraeus Chief Scientist)**
-
-  - **Dynamic:** Intellectual Alliance
-  - **Details:** Both Alaric and Elenora share a passion for theoretical research and the mysteries of the multiverse. They frequently exchange data and collaborate on experiments. Alaric respects Elenora’s visionary leadership, while Elenora values Alaric’s ability to challenge her theories with his fresh perspectives.
-
-- **Eryk Voss (Raywing) & Astraeus Engineers**
-  - **Dynamic:** Mutual Frustration
-  - **Details:** Eryk often views the _Astraeus_ engineers as inefficient and overly dependent on protocols. In turn, the engineers see Eryk’s maverick approach as reckless. However, during crises, Eryk’s knack for improvisation has saved several missions, earning grudging respect.
-
----
-
-#### **Cellet Crew & Astraeus Crew**
-
-- **Jorik Kane (Cellet) & Captain Daryn Kale (Astraeus)**
-
-  - **Dynamic:** Mutual Professionalism
-  - **Details:** Jorik’s methodical nature aligns closely with Captain Kale’s strategic mindset. The two share a mutual appreciation for well-executed plans and often collaborate on fleet maneuvers. Jorik looks up to Daryn as a role model for leadership, while Daryn sees Jorik as a reliable ally.
-
-- **Kade Thrynn (Cellet) & Astraeus Operations Teams**
-
-  - **Dynamic:** Cooperative Problem-Solving
-  - **Details:** Kade’s practical mindset and knack for efficiency make him a valuable asset to the _Astraeus_ operations teams. He is often called upon for logistical support during large missions, earning him the trust and friendship of many _Astraeus_ crew members.
-
-- **Dr. Velara Tynn (Cellet) & Astraeus Medical Staff**
-  - **Dynamic:** Collaborative Partnership
-  - **Details:** Velara has a close relationship with the _Astraeus_’s chief medical officer, Dr. Imara Solven. The two often share research and develop new medical techniques together. Velara’s hands-on experience complements Imara’s focus on long-term care and fleet-wide health policies.
-
----
-
-#### **Joint Dynamics Across the Fleet**
-
-- **Raywing and Cellet vs. Astraeus Core Team**
-
-  - The smaller crews occasionally feel overshadowed by the _Astraeus_'s prominence in the fleet, leading to a friendly rivalry. They take pride in their more flexible, independent roles, often jokingly referring to themselves as "the edge of the blade" compared to the _Astraeus_’s "shield."
-
-- **Fleet-Wide Exercises and Bonding**
-
-  - Joint drills and fleet maneuvers foster camaraderie across all crews. The _Astraeus_ serves as a command center during these events, while the _Raywing_ and _Cellet_ spearhead tactical simulations. These exercises often blur the lines between individual crews, fostering a shared sense of purpose.
-
-- **Captain Kale as a Mediator**
-  - Daryn Kale’s diplomatic skills help maintain harmony within the fleet. He often resolves disputes between smaller crews and ensures that the _Astraeus_ doesn’t dominate discussions or decisions.
-
----
-
-Would you like to explore specific events, joint missions, or conflicts that deepen these dynamics further?
 
 ### **Protocols in the Aurorian Armada Fleet**
 
@@ -1013,3 +645,156 @@ Sentinel captains often work in harmony, coordinating with each other during fle
 - **The Eclipse Divide**: The Warden’s stealth systems detected a hidden fleet, and Aegis protected the flagship while Phalanx led the counterattack.
 
 Would you like to expand on specific Sentinels or introduce new missions for them?
+
+### **Weapon Systems of the Aurorian Armada**
+
+The **Aurorian Armada** is a formidable force with highly adaptive weaponry, ensuring that its ships remain effective in **sky, space, and oceanic environments**. Their technology focuses on **versatility, energy efficiency, and strategic precision**, rather than brute force, allowing for dynamic engagements across different terrains.
+
+---
+
+## **Weapon Categories**
+
+### **1. Primary Energy Weapons (Direct-Fire Systems)**
+
+- These weapons form the backbone of the Armada’s firepower, designed for long-range engagements in space, aerial dogfights, and underwater combat.
+
+#### **⚡ Aurora Lance Cannons** _(Standard Ship-Mounted Energy Weapons)_
+
+- **Function:** Fires concentrated **aurora plasma beams** that ionize upon impact, disrupting enemy shields and systems.
+- **Modes:**
+  - **Focused Beam**: High-precision for piercing heavy armor.
+  - **Pulse Mode**: Fires rapid bursts to overwhelm shields.
+- **Sky/Space/Ocean Adaptation:**
+  - Atmosphere: Beams create localized lightning effects.
+  - Space: Pure energy projection with no dissipation.
+  - Underwater: Beam compresses into **superheated particle streams** to maintain lethality.
+
+#### **⚡ Rift Disruptors** _(Anti-Shield Weapons)_
+
+- **Function:** Fires harmonic energy pulses that destabilize **rift-based defenses and teleportation systems**.
+- **Primary Use:** Weakens enemy shields before heavier weapons are deployed.
+- **Sky/Space/Ocean Adaptation:**
+  - Functions identically in all environments due to non-physical wave properties.
+
+#### **⚡ Prism Arc Turrets** _(Defensive/Point-Defense Weapons)_
+
+- **Function:** Fires refracted **light-energy projectiles** that home in on high-speed targets.
+- **Special Property:** Can bend mid-flight, allowing them to hit evasive enemies.
+- **Sky/Space/Ocean Adaptation:**
+  - Underwater, projectiles retain full speed by adjusting **particle density** in liquid environments.
+
+---
+
+### **2. Projectile and Kinetic Weapons**
+
+- Used when energy weapons are less effective or when dealing with environments that interfere with energy-based weaponry.
+
+#### **⚔️ Nova Torpedoes** _(Long-Range Multi-Environment Missiles)_
+
+- **Function:** Guided torpedoes that adjust their warheads based on the target’s armor type.
+- **Variants:**
+  - **Gravity-Tipped Nova Torpedoes**: Causes local distortions to weaken enemy hulls before detonation.
+  - **Shatterwave Nova Torpedoes**: Releases kinetic shockwaves instead of explosive force to break enemy formations.
+- **Sky/Space/Ocean Adaptation:**
+  - Adjusts propulsion: **thrusters for air/space, hydrojet for underwater.**
+
+#### **⚔️ Typhon Coilguns** _(Ship-Mounted Railguns)_
+
+- **Function:** Fires **magnetically accelerated slugs** capable of piercing most conventional armor.
+- **Sky/Space/Ocean Adaptation:**
+  - **Vacuum Mode**: High-velocity shells with minimal air resistance.
+  - **Atmosphere Mode**: Slightly slower but compensated with tracking assistance.
+  - **Underwater Mode**: Uses **cavitating rounds**, creating a bubble around the projectile to reduce drag.
+
+#### **⚔️ Shardstorm Scatter Cannons** _(Close-Quarters Ship Combat)_
+
+- **Function:** Fires **shattered crystallized plasma** that detonates on impact, ideal for crippling nearby enemies.
+- **Sky/Space/Ocean Adaptation:**
+  - Uses **adaptive dispersal**, maintaining effectiveness even when moving through different densities (air, vacuum, or water).
+
+---
+
+### **3. Specialized and Superweapon Systems**
+
+- Reserved for high-priority missions, large-scale conflicts, or fleet-wide operations.
+
+#### **☀️ Solar Halo Beam** _(Planetary and Capital Ship Weapon)_
+
+- **Function:** Fires a massive arc of **compressed stellar energy**, capable of carving through fleets or planetary defenses.
+- **Sky/Space/Ocean Adaptation:**
+  - Uses **atmospheric stabilization fields** to prevent energy loss.
+  - In **space**, the beam extends indefinitely until blocked by an object.
+  - Underwater, the **beam ionizes the surrounding water**, creating an **undersea shockwave** that devastates submarines.
+
+#### **☀️ Riftbreaker Array** _(Dimensional Anomaly Generator)_
+
+- **Function:** Creates temporary **dimensional instability**, disabling warp travel and trapping enemy fleets.
+- **Primary Use:** Used to counter fleeing opponents or prevent enemy reinforcements.
+
+#### **☀️ Leviathan Depthcharge** _(Planetary and Deep-Sea Combat)_
+
+- **Function:** A **dimensionally compressed warhead** that detonates in a **high-pressure energy pulse**, capable of wiping out deep-sea bases or cracking planetary crusts.
+- **Sky/Space/Ocean Adaptation:**
+  - In **space**, it becomes a superheated plasma bomb.
+  - In **atmosphere**, the explosion is diffused into an EMP blast.
+  - Underwater, it creates a crushing **tidal shockwave**.
+
+---
+
+### **4. Defensive and Countermeasures**
+
+- The Aurorian Armada balances offense with **cutting-edge defensive technologies**, ensuring maximum survivability.
+
+#### **🛡️ Harmonic Deflector Shields** _(Adaptive Energy Barriers)_
+
+- **Function:** Generates **multi-layered energy shields** that **adapt to incoming attacks** in real time.
+- **Sky/Space/Ocean Adaptation:**
+  - Reconfigures density to protect against different environmental pressures.
+  - Uses **hydro-resonance fields** to stabilize shields underwater.
+
+#### **🛡️ Mirage Hull Plating** _(Cloaking and Energy Dispersal)_
+
+- **Function:** Uses **light-bending technology** to render the ship partially invisible.
+- **Special Properties:**
+  - Reflects energy attacks.
+  - Can create **false signals** to mislead enemy scanners.
+- **Sky/Space/Ocean Adaptation:**
+  - Adjusts **frequency harmonics** to function in water or air without distortion.
+
+#### **🛡️ Rift-Jump Displacers** _(Emergency Evasion System)_
+
+- **Function:** Creates **short-range dimensional jumps**, allowing ships to phase out of danger.
+- **Limits:**
+  - Can only be used in bursts to prevent **dimensional instability.**
+  - Less effective in heavily distorted space.
+
+---
+
+### **5. Fleet-Wide Tactical Weapons**
+
+- Large ships **synchronize their weapon systems**, allowing the **Aurorian Armada** to function as a single **tactical organism** rather than independent vessels.
+
+#### **⚔️ Synchro-Wave Cannons** _(Fleet-Linking Artillery)_
+
+- **Function:** When multiple ships fire at once, their shots combine into a **single, massive pulse**, exponentially increasing damage.
+
+#### **☀️ Stellar Lock Grid** _(Orbital and Surface Targeting System)_
+
+- **Function:** A network of **synchronized targeting beacons** that allow all ships to fire with **pinpoint accuracy** over planetary distances.
+
+#### **🛡️ Harmonic Fleet Shield** _(Mass-Protection Barrier)_
+
+- **Function:** If one ship is critically damaged, its **shield energy can be redistributed** to other ships in the fleet.
+
+---
+
+### **Summary**
+
+The **Aurorian Armada** utilizes an **adaptive and interconnected weapon system**, designed to excel in **sky, space, and ocean environments**. Their technology focuses on:
+
+1. **Versatile Energy Weapons** (Aurora Lances, Rift Disruptors).
+2. **Advanced Projectile Systems** (Nova Torpedoes, Shardstorm Scatter Cannons).
+3. **Superweapons for Large-Scale Engagements** (Solar Halo Beam, Riftbreaker Array).
+4. **Fleet-Wide Defensive Networks** (Harmonic Shields, Mirage Hulls).
+
+Would you like to focus on a specific class of ship and how it integrates these weapons into battle strategies?
