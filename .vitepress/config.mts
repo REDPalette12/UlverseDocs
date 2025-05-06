@@ -109,6 +109,10 @@ export default defineConfig({
                 link: "/species/shared_ulverse_traits",
               },
               {
+                text: "Ulversian Healing",
+                link: "/species/ulverse_healing",
+              },
+              {
                 text: "Ulverse Hybrids",
                 link: "/species/ulverse_hybrids",
               },
@@ -439,6 +443,10 @@ export default defineConfig({
               { text: "Machina Aeternum", link: "/locations/mechcity" },
             ],
           },
+          {
+            text: "S.O.L.A.R.I.S Stations",
+            link: "/locations/solaris_stations",
+          },
         ],
       },
       {
@@ -461,6 +469,10 @@ export default defineConfig({
         collapsed: true,
         items: [
           {
+            text: "Currency",
+            link: "/culture/currency",
+          },
+          {
             text: "Ulversian calendar",
             link: "/culture/calendar",
           },
@@ -468,6 +480,10 @@ export default defineConfig({
             text: "Birth Traditions",
             collapsed: true,
             items: [
+              {
+                text: "'Birthdays'",
+                link: "/culture/birthdays",
+              },
               {
                 text: "Twin Births",
                 link: "/culture/twins",
@@ -510,6 +526,14 @@ export default defineConfig({
                 link: "/culture/xeyara",
               },
             ],
+          },
+          {
+            text: "Legal Systems",
+            link: "/culture/legal_systems",
+          },
+          {
+            text: "Basic Etiquette",
+            link: "/culture/etiquette",
           },
         ],
       },

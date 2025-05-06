@@ -102,61 +102,7 @@ The _Astraeus_ is staffed by a handpicked team of specialists from various depar
 
 ### **Core Crew Members**
 
-#### **1. Dr. Aelina Corva**
-
-- **Role:** Lead Biologist and Ecological Specialist
-- **Specialization:** Alien flora and fauna, ecosystem restoration.
-- **Description:** Aelina is a calm and meticulous scientist who specializes in studying life forms from different universes. Her insights are invaluable when encountering unfamiliar biomes or specimens. She’s often found in the greenhouse wing, tending to samples of alien plants.
-
----
-
-#### **2. Tovrin Velis**
-
-- **Role:** Chief Engineer
-- **Specialization:** Cosmora Crystal energy systems, warp stabilizers, and ship maintenance.
-- **Description:** A reserved yet brilliant mechanic, Tovrin ensures the _Astraeus_ remains operational under any condition. His tools are custom-made, and he is one of the few who can repair Cosmora energy systems on the fly. Despite his quiet demeanor, he enjoys exchanging ideas with Voltt on mechanical innovations.
-
----
-
-#### **3. Cyra Dain**
-
-- **Role:** Navigation Expert and Multiversal Cartographer
-- **Specialization:** Rift mapping, star charts, and gravitational field dynamics.
-- **Description:** Cyra is the navigator responsible for plotting courses through the Multiversal Highways. Her sharp instincts and mathematical prowess make her indispensable, especially during challenging warp jumps. She is a thrill-seeker at heart and often takes personal submersibles for solo expeditions.
-
----
-
-#### **4. Eryk "Patch" Dreyvon**
-
-- **Role:** Security Specialist
-- **Specialization:** Glitch containment and defensive protocols.
-- **Description:** Eryk, nicknamed "Patch," was recruited for his expertise in countering glitches and anomalies. Armed with a variety of containment devices, he ensures that the ship and its crew are safe during risky missions. His stoic personality hides a dry sense of humor that occasionally surprises his colleagues.
-
----
-
-#### **5. Lyssa Quorrin**
-
-- **Role:** Energy Researcher
-- **Specialization:** VORTEX derivatives and alternative energy solutions.
-- **Description:** Lyssa is an energetic and inquisitive scientist who specializes in volatile energy studies. She oversees the experiments conducted in the Energy Research Chamber and has a reputation for pushing technological boundaries—sometimes to the discomfort of her peers.
-
----
-
-#### **6. Zeylan Morek**
-
-- **Role:** Communications Officer and Linguist
-- **Specialization:** Inter-universal languages, including Javaxian and Ancient Ulversian.
-- **Description:** Zeylan ensures the ship remains connected to its base on the Ulverse Isles and can communicate with alien cultures. He is charismatic and empathetic, often serving as the crew’s unofficial morale officer.
-
----
-
-#### **7. Kora Fynn**
-
-- **Role:** Pilot and Flight Specialist
-- **Specialization:** Aerial maneuvering, submersible controls, and emergency navigation.
-- **Description:** Kora is a fearless pilot who takes immense pride in her ability to handle the _Astraeus_ in high-pressure situations. She is fiercely loyal to the crew and frequently tests the ship’s capabilities during missions.
-
----
+#
 
 ### **Construction and Planning of the _Astraeus_**
 
@@ -179,55 +125,138 @@ The ship’s hull was constructed from **Spectrite Alloy**, chosen for its durab
 
 ---
 
-### **Operational Use:**
+**NAME: Astraeus** \
+Model Class: AR-12-19 (Astraeus RED-12-Mark 19) \
+Designation/Registry Code: Command/Research Vessel \
+Type: Yacht \
+Affiliation/Faction: [Aurorian Armada](./a_armada) \
+Manufacturer: Research Department Production Team \
+Introduced:
 
-Since its maiden voyage, the _Astraeus_ has been involved in:
+---
+
+## SPECIFICATIONS
+
+Length: \
+Beam (Width): \
+Height: \
+Mass: \
+Hull Composition: \
+Armor Rating: \
+Shielding System: \
+Power Core:
+
+---
+
+## PROPULSION
+
+Sublight Engines:
+
+- [G.R.A.V Engines](/docs/technology/gravengine)
+- [AQUA G.R.A.V Engines](/docs/technology/aquagravengines) \
+
+Warp Drive Type:
+
+- [R.I.F.T SYNC' Drive](/docs/technology/riftsync)
+- [F.R.A.C.T.A.L Drive](/docs/technology/fractaldrive)
+
+---
+
+## ARMAMENT
+
+Primary Weapons: \
+Secondary Weapons: \
+Point Defense Systems: \
+Missile Systems: \
+Turret Coverage:
+
+---
+
+## CREW & CAPACITY
+
+Standard Crew Complement: 50-100 Individuals \
+Key Crew Members: \
+**Dr. Aelina Corva**
+
+- **Role:** Lead Biologist and Ecological Specialist
+- **Specialization:** Alien flora and fauna, ecosystem restoration.
+- **Description:** Aelina is a calm and meticulous scientist who specializes in studying life forms from different universes. Her insights are invaluable when encountering unfamiliar biomes or specimens. She’s often found in the greenhouse wing, tending to samples of alien plants.
+
+---
+
+**Tovrin Velis**
+
+- **Role:** Chief Engineer
+- **Specialization:** Cosmora Crystal energy systems, warp stabilizers, and ship maintenance.
+- **Description:** A reserved yet brilliant mechanic, Tovrin ensures the _Astraeus_ remains operational under any condition. His tools are custom-made, and he is one of the few who can repair Cosmora energy systems on the fly. Despite his quiet demeanor, he enjoys exchanging ideas with Voltt on mechanical innovations.
+
+---
+
+**Cyra Dain**
+
+- **Role:** Navigation Expert and Multiversal Cartographer
+- **Specialization:** Rift mapping, star charts, and gravitational field dynamics.
+- **Description:** Cyra is the navigator responsible for plotting courses through the Multiversal Highways. Her sharp instincts and mathematical prowess make her indispensable, especially during challenging warp jumps. She is a thrill-seeker at heart and often takes personal submersibles for solo expeditions.
+
+---
+
+**Eryk "Patch" Dreyvon**
+
+- **Role:** Security Specialist
+- **Specialization:** Glitch containment and defensive protocols.
+- **Description:** Eryk, nicknamed "Patch," was recruited for his expertise in countering glitches and anomalies. Armed with a variety of containment devices, he ensures that the ship and its crew are safe during risky missions. His stoic personality hides a dry sense of humor that occasionally surprises his colleagues.
+
+---
+
+**Lyssa Quorrin**
+
+- **Role:** Energy Researcher
+- **Specialization:** VORTEX derivatives and alternative energy solutions.
+- **Description:** Lyssa is an energetic and inquisitive scientist who specializes in volatile energy studies. She oversees the experiments conducted in the Energy Research Chamber and has a reputation for pushing technological boundaries—sometimes to the discomfort of her peers.
+
+---
+
+**Zeylan Morek**
+
+- **Role:** Communications Officer and Linguist
+- **Specialization:** Inter-universal languages, including Javaxian and Ancient Ulversian.
+- **Description:** Zeylan ensures the ship remains connected to its base on the Ulverse Isles and can communicate with alien cultures. He is charismatic and empathetic, often serving as the crew’s unofficial morale officer.
+
+---
+
+**Kora Fynn**
+
+- **Role:** Pilot and Flight Specialist
+- **Specialization:** Aerial maneuvering, submersible controls, and emergency navigation.
+- **Description:** Kora is a fearless pilot who takes immense pride in her ability to handle the _Astraeus_ in high-pressure situations. She is fiercely loyal to the crew and frequently tests the ship’s capabilities during missions.
+
+--- \
+Passenger Capacity: \
+Troop Capacity: \
+Hangar Bays:
+
+---
+
+## SENSORS & SYSTEMS
+
+Sensor Suite: \
+Stealth Systems: \
+AI/Computing Core: \
+Communication Systems: \
+Emergency Systems:
+
+---
+
+## OPERATIONAL NOTES
+
+Known Roles:
 
 - Mapping unknown universes and documenting anomalies.
 - Transporting critical research samples and equipment.
 - Assisting in emergency planetary evacuations.
 - Containing glitches and other universal instabilities.
+- Use as a Command Vessel
 
-Would you like to expand on the crew’s dynamics, notable missions, or any unique incidents aboard the _Astraeus_?
-
-### **Crew Dynamics aboard the _Astraeus_**
-
-The _Astraeus_ crew operates like a tightly-knit family, each member bringing their own unique flair and skills to the table. Their dynamics are shaped by mutual respect, friendly banter, and shared experiences on high-stakes missions.
-
----
-
-#### **Dynamics Between Core Members**
-
-1. **Red Palette and Tovrin Velis:**
-
-   - Tovrin greatly admires Red Palette’s vision and often collaborates with him on cutting-edge upgrades for the _Astraeus_. Red values Tovrin’s technical expertise but occasionally nudges him to think more creatively. Their relationship is built on a mix of mentorship and camaraderie.
-
-2. **Cyra Dain and Kora Fynn:**
-
-   - As navigator and pilot, their synergy is unmatched. Cyra’s precise calculations and Kora’s daring maneuvers complement each other perfectly. They share a playful rivalry, constantly trying to outdo each other’s predictions and instincts during challenging missions.
-
-3. **Dr. Aelina Corva and Lyssa Quorrin:**
-
-   - Aelina’s cautious and methodical approach often clashes with Lyssa’s bold, experimental mindset. Despite their differences, their contrasting styles often lead to breakthroughs when they’re forced to work together.
-
-4. **Eryk "Patch" Dreyvon and Zeylan Morek:**
-
-   - Zeylan’s gregarious nature contrasts sharply with Patch’s stoicism. Zeylan often tries to draw Patch into light-hearted conversations, with limited success. However, they work seamlessly in crises, where Patch’s calm demeanor balances Zeylan’s quick thinking.
-
-5. **Tovrin Velis and Kora Fynn:**
-   - Tovrin is one of the few people allowed in Kora’s personal domain—the ship’s control hub. Their bond is rooted in mutual respect, as Kora depends on Tovrin to keep the _Astraeus_ in peak condition.
-
----
-
-#### **Crew Dynamics During Missions**
-
-- **Morning Briefings:**  
-  Red Palette leads concise yet inspiring morning briefings, often punctuated by witty remarks to lighten the mood.  
-
-- **Relaxation Time:**  
-  The _Astraeus_ has a common room where crew members unwind after missions. Board games, debates about universal phenomena, and impromptu storytelling sessions are common.
-
-- **High-Stakes Moments:**  
-  The crew’s diverse skill sets shine during emergencies, with each member intuitively stepping into their role. Tovrin handles repairs, Kora pilots them out of danger, and Aelina provides medical aid when needed.
-
----
+  Famous Missions/Engagements: \
+  Notable Modifications: \
+  Limitations/Weaknesses:

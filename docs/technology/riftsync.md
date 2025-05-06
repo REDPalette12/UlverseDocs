@@ -5,4 +5,5 @@
 - **Key Features:**
   - Enables **near-instant jumps** within a universe.
   - Can perform **short-range "blink jumps"** for evasion or repositioning.
+  - Can be used as a G.A.T.E TETHER Drive
 - **Limitation:** Requires constant **calibration to prevent Warp Drift misalignment**.

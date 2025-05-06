@@ -706,3 +706,35 @@ In the ancient Ulversian style, glyphs were:
 
 - Glyphs are usually **engraved as continuous flow-forms** — stylized to look like **unbroken light threads**.
 - Often carved into **energy metals**, **woven into lightcloth**, or projected via **threadlight readers**.
+
+# ⏳ **3. How Time is Measured in the Ulverse**
+
+Because the Ulverse Isles orbit **the Ulverse Core**, traditional planetary time cycles (like Earth’s day-night system) don't apply. Instead, Ulversians use a **time system tied to energy flows and cosmic alignments**.
+
+---
+
+## **Time Measurement Units**
+
+| **Unit Name** | **Equivalent**     | **Notes**                                                                   |
+| ------------- | ------------------ | --------------------------------------------------------------------------- |
+| **Pulse**     | ~1 second          | Smallest unit, marked by standard core beats.                               |
+| **Flow**      | ~1 minute          | 60 Pulses.                                                                  |
+| **Current**   | ~1 hour            | 60 Flows.                                                                   |
+| **Arc**       | ~1 day equivalent  | A full minor cycle of the Ulverse Core’s energy bloom.                      |
+| **Spiral**    | ~1 year equivalent | Time it takes for an Isle to complete a full weave around the Ulverse Core. |
+
+---
+
+### **Example of Ulversian Timekeeping:**
+
+- "Meet me in **12 Flows** at the Skyport." (Meet me in about 12 minutes.)
+- "It’s been **five Spirals** since the Last Threadfall Festival." (Five years have passed.)
+
+---
+
+## **Calendrical Events**
+
+- **Bloom Festivals** are held every **half-spiral** (about every 6 months) to celebrate the Core’s renewal pulses.
+- **Coreharmonics** are celebrated at the completion of a **Spiral**, considered a time of reflection and rejuvenation.
+
+---

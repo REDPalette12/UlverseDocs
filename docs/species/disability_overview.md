@@ -379,3 +379,135 @@ Would you like to explore these conditions further or design specific characters
    - A Watcher tasked with monitoring hidden communication channels and detecting energy-based intrusions. His Flux Regulators are tailored to highlight minute fluctuations in electromagnetic fields.
 
 Would you like to delve into the origins of EMFS, its societal impacts, or how it relates to technological advancements in the Ulverse?
+
+### **1. Astral Spectrum Drift**
+
+- **Condition:** An eye condition where individuals perceive overlapping dimensions simultaneously, leading to disorientation and blurred vision.
+- **Spectacle Function:** The lenses filter dimensional interference, allowing the wearer to focus on their current dimension.
+- **Design:** Iridescent lenses that shift colors depending on the dimension being filtered, set in sleek metallic frames.
+
+---
+
+### **2. Starflare Glare Syndrome**
+
+- **Condition:** A sensitivity to starlight caused by prolonged exposure to high-energy celestial phenomena. Without protection, sufferers see constant flares and halos around light sources.
+- **Spectacle Function:** Anti-glare and polarizing lenses that also adjust to brightness automatically.
+- **Design:** Matte frames with small embedded Cosmora crystals for adaptive filtering.
+
+---
+
+### **3. Void Encroachment Disorder**
+
+- **Condition:** Exposure to Void energy causes individuals to see fragmented or inverted visuals, creating a disorienting kaleidoscope effect.
+- **Spectacle Function:** Void-resistant lenses that stabilize visual perception and negate Void interference.
+- **Design:** Black frames with faintly glowing veins of void-resistant material, often designed to match the personality of the wearer.
+
+---
+
+### **4. Temporal Overlap Vision**
+
+- **Condition:** The ability to see moments from the past and future simultaneously, which can overwhelm the brain and cause migraines.
+- **Spectacle Function:** Temporal dampening lenses that help focus on the present while allowing controlled glimpses of other timelines.
+- **Design:** Clockwork-inspired frames with rotating, adjustable lenses engraved with tiny runes.
+
+---
+
+### **5. Prismatica Anomaly**
+
+- **Condition:** A rare genetic mutation where individuals see the world as fragmented shards of color, like a broken kaleidoscope.
+- **Spectacle Function:** Prism-aligning lenses that reconstruct visual input into a coherent image.
+- **Design:** Color-shifting frames with gem-like accents, resembling prisms themselves.
+
+---
+
+### **6. Lightwave Overload Syndrome**
+
+- **Condition:** An enhanced sensitivity to wavelengths of light, causing even normal daylight to appear as blinding bursts.
+- **Spectacle Function:** Multi-spectrum filtering lenses that adjust automatically based on the intensity and wavelength of incoming light.
+- **Design:** Lightweight frames with a futuristic look, featuring embedded circuits to power the adaptive filters.
+
+---
+
+### **7. Quantum Mirage Vision**
+
+- **Condition:** Individuals see multiple quantum possibilities of an object simultaneously, making it hard to distinguish reality.
+- **Spectacle Function:** Quantum stabilizers embedded in the lenses that reduce the probability fluctuations visible to the wearer.
+- **Design:** Sleek frames with an ethereal glow, inscribed with quantum patterns that seem to shift subtly.
+
+---
+
+### **8. Shadowvein Imbalance**
+
+- **Condition:** A rare condition where individuals perceive shadows as living, moving entities, often distracting or frightening.
+- **Spectacle Function:** Shadow-dampening lenses that suppress shadow perception without impacting normal sight.
+- **Design:** Dark, ornate frames with gothic engravings, often favored for their dramatic aesthetic.
+
+---
+
+### **9. Emotion-Linked Sight**
+
+- **Condition:** Emotions are visually projected onto the environment, with anger causing red hues, sadness creating a blue tint, etc.
+- **Spectacle Function:** Emotion-neutralizing lenses that filter out the color shifts and maintain a balanced visual spectrum.
+- **Design:** Circular lenses with subtle color gradations, housed in neutral-colored frames for calming effect.
+
+---
+
+### **10. Magnochromatic Myopia**
+
+- **Condition:** Individuals can only see in hues of a single color, varying from person to person, due to a unique ocular mutation.
+- **Spectacle Function:** Chromatic equalizers that reconstruct a full-color spectrum from the wearer’s limited perception.
+- **Design:** Frames with a rainbow-like sheen, often custom-tailored to the wearer’s personal aesthetic.
+
+---
+
+Would you like to explore these conditions further or design specific characters or notable users for these devices?
+
+### **Electromagnetic Flux Sensitivity (EMFS)**
+
+- **Condition:**  
+  Individuals with this condition perceive electromagnetic fields as vivid, shifting patterns of light and energy overlaying their normal vision. While this ability can sometimes be helpful for detecting energy sources or disturbances, it often becomes overwhelming and disorienting, especially in areas with high electromagnetic activity, such as cities or near machinery.
+
+- **Symptoms:**
+  - Bright, swirling visuals that can obscure physical surroundings.
+  - Intense migraines and nausea in high-EM field areas.
+  - Difficulty focusing on solid objects due to the persistent overlay of energy patterns.
+
+---
+
+### **Spectacle Solution: Flux Regulators**
+
+- **Function:**  
+  These specialized spectacles stabilize the wearer’s perception of electromagnetic fields, reducing interference and allowing the wearer to focus on the physical world. The lenses can also toggle modes to enhance or suppress the visibility of specific EM frequencies for practical use.
+
+- **Features:**
+
+  - **Field Stabilization:** Diminishes the intensity of perceived electromagnetic waves.
+  - **Frequency Toggle:** Allows the wearer to selectively amplify certain fields for utility purposes, such as detecting hidden machinery or weak signals.
+  - **Energy Shielding:** Protects the wearer from prolonged exposure to intense electromagnetic radiation.
+
+- **Design:**  
+  Sleek, futuristic frames crafted from energy-conductive materials. The lenses have a faint, shifting glow, resembling polarized glass that changes based on the environment's electromagnetic activity. Tiny dials or touch-sensitive pads on the arms of the spectacles let the wearer adjust the filtering strength or toggle modes.
+
+---
+
+### **Cultural Significance:**
+
+- Some individuals with EMFS have embraced the condition, becoming technicians, engineers, or explorers. Their natural ability to perceive electromagnetic fields, when harnessed with proper tools, makes them uniquely adept at identifying energy disruptions, finding hidden tech, or navigating environments saturated with electromagnetic activity.
+- The condition has also led to niche fashion trends, with wearers of Flux Regulators often designing frames to match their personal styles while maintaining functionality.
+
+---
+
+### **Notable Wearers:**
+
+1. **Voltt (Development Head):**
+
+   - Voltt himself may have a milder version of this condition, which inspired the creation of early Flux Regulators. His mastery of electromagnetic manipulation allowed him to refine the spectacles for both utility and style.
+
+2. **Lia Veilbright (Energy Tracker):**
+
+   - A renowned adventurer and energy specialist who uses her EMFS and Flux Regulators to trace power surges and anomalies across the Ulverse Isles, often uncovering lost technologies.
+
+3. **Kalen Sparks (Security Operative):**
+   - A Watcher tasked with monitoring hidden communication channels and detecting energy-based intrusions. His Flux Regulators are tailored to highlight minute fluctuations in electromagnetic fields.
+
+Would you like to delve into the origins of EMFS, its societal impacts, or how it relates to technological advancements in the Ulverse?
