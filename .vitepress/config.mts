@@ -363,6 +363,10 @@ export default defineConfig({
             ],
           },
           { text: "T.H.R.E.A.D.E Network", link: "/technology/threaden" },
+          {
+            text: "Illegal Ship Upgrades",
+            link: "/technology/illegal_upgrades",
+          },
         ],
       },
       {
@@ -481,6 +485,10 @@ export default defineConfig({
             collapsed: true,
             items: [
               {
+                text: "Births",
+                link: "/culture/births",
+              },
+              {
                 text: "'Birthdays'",
                 link: "/culture/birthdays",
               },
@@ -511,7 +519,15 @@ export default defineConfig({
             ],
           },
           { text: "Coming of age Traditions", items: [] },
-          { text: "Marriage Traditions", items: [] },
+          {
+            text: "Marriage Traditions",
+            items: [
+              {
+                text: "Proposal Traditions",
+                link: "/culture/proposals",
+              },
+            ],
+          },
           { text: "Festivals and Holidays", items: [] },
           {
             text: "Greetings and Introductions",

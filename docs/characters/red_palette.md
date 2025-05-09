@@ -70,3 +70,21 @@ Red Palette used the quill to develop a spell format called **Lightweaving**, wh
 
 - This innovation transformed how Ulversians approached magic, merging intellect with adaptability.
 - Red Palette’s combination of tools became an aspirational standard for mages who seek to blend creativity with raw power.
+
+### **Red Palette and Insight Overload Disorder**
+
+- **Afflicted Individual**: Red Palette, the head of the **Research Department**, is one of the most famous Ulverse Elves with Insight Overload Disorder.
+
+- **Adaptation**:
+
+  - He wears his custom **Dampening Spectacles**, intricately crafted with starstone lenses and nebula ore frames. These spectacles filter excessive energy, allowing him to control the flow of insights.
+  - While wearing the spectacles, he can toggle the level of insight depending on the task, though it’s still taxing to use for long periods.
+
+- **Reputation**:
+
+  - Red Palette is both admired and feared for his ability to "see through" people and objects.
+  - His disorder makes him an unparalleled researcher and artifact analyst, as he can instantly discern the properties and history of magical items.
+
+- **Drawbacks in Leadership**:
+  - His disorder sometimes activates during social interactions, unintentionally revealing private details about his colleagues, which has strained relationships in the past.
+  - This has led him to adopt a solitary lifestyle, focusing on his work while avoiding large gatherings or overly emotional situations.

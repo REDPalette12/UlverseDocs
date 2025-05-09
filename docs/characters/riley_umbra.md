@@ -1,38 +1,41 @@
 ## **Basic Information**
 
-**Full Name:** Riley Umbra
-**Nickname(s)/Alias(es):** Lord of the void, Commander of Shadows, Ruler of Darkness, Shadow
-**Age:** Unknown
-**Date of Birth:** Unknown
-**Species:** Void Being
-**Gender & Pronouns:**
-**Sexuality:**
+**Full Name:**
+Riley Umbra \
+**Nickname(s)/Alias(es):** \
+Lord of the void, Commander of Shadows, Ruler of Darkness, Shadow \
+**Age:** Unknown \
+**Date of Birth:** Unknown \
+**Species:** Void Being \
+**Gender & Pronouns:** \
+**Sexuality:** \
 **Nationality/Ethnicity:**
 
 ## **Physical Appearance**
 
-**Height:**
-**Weight:**
-**Eye Color:** Purple
-**Hair Color & Style:** Black
-**Skin Tone:**
+**Height:** \
+**Weight:** \
+**Eye Color:** Purple \
+**Hair Color & Style:** Black \
+**Skin Tone:** \
 **Distinguishing Features:**
 
 - Pure black sclera with glowing purple irises and slit pupils
-  **Typical Clothing Style:**
+
+**Typical Clothing Style:**
 
 ## **Personal Information**
 
 **Personality:**
-Thinks people are below him, rarely respects them unless he has deemed them worthy.
-**Strengths:**
-**Weaknesses:**
-**Fears/Phobias:**
-**Hobbies & Interests:**
-**Likes:**
-**Dislikes:**
+Thinks people are below him, rarely respects them unless he has deemed them worthy. Despite this, he does care for existence and despises liars, especially those whose lies cause harm to many others. He tends to harshly punish those who cause great destruction or harm through their lies. If anyone picks a fight with him he tends to mess with them first before showing them how weak they are in comparison, however due to his shadow sight ability he is able to very accuratly discern another's strength. \
+**Strengths:** \
+**Weaknesses:** \
+**Fears/Phobias:** \
+**Hobbies & Interests:** \
+**Likes:** \
+**Dislikes:** \
 
-## **Abilities & Skills**
+## **Abilities & Skills** \
 
 **Powers/Special Abilities :**
 
