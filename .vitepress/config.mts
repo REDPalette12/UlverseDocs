@@ -66,10 +66,8 @@ export default defineConfig({
           { text: "Aven Noa", link: "/characters/aven_noa" },
           { text: "Veyron Kael", link: "/characters/veyron_kael" },
           { text: "Veylan Solivis", link: "/characters/veylan_solivis" },
-          {
-            text: "Lyra Calwen",
-            link: "/characters/lyra_calwen",
-          },
+          { text: "Lyra Calwen", link: "/characters/lyra_calwen" },
+          { text: "Praxion", link: "/characters/praxion" },
           // {
           //   text: "Ship Crew",
           //   collapsed: true,
@@ -152,6 +150,10 @@ export default defineConfig({
               {
                 text: "Universal Errors",
                 link: "/docs/species/universalerrors",
+              },
+              {
+                text: "The Fractal Host",
+                link: "/species/fractal_host",
               },
             ],
           },
@@ -445,6 +447,10 @@ export default defineConfig({
             items: [
               { text: "Cities", link: "/locations/cities" },
               { text: "Machina Aeternum", link: "/locations/mechcity" },
+              {
+                text: "The Bastion Fracture",
+                link: "/locations/bastion_fracture",
+              },
             ],
           },
           {
