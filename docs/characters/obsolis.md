@@ -1,3 +1,73 @@
+## **Basic Information**
+
+**Full Name:**
+\
+**Nickname(s)/Alias(es):** \
+ \
+**Age:** \
+**Date of Birth:** \
+**Species:** \
+**Gender & Pronouns:** \
+**Sexuality:** \
+**Nationality/Ethnicity:**
+
+## **Physical Appearance**
+
+**Height:** \
+**Weight:** \
+**Eye Color:** \
+**Hair Color & Style:** \
+**Skin Tone:** \
+**Distinguishing Features:**
+
+**Typical Clothing Style:**
+
+## **Personal Information**
+
+**Personality:**
+
+**Strengths:** \
+
+**Weaknesses:** \
+
+**Fears/Phobias:** \
+
+**Hobbies & Interests:** \
+
+**Likes:** \
+
+**Dislikes:** \
+
+## **Abilities & Skills** \
+
+## **Powers/Special Abilities :**
+
+**Combat Skills :**
+
+- **Talents/Professions:**
+- **Weapons/Equipment :**
+-
+
+## **Social & Background Information**
+
+**Job/Role in Society:**
+**Home/Place of Residence:**
+**Family Members:**
+
+**Friends/Allies:**
+
+**Rivals/Enemies:**
+
+**Love Interest(s):**
+
+## **Backstory**
+
+(A brief or detailed summary of the character’s history, including major life events and how they became who they are.)
+
+## **Additional Notes**
+
+(Anything extra that doesn't fit into the categories above.)
+
 ### **The Harbinger of the End: Obsolis, The Cosmic Unmaker**
 
 **Obsolis** is a being of immense power and neutrality, tasked with a role that many find unthinkable yet essential: the destruction of universes that are beyond saving. When a universe falls into irreversible decay—whether from entropy, unchecked void corruption, or systemic instability—it is Obsolis who ensures its end, making way for new creation and balance within the Ulverse.

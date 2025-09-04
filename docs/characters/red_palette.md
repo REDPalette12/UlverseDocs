@@ -4,50 +4,58 @@ outline: [2, 3]
 
 ## **Basic Information**
 
-- **Full Name:** Red Palette
-- **Nickname(s)/Alias(es):**
-- **Age:**
-- **Date of Birth:**
-- **Species:** Ulverse Elf
-- **Gender & Pronouns:** Male
-- **Sexuality:**
-- **Nationality/Ethnicity:**
+**Full Name:** Verashel Palette (C-T3-RC) \
+**Nickname(s)/Alias(es):** Red (Used Most), Rosso, Ruby, Rouge, Rose, Ru, Po (Short for Poppy) \
+**Age:** \
+**Date of Birth:** \
+**Species:** Ulverse Elf \
+**Gender & Pronouns:** Male form Currently (did live in a female form for some time when younger) \
+**Sexuality:** \
+**Nationality/Ethnicity:**
 
 ## **Physical Appearance**
 
-- **Height:**
-- **Weight:**
-- **Eye Color:**
-- **Hair Color & Style:**
-- **Skin Tone:**
-- **Distinguishing Features:**
-- **Typical Clothing Style:**
+**Height:** \
+**Weight:** \
+**Eye Color:**Chocolate brown \
+**Hair Color & Style:** \
+**Skin Tone:** \
+**Distinguishing Features:**
+
+- The Sukanime Vyren Sigil
+  **Typical Clothing Style:**
 
 ## **Personal Information**
 
-- **Personality:**
-- **Strengths:**
-- **Weaknesses:**
-- **Fears/Phobias:**
-- **Hobbies & Interests:**
-- **Likes:**
-- **Dislikes:**
+**Personality:** \
+**Strengths:** \
+**Weaknesses:** \
+**Fears/Phobias:** \
+**Hobbies & Interests:** \
+**Likes:** \
+**Dislikes:**
 
 ## **Abilities & Skills**
 
-- **Powers/Special Abilities:**
-- **Combat Skills:**
-- **Talents/Professions:**
-- **Weapons/Equipment:** Custom-made Staff of the Eternal Lamp, Custom-made Luminous Quill
+**Powers/Special Abilities:** \
+**Combat Skills:** \
+**Talents/Professions:** \
+**Weapons/Equipment:**
+
+- Custom-made Staff of the Eternal Lamp
+- Custom-made Luminous Quill
 
 ## **Social & Background Information**
 
-- **Job/Role in Society:**
-- **Home/Place of Residence:**
-- **Family Members:**
-- **Friends/Allies:**
-- **Rivals/Enemies:**
-- **Love Interest(s):**
+**Job/Role in Society:** \
+Head of the UCDA Research Department, Supreme Commander and Creator of the Aurorian Armada
+**Home/Place of Residence:** \
+**Family Members:**
+
+- [Lyra Calwen](./lyra_calwen) (younger adoptive sister)
+  **Friends/Allies:** \
+  **Rivals/Enemies:** \
+  **Love Interest(s):**
 
 ## **Backstory**
 

@@ -1,7 +1,7 @@
 ## **Basic Information**
 
 **Full Name:**
-Riley Umbra \
+Riley Umbra (A-T1-OU) \
 **Nickname(s)/Alias(es):** \
 Lord of the void, Commander of Shadows, Ruler of Darkness, Shadow \
 **Age:** Unknown \
@@ -15,25 +15,31 @@ Lord of the void, Commander of Shadows, Ruler of Darkness, Shadow \
 
 **Height:** \
 **Weight:** \
-**Eye Color:** Purple \
-**Hair Color & Style:** Black \
+**Eye Colour:** Purple \
+**Hair Colour & Style:** Black \
 **Skin Tone:** \
 **Distinguishing Features:**
 
 - Pure black sclera with glowing purple irises and slit pupils
+- Always wears the Umbra Family crest(rotated with his third pointing up) somewhere on his person as a show of family love and pride
 
 **Typical Clothing Style:**
+
+- Business attire
 
 ## **Personal Information**
 
 **Personality:**
-Thinks people are below him, rarely respects them unless he has deemed them worthy. Despite this, he does care for existence and despises liars, especially those whose lies cause harm to many others. He tends to harshly punish those who cause great destruction or harm through their lies. If anyone picks a fight with him he tends to mess with them first before showing them how weak they are in comparison, however due to his shadow sight ability he is able to very accuratly discern another's strength. \
+Thinks people are below him, rarely respects them unless he has deemed them worthy. Despite this, he does care for existence and despises liars, especially those whose lies cause harm to many others. He tends to harshly punish those who cause great destruction or harm through their lies. If anyone picks a fight with him he tends to mess with them first before showing them how weak they are in comparison, however due to his 'All Seeing Shadow' ability he is able to very accurately discern another's strength. \
 **Strengths:** \
 **Weaknesses:** \
 **Fears/Phobias:** \
 **Hobbies & Interests:** \
-**Likes:** \
-**Dislikes:** \
+**Likes:**
+
+- Tea, all kinds, but particularly enjoys \
+  **Dislikes:**
+- Liars \
 
 ## **Abilities & Skills** \
 
@@ -48,7 +54,6 @@ Thinks people are below him, rarely respects them unless he has deemed them wort
 - Shadow leech
 - Shadow disguise
 - Shadow intimidation
-- Shadow sight
 - Shadow barrier
 - Shadow foresight
 - Shadow stealth
@@ -62,6 +67,7 @@ Thinks people are below him, rarely respects them unless he has deemed them wort
 - Shadow paralysis
 - Shadow realm control
 - Shadow control
+- 'All Seeing Shadow'
 - Invisibility
 - Intangibility
 - Immortality
@@ -109,13 +115,14 @@ Thinks people are below him, rarely respects them unless he has deemed them wort
 ## **Social & Background Information**
 
 **Job/Role in Society:**
-**Home/Place of Residence:**
+Aspharion of Fear and Void \
+**Home/Place of Residence:** \
 **Family Members:**
 
   <!-- `./*` is in the same folder (`/docs/characters/*`), `../*` is back a folder (`/docs/*) -->
 
 - [Melaina Umbra](./melaina_umbra) (younger sister)
-- [Ozul Umbra](./ozul_umbra) (youngest sibling)
+- [Ozul Umbra](./ozul_umbra) (youngest sibling) \
   **Friends/Allies:**
 - [Red Pallette](./red_palette)
 - Riley Lan
@@ -128,6 +135,11 @@ Thinks people are below him, rarely respects them unless he has deemed them wort
 
 ## **Additional Notes**
 
-(Anything extra that doesn't fit into the categories above.)
+Has three forms, his human 'Shell' Form, his 'Distortion' Form and his True form. \
+To transition from his 'Shell' Form to his 'Distortion' Form he tears his Sealing core from his chest, and his human 'shell' breaks in half and crumbles away, leaving his distortion form.
+While in his distortion form he retains his human shape but gains his true form's 'shadow' appearance, only his eyes being visible. His main attack while in this form is a mass of hand-Like,
+shadow appendages that he creates from his shadow body. While in this form he is more aggressive and is usually very narrow minded, not stopping his attack until his target is destroyed. \
+When he first had his void energy sealed within his Sealing Core he was an emotionless being and had to learn about the world around him, similar to a child despite having all the memories of when he was just The Void.
+It took a while but he eventually got to the point where he understood basic emotions and how to interact with people. He still struggles to this day to discern feelings of love, friendship, happiness and other positive emotions due to the nature of The Void being essentially Anti-matter and as such is the 'negative' imprint of reality. This is shown by the fact that he still has a distain for people and the fact that he has very few people that he connects with or gets along with.
 
 ---

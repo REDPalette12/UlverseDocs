@@ -6,74 +6,70 @@ The Aspharions are entities of immense power and ancient origin, each a manifest
 
 ## **Titles and Hierarchy**
 
-- Each Aspharion bears the formal title **"Eidolon of [Concept]"** to denote their dominion.
-  - Example: Umbra, the **Eidolon of Void and Fear**.
+- Each Aspharion bears the formal title **"Valaryn of [Concept]"** to denote their dominion.
+  - Example: Umbra, the **Valaryn of Void and Fear**.
 - Collectively, they are referred to as **"The Concord of Aspharions."**
 
 ---
 
 ## **The Role of the Aspharions**
 
-- **Guardians of Balance**: Each Aspharion is tethered to their respective concept, ensuring it remains balanced and does not overwhelm the multiverse. For example, the **Eidolon of Fire** safeguards against unchecked infernos that might destabilize universes.
-- **Inspirers of Creation**: Their existence influences creativity and the natural evolution of beings in the Ulverse. The **Eidolon of Life** inspires fertility, while the **Eidolon of Technology** sparks invention.
+- **Guardians of Balance**: Each Aspharion is tethered to their respective concept, ensuring it remains balanced and does not overwhelm the multiverse. For example, the **Valaryn of Fire** safeguards against unchecked infernos that might destabilize universes.
+- **Inspirers of Creation**: Their existence influences creativity and the natural evolution of beings in the Ulverse. The **Valaryn of Life** inspires fertility, while the **Valaryn of Technology** sparks invention.
 - **Arbiters of Change**: The Aspharions intervene only in moments of extreme imbalance, often appearing during times of great upheaval or transition.
 
 ---
 
 ## **Known Aspharions**
 
-- [Umbra, the Eidolon of Void and Fear](./riley_umbra.md)
-- [Ignis, the Eidolon of Fire](/)
-- [Aquarion, the Eidolon of Water](/)
-- [Enygma, the Eidolon of Mystery](/)
-- [Florin, the Eidolon of Floral](/)
-- [Chrona, the Eidolon of Time](/)
-- [Kayas, the Eidolon of Strength](/)
-- [Elaris, the Eidolon of Light](/)
-- [Noctis, the Eidolon of Darkness](/)
-- [Enygma, the Eidolon of Mystery](/)
-- [Ignis, the Eidolon of Fire](/)
-- [Magnar, the Eidolon of Magma](/)
-- [Elaris, the Eidolon of Emotion](/)
-- [Fictor, the Eidolon of Imagination](/)
-- [Lexor, the Eidolon of Intellect](/)
-- [Feyra, the Eidolon of Fairy](/)
-- [Vitalis, the Eidolon of Life](/)
-- [Florin, the Eidolon of Floral](/)
-- [Mycelis, the Eidolon of Fungal](/)
-- [Entros, the Eidolon of Insects/Bugs](/)
-- [Cryona, the Eidolon of Ice](/)
-- [Zephyra, the Eidolon of Wind](/)
-- [Sona, the Eidolon of Sound](/)
-- [Kosmos, the Eidolon of the Cosmic](/)
-- [Gravon, the Eidolon of Gravity](/)
-- [Voltaris, the Eidolon of Energy/Electricity](/)
-- [Ferron, the Eidolon of Iron](/)
-- [Terris, the Eidolon of Stone](/)
-- [Macharion, the Eidolon of Construct/Technology](/)
-- [Glitchis, the Eidolon of Glitch](/)
-- [Obsolis, the Eidolon of Destruction](./obsolis.md)
-- [Enduriel, the Eidolon of Sustainment](/)
-- [Mnenos, the Eidolon of Remembrance](/)
-- [Kynthis, the Eidolon of Equilibrium](/)
-- [Nykthos, the Eidolon of Nihility](/)
-- [Cadenza, the Eidolon of Music](/)
-- [Chomus, the Eidolon of Art](/)
-- [Veridyn, the Eidolon of Creation](/)
-- [Elanith, the Eidolon of Hope](/)
-- [Strauros, the Eidolon of War](/)
-- [Somniel, the Eidolon of Dreams](/)
-- [Alythra, the Eidolon of Justice](/)
-- [Askryn, the Eidolon of Curiosity](/)
-- [Myrkoth, the Eidolon of Decay](/)
-- [Theron, the Eidolon of Order](/)
-- [Lyria, the Eidolon of Freedom](/)
-- [Elthyn, the Eidolon of Memory](/)
-- [Psyvra, the Eidolon of Emotion](/)
-- [Nexara, the Eidolon of Connections](/)
-- [Somnivis, the Eidolon of Nightmares](/)
-- [Grand Architect, the Eidolon of Games](./g_architect.md)
-- [Kaylus, the Eidolon of Chaos](./kaylus.md)
+- [Umbra, the Valaryn of Void and Fear](./riley_umbra.md)
+- [Ignis, the Valaryn of Fire](/)
+- [Aquarion, the Valaryn of Water](/)
+- [Enygma, the Valaryn of Mystery](/)
+- [Florin, the Valaryn of Floral](/)
+- [Chrona, the Valaryn of Time](/)
+- [Kayas, the Valaryn of Strength](/)
+- [Elaris, the Valaryn of Light](/)
+- [Noctis, the Valaryn of Darkness](/)
+- [Magnar, the Valaryn of Magma](/)
+- [Fictor, the Valaryn of Imagination](/)
+- [Lexor, the Valaryn of Intellect](/)
+- [Feyra, the Valaryn of Fairy](/)
+- [Vitalis, the Valaryn of Life](/)
+- [Mycelis, the Valaryn of Fungal](/)
+- [Entros, the Valaryn of Insects/Bugs](/)
+- [Cryona, the Valaryn of Ice](/)
+- [Zephyra, the Valaryn of Wind](/)
+- [Sona, the Valaryn of Sound](/)
+- [Kosmos, the Valaryn of the Cosmic](/)
+- [Gravon, the Valaryn of Gravity](/)
+- [Voltaris, the Valaryn of Energy/Electricity](/)
+- [Ferron, the Valaryn of Iron](/)
+- [Terris, the Valaryn of Stone](/)
+- [Macharion, the Valaryn of Construct/Technology](/)
+- [Glitchis, the Valaryn of Glitch](/)
+- [Obsolis, the Valaryn of Destruction](./obsolis.md)
+- [Enduriel, the Valaryn of Sustainment](/)
+- [Mnenos, the Valaryn of Remembrance](/)
+- [Kynthis, the Valaryn of Equilibrium](/)
+- [Nykthos, the Valaryn of Nihility](/)
+- [Cadenza, the Valaryn of Music](/)
+- [Chomus, the Valaryn of Art](/)
+- [Veridyn, the Valaryn of Creation](/)
+- [Elanith, the Valaryn of Hope](/)
+- [Strauros, the Valaryn of War](/)
+- [Somniel, the Valaryn of Dreams](/)
+- [Alythra, the Valaryn of Justice](/)
+- [Askryn, the Valaryn of Curiosity](/)
+- [Myrkoth, the Valaryn of Decay](/)
+- [Theron, the Valaryn of Order](/)
+- [Lyria, the Valaryn of Freedom](/)
+- [Elthyn, the Valaryn of Memory](/)
+- [Psyvra, the Valaryn of Emotion](/)
+- [Nexara, the Valaryn of Connections](/)
+- [Somnivis, the Valaryn of Nightmares](/)
+- [Grand Architect, the Valaryn of Games](./g_architect.md)
+- [Kaylus, the Valaryn of Chaos](./kaylus.md)
 
 ## **Traditions and Symbols of the Aspharions**
 

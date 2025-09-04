@@ -3,7 +3,7 @@
 ## **Basic Information**
 
 - **Full Name:** Kaylus
-- **Nickname(s)/Alias(es):** Eidolon of Chaos
+- **Nickname(s)/Alias(es):** Valaryn of Chaos
 - **Age:**
 - **Date of Birth:**
 - **Species:** Collective Existence

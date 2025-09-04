@@ -414,7 +414,7 @@ export default defineConfig({
             link: "/organisations/council8",
           },
           {
-            text: "PMA Department Heads",
+            text: "UCDA Department Heads",
             link: "/organisations/dep_heads",
           },
           {
