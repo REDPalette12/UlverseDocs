@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t}from"./chunks/framework.C4qgxD4H.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/cadenza.md","filePath":"docs/characters/cadenza.md"}'),c={name:"characters/cadenza.md"};function r(s,n,o,d,p,_){return t(),e("div")}const f=a(c,[["render",r]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.C4qgxD4H.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/noctis.md","filePath":"docs/characters/noctis.md"}'),c={name:"characters/noctis.md"};function r(s,o,n,i,d,p){return a(),e("div")}const f=t(c,[["render",r]]);export{m as __pageData,f as default};

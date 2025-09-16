@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r}from"./chunks/framework.C4qgxD4H.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/zephyra.md","filePath":"docs/characters/zephyra.md"}'),t={name:"characters/zephyra.md"};function c(s,o,n,p,d,h){return r(),a("div")}const m=e(t,[["render",c]]);export{i as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.C4qgxD4H.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/theron.md","filePath":"docs/characters/theron.md"}'),a={name:"characters/theron.md"};function c(o,s,n,d,h,p){return r(),t("div")}const m=e(a,[["render",c]]);export{i as __pageData,m as default};

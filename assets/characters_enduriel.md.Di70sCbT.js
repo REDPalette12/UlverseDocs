@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t}from"./chunks/framework.C4qgxD4H.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/enduriel.md","filePath":"docs/characters/enduriel.md"}'),a={name:"characters/enduriel.md"};function c(s,n,o,d,i,l){return t(),r("div")}const m=e(a,[["render",c]]);export{_ as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r}from"./chunks/framework.C4qgxD4H.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/elaris.md","filePath":"docs/characters/elaris.md"}'),t={name:"characters/elaris.md"};function s(c,o,n,i,d,l){return r(),a("div")}const m=e(t,[["render",s]]);export{_ as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.C4qgxD4H.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/mycelis.md","filePath":"docs/characters/mycelis.md"}'),c={name:"characters/mycelis.md"};function r(s,o,n,i,m,d){return a(),t("div")}const _=e(c,[["render",r]]);export{p as __pageData,_ as default};

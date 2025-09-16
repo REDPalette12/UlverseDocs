@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.C4qgxD4H.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/chomus.md","filePath":"docs/characters/chomus.md"}'),c={name:"characters/chomus.md"};function r(s,o,n,m,d,h){return a(),t("div")}const i=e(c,[["render",r]]);export{_ as __pageData,i as default};

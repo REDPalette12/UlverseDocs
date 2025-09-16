@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r}from"./chunks/framework.C4qgxD4H.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/chrona.md","filePath":"docs/characters/chrona.md"}'),t={name:"characters/chrona.md"};function c(o,s,n,d,h,p){return r(),e("div")}const m=a(t,[["render",c]]);export{i as __pageData,m as default};

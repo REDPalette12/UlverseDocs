@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.C4qgxD4H.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/glitchis.md","filePath":"docs/characters/glitchis.md"}'),c={name:"characters/glitchis.md"};function r(s,i,o,n,d,h){return a(),e("div")}const _=t(c,[["render",r]]);export{p as __pageData,_ as default};

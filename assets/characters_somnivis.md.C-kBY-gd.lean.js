@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as t}from"./chunks/framework.C4qgxD4H.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/somnivis.md","filePath":"docs/characters/somnivis.md"}'),a={name:"characters/somnivis.md"};function r(c,o,n,i,m,d){return t(),s("div")}const f=e(a,[["render",r]]);export{_ as __pageData,f as default};

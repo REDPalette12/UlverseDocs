@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t}from"./chunks/framework.C4qgxD4H.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/salia.md","filePath":"docs/characters/salia.md"}'),r={name:"characters/salia.md"};function s(c,o,n,i,d,l){return t(),e("div")}const m=a(r,[["render",s]]);export{_ as __pageData,m as default};

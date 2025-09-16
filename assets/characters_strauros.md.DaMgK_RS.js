@@ -1,0 +1,1 @@
+import{_ as r,c as t,o as a}from"./chunks/framework.C4qgxD4H.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/strauros.md","filePath":"docs/characters/strauros.md"}'),e={name:"characters/strauros.md"};function s(c,o,n,d,p,_){return a(),t("div")}const f=r(e,[["render",s]]);export{m as __pageData,f as default};

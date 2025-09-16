@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t}from"./chunks/framework.C4qgxD4H.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/dulcina.md","filePath":"docs/characters/dulcina.md"}'),c={name:"characters/dulcina.md"};function r(s,n,o,d,i,l){return t(),e("div")}const m=a(c,[["render",r]]);export{_ as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r}from"./chunks/framework.C4qgxD4H.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/psyvra.md","filePath":"docs/characters/psyvra.md"}'),t={name:"characters/psyvra.md"};function s(c,o,n,p,d,_){return r(),e("div")}const f=a(t,[["render",s]]);export{m as __pageData,f as default};

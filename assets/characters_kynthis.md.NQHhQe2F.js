@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.C4qgxD4H.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/kynthis.md","filePath":"docs/characters/kynthis.md"}'),r={name:"characters/kynthis.md"};function s(c,n,o,i,d,h){return a(),e("div")}const m=t(r,[["render",s]]);export{_ as __pageData,m as default};

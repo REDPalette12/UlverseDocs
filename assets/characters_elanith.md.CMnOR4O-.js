@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.C4qgxD4H.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/elanith.md","filePath":"docs/characters/elanith.md"}'),r={name:"characters/elanith.md"};function c(s,n,o,i,d,h){return a(),t("div")}const _=e(r,[["render",c]]);export{p as __pageData,_ as default};

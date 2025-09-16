@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r}from"./chunks/framework.C4qgxD4H.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/magnar.md","filePath":"docs/characters/magnar.md"}'),t={name:"characters/magnar.md"};function c(s,n,o,m,d,p){return r(),e("div")}const f=a(t,[["render",c]]);export{i as __pageData,f as default};
