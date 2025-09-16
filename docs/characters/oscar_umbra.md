@@ -1,7 +1,7 @@
 ## **Basic Information**
 
 **Full Name:**
-Riley Umbra (A-T1-OU) \
+Oscar Umbra (A-T1-OU) \
 **Nickname(s)/Alias(es):** \
 Lord of the void, Commander of Shadows, Ruler of Darkness, Shadow \
 **Age:** Unknown \

@@ -17,8 +17,8 @@ outline: [2, 3]
 
 **Height:** \
 **Weight:** \
-**Eye Color:**Chocolate brown \
-**Hair Color & Style:** \
+**Eye Colour:**Chocolate brown \
+**Hair Colour & Style:** \
 **Skin Tone:** \
 **Distinguishing Features:**
 

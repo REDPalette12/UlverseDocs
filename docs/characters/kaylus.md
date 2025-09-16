@@ -15,8 +15,8 @@
 
 - **Height:**
 - **Weight:**
-- **Eye Color:**
-- **Hair Color & Style:**
+- **Eye Colour:**
+- **Hair Colour & Style:**
 - **Skin Tone:**
 - **Distinguishing Features:** Fox-like eyes, Fox insignia somewhere on their body
 - **Typical Clothing Style:** Formal

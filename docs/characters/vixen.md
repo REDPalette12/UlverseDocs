@@ -17,8 +17,8 @@ outline: [2, 3]
 
 - **Height:**
 - **Weight:**
-- **Eye Color:**
-- **Hair Color & Style:**
+- **Eye Colour:**
+- **Hair Colour & Style:**
 - **Skin Tone:**
 - **Distinguishing Features:** Fox ears on top of her head, Golden fox-like eyes
 - **Typical Clothing Style:**

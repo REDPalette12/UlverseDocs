@@ -15,8 +15,8 @@
 
 **Height:** \
 **Weight:** \
-**Eye Color:** \
-**Hair Color & Style:** \
+**Eye Colour:** \
+**Hair Colour & Style:** \
 **Skin Tone:** \
 **Distinguishing Features:**
 
