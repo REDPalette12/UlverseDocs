@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as r}from"./chunks/framework.C4qgxD4H.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/feyra.md","filePath":"docs/characters/feyra.md"}'),t={name:"characters/feyra.md"};function c(s,o,n,f,d,p){return r(),a("div")}const m=e(t,[["render",c]]);export{i as __pageData,m as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as r}from"./chunks/framework.C4qgxD4H.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/solenyra.md","filePath":"docs/characters/solenyra.md"}'),t={name:"characters/solenyra.md"};function s(c,o,n,d,l,p){return r(),a("div")}const m=e(t,[["render",s]]);export{i as __pageData,m as default};

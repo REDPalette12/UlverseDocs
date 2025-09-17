@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r}from"./chunks/framework.C4qgxD4H.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/macharion.md","filePath":"docs/characters/macharion.md"}'),t={name:"characters/macharion.md"};function c(o,s,n,i,m,d){return r(),e("div")}const _=a(t,[["render",c]]);export{p as __pageData,_ as default};

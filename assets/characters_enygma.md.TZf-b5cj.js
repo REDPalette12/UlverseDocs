@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t}from"./chunks/framework.C4qgxD4H.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/enygma.md","filePath":"docs/characters/enygma.md"}'),r={name:"characters/enygma.md"};function c(s,n,o,m,d,p){return t(),a("div")}const f=e(r,[["render",c]]);export{i as __pageData,f as default};

@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t}from"./chunks/framework.C4qgxD4H.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/kayas.md","filePath":"docs/characters/kayas.md"}'),r={name:"characters/kayas.md"};function s(c,o,n,d,p,_){return t(),e("div")}const f=a(r,[["render",s]]);export{m as __pageData,f as default};

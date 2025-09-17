@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e}from"./chunks/framework.C4qgxD4H.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/voltaris.md","filePath":"docs/characters/voltaris.md"}'),r={name:"characters/voltaris.md"};function s(c,o,n,i,d,l){return e(),a("div")}const m=t(r,[["render",s]]);export{_ as __pageData,m as default};

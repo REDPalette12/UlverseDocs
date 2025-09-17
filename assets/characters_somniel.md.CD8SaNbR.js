@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.C4qgxD4H.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/somniel.md","filePath":"docs/characters/somniel.md"}'),r={name:"characters/somniel.md"};function s(c,o,n,i,m,d){return a(),t("div")}const _=e(r,[["render",s]]);export{p as __pageData,_ as default};

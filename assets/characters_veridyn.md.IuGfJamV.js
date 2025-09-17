@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t}from"./chunks/framework.C4qgxD4H.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/veridyn.md","filePath":"docs/characters/veridyn.md"}'),a={name:"characters/veridyn.md"};function c(s,n,o,d,i,p){return t(),r("div")}const f=e(a,[["render",c]]);export{m as __pageData,f as default};

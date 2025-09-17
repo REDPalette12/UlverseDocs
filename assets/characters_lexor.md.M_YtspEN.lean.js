@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t}from"./chunks/framework.C4qgxD4H.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/lexor.md","filePath":"docs/characters/lexor.md"}'),a={name:"characters/lexor.md"};function c(o,s,n,d,l,p){return t(),r("div")}const m=e(a,[["render",c]]);export{i as __pageData,m as default};

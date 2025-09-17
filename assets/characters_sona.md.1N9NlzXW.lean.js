@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t}from"./chunks/framework.C4qgxD4H.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/sona.md","filePath":"docs/characters/sona.md"}'),r={name:"characters/sona.md"};function s(c,o,n,d,p,_){return t(),e("div")}const f=a(r,[["render",s]]);export{m as __pageData,f as default};

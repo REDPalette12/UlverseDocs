@@ -1,1 +1,0 @@
-import{_ as e,c as s,o as t}from"./chunks/framework.C4qgxD4H.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/kosmos.md","filePath":"docs/characters/kosmos.md"}'),a={name:"characters/kosmos.md"};function o(r,c,n,m,d,p){return t(),s("div")}const f=e(a,[["render",o]]);export{i as __pageData,f as default};

@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r}from"./chunks/framework.C4qgxD4H.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/askryn.md","filePath":"docs/characters/askryn.md"}'),t={name:"characters/askryn.md"};function s(c,n,o,d,p,_){return r(),e("div")}const f=a(t,[["render",s]]);export{m as __pageData,f as default};

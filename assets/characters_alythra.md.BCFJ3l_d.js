@@ -1,1 +1,0 @@
-import{_ as a,c as t,o as e}from"./chunks/framework.C4qgxD4H.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/alythra.md","filePath":"docs/characters/alythra.md"}'),r={name:"characters/alythra.md"};function c(s,o,n,d,h,l){return e(),t("div")}const i=a(r,[["render",c]]);export{_ as __pageData,i as default};

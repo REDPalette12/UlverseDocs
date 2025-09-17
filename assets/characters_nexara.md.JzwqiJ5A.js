@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r}from"./chunks/framework.C4qgxD4H.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/nexara.md","filePath":"docs/characters/nexara.md"}'),t={name:"characters/nexara.md"};function c(s,n,o,d,p,_){return r(),e("div")}const f=a(t,[["render",c]]);export{m as __pageData,f as default};

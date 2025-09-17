@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r}from"./chunks/framework.C4qgxD4H.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/lyria.md","filePath":"docs/characters/lyria.md"}'),t={name:"characters/lyria.md"};function c(s,o,n,i,d,l){return r(),e("div")}const m=a(t,[["render",c]]);export{_ as __pageData,m as default};

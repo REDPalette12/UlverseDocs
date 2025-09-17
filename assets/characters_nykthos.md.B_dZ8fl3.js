@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./chunks/framework.C4qgxD4H.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"characters/nykthos.md","filePath":"docs/characters/nykthos.md"}'),r={name:"characters/nykthos.md"};function s(c,o,n,d,h,p){return a(),e("div")}const m=t(r,[["render",s]]);export{i as __pageData,m as default};
