@@ -3,12 +3,12 @@
 ## **Basic Information**
 
 **Full Name:**
-\
+Eon \
 **Nickname(s)/Alias(es):** \
  \
 **Age:** \
 **Date of Birth:** \
-**Species:** \
+**Species:** Mechromorph \
 **Gender & Pronouns:** \
 **Sexuality:** \
 **Nationality/Ethnicity:**
@@ -45,17 +45,14 @@
 ## **Powers/Special Abilities :**
 
 **Combat Skills :**
-
-- **Talents/Professions:**
-- **Weapons/Equipment :**
--
-
+**Talents/Professions:**
+**Weapons/Equipment :**
 ## **Social & Background Information**
 
 **Job/Role in Society:**
 **Home/Place of Residence:**
 **Family Members:**
-
+- [Aleia Sparks]() (Creator and Mother figure)
 **Friends/Allies:**
 
 **Rivals/Enemies:**

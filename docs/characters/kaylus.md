@@ -2,50 +2,52 @@
 
 ## **Basic Information**
 
-- **Full Name:** Kaylus
-- **Nickname(s)/Alias(es):** Valaryn of Chaos
-- **Age:**
-- **Date of Birth:**
-- **Species:** Collective Existence
-- **Gender & Pronouns:** Depends on which body you meet
-- **Sexuality:**
-- **Nationality/Ethnicity:**
+**Full Name:** Kaylus
+**Nickname(s)/Alias(es):** 
+Valaryn of Chaos, The fox with many faces
+**Age:**
+**Date of Birth:**
+**Species:** Collective Existence
+**Gender & Pronouns:** Depends on which body you meet
+**Sexuality:**
+**Nationality/Ethnicity:**
 
 ## **Physical Appearance**
 
-- **Height:**
-- **Weight:**
-- **Eye Colour:**
-- **Hair Colour & Style:**
-- **Skin Tone:**
-- **Distinguishing Features:** Fox-like eyes, Fox insignia somewhere on their body
-- **Typical Clothing Style:** Formal
+**Height:**
+**Weight:**
+**Eye Colour:**
+**Hair Colour & Style:**
+**Skin Tone:**
+**Distinguishing Features:** Fox-like eyes, Fox insignia somewhere on their body
+**Typical Clothing Style:** Formal
 
 ## **Personal Information**
 
-- **Personality:**
-- **Strengths:**
-- **Weaknesses:**
-- **Fears/Phobias:**
-- **Hobbies & Interests:**
-- **Likes:**
-- **Dislikes:**
+**Personality:**
+**Strengths:**
+**Weaknesses:**
+**Fears/Phobias:**
+**Hobbies & Interests:**
+**Likes:**
+**Dislikes:**
 
 ## **Abilities & Skills**
 
-- **Powers/Special Abilities:**
-- **Combat Skills:**
-- **Talents/Professions:**
-- **Weapons/Equipment:**
+**Powers/Special Abilities:**
+**Combat Skills:**
+**Talents/Professions:**
+**Weapons/Equipment:**
 
 ## **Social & Background Information**
 
-- **Job/Role in Society:**
-- **Home/Place of Residence:**
-- **Family Members:**
-- **Friends/Allies:**
-- **Rivals/Enemies:**
-- **Love Interest(s):**
+**Job/Role in Society:** 
+Varalyn of the Aspharion Council
+**Home/Place of Residence:**
+**Family Members:**
+**Friends/Allies:**
+**Rivals/Enemies:**
+**Love Interest(s):**
 
 ## **Backstory**
 

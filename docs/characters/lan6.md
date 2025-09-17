@@ -3,9 +3,8 @@
 ## **Basic Information**
 
 **Full Name:**
-\
+Oralyn Lan\
 **Nickname(s)/Alias(es):** \
- \
 **Age:** \
 **Date of Birth:** \
 **Species:** \
@@ -43,22 +42,21 @@
 ## **Abilities & Skills** \
 
 **Powers/Special Abilities :**
-
 **Combat Skills :**
-
 **Talents/Professions:**
 **Weapons/Equipment :**
 
 ## **Social & Background Information**
 
 **Job/Role in Society:**
+Ruler of Research and Devolpment of The Council of Eight
 **Home/Place of Residence:**
 **Family Members:**
-
 **Friends/Allies:**
-
+- [Red Palette](./red_palette)
+- [Oscar Umbra](./oscar_umbra)
+- Sonya 
 **Rivals/Enemies:**
-
 **Love Interest(s):**
 
 ## **Backstory**

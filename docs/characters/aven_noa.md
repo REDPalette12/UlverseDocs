@@ -3,15 +3,15 @@
 ## **Basic Information**
 
 **Full Name:**
-\
+Aven Noa\
 **Nickname(s)/Alias(es):** \
  \
 **Age:** \
 **Date of Birth:** \
-**Species:** \
+**Species:** Ulverse Elf \
 **Gender & Pronouns:** \
 **Sexuality:** \
-**Nationality/Ethnicity:**
+**Nationality/Ethnicity:** Silvaspiran (Silvaspire)
 
 ## **Physical Appearance**
 
@@ -55,7 +55,7 @@
 **Job/Role in Society:**
 **Home/Place of Residence:**
 **Family Members:**
-
+- [Oralyn Noa](./noa5) (Wife)
 **Friends/Allies:**
 
 **Rivals/Enemies:**
@@ -70,9 +70,6 @@
 
 (Anything extra that doesn't fit into the categories above.)
 
-### **Riley Noa’s Husband: Aven Noa**
-
-**Race**: Ulverse Elf  
 **Appearance**: Aven is a tall, elegant figure with long, flowing hair that seems to shimmer like molten silver under light, contrasting with his deep amethyst eyes that glimmer with intelligence and warmth. His complexion is luminous, radiating a soft, celestial glow characteristic of Ulverse Elves. He often dresses in subtle, flowing robes adorned with constellations that shift and shimmer as he moves.
 
 **Personality**: Aven is known for his calm and composed demeanor, acting as a stabilizing force in Riley Noa’s life. He is empathetic and nurturing, often helping others find their footing during times of crisis. Despite his serene exterior, Aven possesses a sharp mind and a dry sense of humor, which he uses to gently tease Noa and lighten tense moments.

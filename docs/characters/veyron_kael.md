@@ -3,12 +3,11 @@
 ## **Basic Information**
 
 **Full Name:**
-\
+Veyron Kael \
 **Nickname(s)/Alias(es):** \
- \
 **Age:** \
 **Date of Birth:** \
-**Species:** \
+**Species:** Ulversian human \
 **Gender & Pronouns:** \
 **Sexuality:** \
 **Nationality/Ethnicity:**

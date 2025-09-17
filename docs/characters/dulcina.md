@@ -3,7 +3,7 @@
 ## **Basic Information**
 
 **Full Name:**
-\
+Dulcina \
 **Nickname(s)/Alias(es):** \
  \
 **Age:** \
@@ -55,9 +55,10 @@
 **Job/Role in Society:**
 **Home/Place of Residence:**
 **Family Members:**
-
+- [Pottel](./pottel) (Younger brother)
+- [Salia](./salia) (Younger sister)
 **Friends/Allies:**
-
+- [Oscar Umbra](./oscar_umbra) 
 **Rivals/Enemies:**
 
 **Love Interest(s):**

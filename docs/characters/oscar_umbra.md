@@ -38,15 +38,16 @@ Thinks people are below him, rarely respects them unless he has deemed them wort
 **Fears/Phobias:** \
 **Hobbies & Interests:** \
 **Likes:**
+- Tea, all kinds, but he particularly enjoys 
+- Donuts, paticularly those made by [Dulcina](./dulcina)
+- His family
 
-- Tea, all kinds, but particularly enjoys \
-  **Dislikes:**
+**Dislikes:**
 - Liars \
 
 ## **Abilities & Skills** \
 
 **Powers/Special Abilities :**
-
 - Shadow telekinesis
 - Shadow manipulation
 - Shadow inducement
@@ -106,13 +107,14 @@ Thinks people are below him, rarely respects them unless he has deemed them wort
 - Absolute darkness
 - Absolute erasure
 - Multipresence
-  **Combat Skills :**
+**Combat Skills :**
 - Weapon mastery
-  **Talents/Professions:**
+**Talents/Professions:**
 - Superior acting
 - Escape artist
-  **Weapons/Equipment :**
+**Weapons/Equipment :**
 - Shadow manifestations (can change into all weapon forms)
+- Shadow Abilities (listed above)
 
 ## **Social & Background Information**
 
@@ -127,7 +129,8 @@ Aspharion of Fear and Void \
 - [Ozul Umbra](./ozul_umbra) (youngest sibling) \
   **Friends/Allies:**
 - [Red Pallette](./red_palette)
-- Riley Lan
+- [Oralyn Lan](./lan6)
+- [Dulcina](./dulcina)
   **Rivals/Enemies:**
   **Love Interest(s):**
 

@@ -2,49 +2,52 @@
 
 ## **Basic Information**
 
-- **Full Name:** Vixen Xalvinar
-- **Nickname(s)/Alias(es):**
-- **Age:**
-- **Date of Birth:**
-- **Species:** Split Existence
-- **Gender & Pronouns:** Female
-- **Sexuality:**
-- **Nationality/Ethnicity:**
+**Full Name:** Vixen Xalvinar
+**Nickname(s)/Alias(es):** Vix, Head of Public relations and advertising, 
+**Age:**
+**Date of Birth:**
+**Species:** Split Existence
+**Gender & Pronouns:** Female
+**Sexuality:**
+**Nationality/Ethnicity:**
 
 ## **Physical Appearance**
 
-- **Height:**
-- **Weight:**
-- **Eye Colour:**
-- **Hair Colour & Style:**
-- **Skin Tone:**
-- **Distinguishing Features:** Fox ears on top of her head, Golden fox-like eyes
-- **Typical Clothing Style:**
+**Height:**
+**Weight:**
+**Eye Colour:**
+**Hair Colour & Style:**
+**Skin Tone:**
+**Distinguishing Features:** Fox ears on top of her head, Golden fox-like eyes
+**Typical Clothing Style:**
 
 ## **Personal Information**
 
-- **Personality:**
-- **Strengths:**
-- **Weaknesses:**
-- **Fears/Phobias:**
-- **Hobbies & Interests:**
-- **Likes:**
-- **Dislikes:**
+**Personality:**
+**Strengths:**
+**Weaknesses:**
+**Fears/Phobias:**
+**Hobbies & Interests:**
+**Likes:**
+**Dislikes:**
 
 ## **Abilities & Skills**
 
-- **Powers/Special Abilities:**
-- **Combat Skills:**
-- **Talents/Professions:**
-- **Weapons/Equipment:**
+**Powers/Special Abilities:**
+**Combat Skills:**
+**Talents/Professions:**
+**Weapons/Equipment:**
 
 ## **Social & Background Information**
 
-- **Job/Role in Society:** Public Relations & Advertising Head of the Development Department
-- **Home/Place of Residence:**
-- **Family Members:** Voltt Xalvinar(Husband)
-- **Friends/Allies:**
-- **Rivals/Enemies:**
+**Job/Role in Society:** 
+Public Relations & Advertising Head of the Development Department
+**Home/Place of Residence:**
+**Family Members:** 
+- [Voltt Xalvinar](./voltt) (Husband)
+- [Kaylus](./kaylus) (Brother of sorts)
+**Friends/Allies:**
+**Rivals/Enemies:**
 
 ## **Backstory**
 

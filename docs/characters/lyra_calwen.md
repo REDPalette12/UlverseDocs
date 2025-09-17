@@ -3,12 +3,11 @@
 ## **Basic Information**
 
 **Full Name:**
-\
+Lyra Calwen \
 **Nickname(s)/Alias(es):** \
- \
-**Age:** \
+**Age:** Deceased (was at death) \
 **Date of Birth:** \
-**Species:** \
+**Species:** Human (with Ulverse energy influence) \
 **Gender & Pronouns:** \
 **Sexuality:** \
 **Nationality/Ethnicity:**
@@ -27,17 +26,11 @@
 ## **Personal Information**
 
 **Personality:**
-
 **Strengths:** \
-
 **Weaknesses:** \
-
 **Fears/Phobias:** \
-
 **Hobbies & Interests:** \
-
 **Likes:** \
-
 **Dislikes:** \
 
 ## **Abilities & Skills** \
@@ -45,10 +38,8 @@
 ## **Powers/Special Abilities :**
 
 **Combat Skills :**
-
-- **Talents/Professions:**
-- **Weapons/Equipment :**
--
+**Talents/Professions:**
+**Weapons/Equipment :**
 
 ## **Social & Background Information**
 
@@ -56,11 +47,12 @@
 **Home/Place of Residence:**
 **Family Members:**
 
-**Friends/Allies:**
-
-**Rivals/Enemies:**
-
-**Love Interest(s):**
+- [Red Palette](./red_palette) (Older adoptive brother)
+- [Elenis Vos]() (Husband)
+- [Aenys Calwen-Vos]() (Daughter)
+  **Friends/Allies:**
+  **Rivals/Enemies:**
+  **Love Interest(s):**
 
 ## **Backstory**
 

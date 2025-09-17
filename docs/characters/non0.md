@@ -3,9 +3,8 @@
 ## **Basic Information**
 
 **Full Name:**
-\
-**Nickname(s)/Alias(es):** \
- \
+Oralyn Non \
+**Nickname(s)/Alias(es):** The Ruler of Ruin \
 **Age:** \
 **Date of Birth:** \
 **Species:** \
@@ -45,11 +44,8 @@
 ## **Powers/Special Abilities :**
 
 **Combat Skills :**
-
-- **Talents/Professions:**
-- **Weapons/Equipment :**
--
-
+**Talents/Professions:**
+**Weapons/Equipment :**
 ## **Social & Background Information**
 
 **Job/Role in Society:**

@@ -2,57 +2,57 @@
 
 ## **Basic Information**
 
-- **Full Name:** Voltt Xalvinar
-- **Nickname(s)/Alias(es):** Vol, Head of the development department
-- **Age:**
-- **Date of Birth:**
-- **Species:** Ulverse human
-- **Gender & Pronouns:** Male
-- **Sexuality:**
-- **Nationality/Ethnicity:**
+**Full Name:** Voltt Xalvinar
+**Nickname(s)/Alias(es):** Vol, Head of the development department
+**Age:**
+**Date of Birth:**
+**Species:** Ulverse human
+**Gender & Pronouns:** Male
+**Sexuality:**
+**Nationality/Ethnicity:**
 
 ## **Physical Appearance**
 
-- **Height:**
-- **Weight:**
-- **Eye Colour:**
-- **Hair Colour & Style:**
-- **Skin Tone:**
-- **Distinguishing Feature:**
-- **Typical Clothing Style:** Lab attire
+**Height:**
+**Weight:**
+**Eye Colour:**
+**Hair Colour & Style:**
+**Skin Tone:**
+**Distinguishing Feature:**
+**Typical Clothing Style:** Lab attire
 
 ## **Personal Information**
 
-- **Personality:**
-  - Quiet, introspective, and highly focused, Voltt is a man of few words but deep thoughts.
-  - Though he prefers the solitude of his workshop, he has a deep-seated love for Vixen, often creating small, thoughtful gifts to express his feelings.
-  - While socially reserved, he is fiercely protective of his team and takes immense pride in their accomplishments.
-- **Strengths:**
-- **Weaknesses:**
-- **Fears/Phobias:**
-- **Hobbies & Interests:**
-- **Likes:**
+**Personality:**
+- ​Quiet, introspective, and highly focused, Voltt is a man of few words but deep thoughts.
+- Though he prefers the solitude of his workshop, he has a deep-seated love for Vixen, often creating small, thoughtful gifts to express his feelings.
+- While socially reserved, he is fiercely protective of his team and takes immense pride in their accomplishments.
+**Strengths:**
+**Weaknesses:**
+**Fears/Phobias:**
+**Hobbies & Interests:**
+**Likes:**
 - **Dislikes:**
 
 ## **Abilities & Skills**
 
-- **Powers/Special Abilities:**
-  - Electricity Manipulation: Voltt’s control over electricity is unparalleled, allowing him to:
-  - Communicate with Circuits: Directly interface with machines, “talking” to their systems to diagnose and repair issues in seconds.
-  - Electromagnetic Communication: Use subtle field manipulations as a form of telepathic communication with those attuned to it.
-  - Electromagnetic Engineering: Create and manipulate machines with extraordinary precision, combining mechanical and magical elements seamlessly.
-- **Combat Skills:**
-- **Talents/Professions:**
-- **Weapons/Equipment:**
+**Powers/Special Abilities:**
+- Electricity Manipulation: Voltt’s control over electricity is unparalleled, allowing him to:
+- Communicate with Circuits: Directly interface with machines, “talking” to their systems to diagnose and repair issues in seconds.
+- Electromagnetic Communication: Use subtle field manipulations as a form of telepathic communication with those attuned to it.
+- Electromagnetic Engineering: Create and manipulate machines with extraordinary precision, combining mechanical and magical elements seamlessly.
+**Combat Skills:**
+**Talents/Professions:**
+**Weapons/Equipment:**
 
 ## **Social & Background Information**
 
-- **Job/Role in Society:**
-- **Home/Place of Residence:**
-- **Family Members:**
-  - Vixen Xalvinar (Wife)
-- **Friends/Allies:**
-- **Rivals/Enemies:**
+**Job/Role in Society:**
+**Home/Place of Residence:**
+**Family Members:**
+- Vixen Xalvinar (Wife)
+**Friends/Allies:**
+**Rivals/Enemies:**
 
 ## **Backstory**
 

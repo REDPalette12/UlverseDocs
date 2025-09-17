@@ -1,9 +1,9 @@
-# Brindle
+# Brindle Vexiron
 
 ## **Basic Information**
 
 **Full Name:**
-\
+Brindle Vexiron\
 **Nickname(s)/Alias(es):** \
  \
 **Age:** \

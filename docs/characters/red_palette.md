@@ -15,13 +15,12 @@
 
 **Height:** \
 **Weight:** \
-**Eye Colour:**Chocolate brown \
+**Eye Colour:** Chocolate brown \
 **Hair Colour & Style:** \
 **Skin Tone:** \
 **Distinguishing Features:**
-
 - The Sukanime Vyren Sigil
-  **Typical Clothing Style:**
+**Typical Clothing Style:**
 
 ## **Personal Information**
 
@@ -39,21 +38,20 @@
 **Combat Skills:** \
 **Talents/Professions:** \
 **Weapons/Equipment:**
-
 - Custom-made Staff of the Eternal Lamp
 - Custom-made Luminous Quill
 
 ## **Social & Background Information**
 
 **Job/Role in Society:** \
-Head of the UCDA Research Department, Supreme Commander and Creator of the Aurorian Armada
+- Head of the UCDA Research Department
+- Supreme Commander and Creator of the Aurorian Armada
 **Home/Place of Residence:** \
 **Family Members:**
-
 - [Lyra Calwen](./lyra_calwen) (younger adoptive sister)
-  **Friends/Allies:** \
-  **Rivals/Enemies:** \
-  **Love Interest(s):**
+**Friends/Allies:** \
+**Rivals/Enemies:** \
+**Love Interest(s):**
 
 ## **Backstory**
 

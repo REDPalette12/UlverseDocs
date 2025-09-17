@@ -3,9 +3,8 @@
 ## **Basic Information**
 
 **Full Name:**
-\
-**Nickname(s)/Alias(es):** \
- \
+Pottel \
+**Nickname(s)/Alias(es):** Pota (Short for Potato, a Nickname used cause of his short stature and his concept of cooking) \
 **Age:** \
 **Date of Birth:** \
 **Species:** \
@@ -45,23 +44,20 @@
 ## **Powers/Special Abilities :**
 
 **Combat Skills :**
-
-- **Talents/Professions:**
-- **Weapons/Equipment :**
--
-
+**Talents/Professions:**
+**Weapons/Equipment :**
 ## **Social & Background Information**
 
 **Job/Role in Society:**
 **Home/Place of Residence:**
 **Family Members:**
-
+- [Salia](./salia) (Twin sister)
+- [Dulcina](./dulcina) (Older sister)
 **Friends/Allies:**
 
 **Rivals/Enemies:**
 
 **Love Interest(s):**
-
 ## **Backstory**
 
 (A brief or detailed summary of the character’s history, including major life events and how they became who they are.)

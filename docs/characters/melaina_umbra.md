@@ -1,55 +1,58 @@
----
-outline: [2, 3]
----
 
 # Melaina Umbra
 
 ## **Basic Information**
 
-- **Full Name:** Melaina Umbra
-- **Nickname(s)/Alias(es):** The Guardian of Shadows
-- **Age:**
-- **Date of Birth:**
-- **Species:** Void being
-- **Gender & Pronouns:**
-- **Sexuality:**
-- **Nationality/Ethnicity:**
+**Full Name:** Melaina Umbra
+**Nickname(s)/Alias(es):** The Guardian of Shadows
+**Age:**
+**Date of Birth:**
+**Species:** Void being
+**Gender & Pronouns:**
+**Sexuality:**
+**Nationality/Ethnicity:**
 
 ## **Physical Appearance**
 
-- **Height:**
-- **Weight:**
-- **Eye Colour:**
-- **Hair Colour & Style:**
-- **Skin Tone:**
-- **Distinguishing Features:**
-- **Typical Clothing Style:**
+**Height:**
+**Weight:**
+**Eye Colour:**
+**Hair Colour & Style:**
+**Skin Tone:**
+**Distinguishing Features:**
+**Typical Clothing Style:**
 
 ## **Personal Information**
 
-- **Personality:**
-- **Strengths:**
-- **Weaknesses:**
-- **Fears/Phobias:**
-- **Hobbies & Interests:**
-- **Likes:**
-- **Dislikes:**
+**Personality:**
+**Strengths:**
+**Weaknesses:**
+**Fears/Phobias:**
+**Hobbies & Interests:**
+**Likes:**
+**Dislikes:**
 
 ## **Abilities & Skills**
 
-- **Powers/Special Abilities:**
-- **Combat Skills:**
-- **Talents/Professions:**
-- **Weapons/Equipment:**
+**Powers/Special Abilities:**
+- Shadow step
+- Shadow clone
+**Combat Skills:**
+**Talents/Professions:**
+**Weapons/Equipment:**
 
 ## **Social & Background Information**
 
-- **Job/Role in Society:**
-- **Home/Place of Residence:**
-- **Family Members:**
-- **Friends/Allies:**
-- **Rivals/Enemies:**
-- **Love Interest(s):**
+**Job/Role in Society:**
+Advisor to [Oscar Umbra](./oscar_umbra) and the various Ulversian Councils
+**Home/Place of Residence:**
+**Family Members:**
+- [Oscar Umbra](./oscar_umbra) (Older Brother)
+- [Ozul Umbra](./ozul_umbra) (Younger Sibling)
+**Friends/Allies:**
+**Rivals/Enemies:**
+- [Kaylus](./kaylus) (on account of his tendency to mock other Aspharions)
+**Love Interest(s):**
 
 ## **Backstory**
 
