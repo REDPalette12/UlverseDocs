@@ -1,4 +1,4 @@
-# Elaris
+# Oralyn Uko
 
 ## **Basic Information**
 
@@ -42,13 +42,12 @@
 
 ## **Abilities & Skills** \
 
-## **Powers/Special Abilities :**
+**Powers/Special Abilities :**
 
 **Combat Skills :**
 
-- **Talents/Professions:**
-- **Weapons/Equipment :**
--
+**Talents/Professions:**
+**Weapons/Equipment :**
 
 ## **Social & Background Information**
 

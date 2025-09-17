@@ -30,10 +30,15 @@ export default defineConfig({
             text: "Council of Eight",
             collapsed: true,
             items: [
-              {
-                text: "Riley Non (former)",
-                link: "/characters/non0",
-              },
+              { text: "Oralyn Non (former)", link: "/characters/non0" },
+              { text: "Oralyn Ulu ", link: "/characters/ulu1" },
+              { text: "Oralyn Troa ", link: "/characters/troa2" },
+              { text: "Oralyn San ", link: "/characters/san3" },
+              { text: "Oralyn Uko ", link: "/characters/uko4" },
+              { text: "Oralyn Noa ", link: "/characters/noa5" },
+              { text: "Oralyn Lan ", link: "/characters/lan6" },
+              { text: "Oralyn Oro ", link: "/characters/oro7" },
+              { text: "Oralyn Loa ", link: "/characters/loa8" },
             ],
           },
           {

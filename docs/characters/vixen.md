@@ -1,6 +1,4 @@
----
-outline: [2, 3]
----
+# Vixen Xalvinar
 
 ## **Basic Information**
 

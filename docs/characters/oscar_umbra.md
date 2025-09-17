@@ -1,9 +1,11 @@
+# Oscar Umbra
+
 ## **Basic Information**
 
 **Full Name:**
 Oscar Umbra (A-T1-OU) \
 **Nickname(s)/Alias(es):** \
-Lord of the void, Commander of Shadows, Ruler of Darkness, Shadow \
+Lord of the void, Commander of Shadows, Ruler of Darkness, Many variations of the previous three titles, Shadow \
 **Age:** Unknown \
 **Date of Birth:** Unknown \
 **Species:** Void Being \
