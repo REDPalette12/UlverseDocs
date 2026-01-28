@@ -3,7 +3,7 @@
 ## **Basic Information**
 
 **Full Name:**
-\
+Pronunciation:
 **Nickname(s)/Alias(es):** \
  \
 **Age:** \

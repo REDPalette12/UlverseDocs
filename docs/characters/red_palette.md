@@ -2,35 +2,67 @@
 
 ## **Basic Information**
 
-**Full Name:** Verashel Palette (C-T3-RC) \
-**Nickname(s)/Alias(es):** Red (Used Most), Rosso, Ruby, Rouge, Rose, Ru, Po (Short for Poppy) \
+**Full Name:** Verashel Palette \
+**Pronunciation:**
+**Meaning:** 'Of the red flow'
+**Nickname(s):** Rosso, Rouge, Rose, Ru, Po (Short for Poppy) \
+**Preferred Names:** Red (Used Most), Ruby, Verashel
+**Titles:** Head of the UCDA research department, Supreme Commander of the Aurorian Armada, Research prince
+**Tier:** C-T3-RC
 **Age:** \
 **Date of Birth:** \
 **Species:** Ulverse Elf \
 **Gender & Pronouns:** Male form Currently (did live in a female form for some time when younger) \
-**Sexuality:** \
-**Nationality/Ethnicity:**
 
-## **Physical Appearance**
+## **Physical Appearance & Characteristics**
 
-**Height:** \
+**Height:** 5 foot, 8 inches \
 **Weight:** \
 **Eye Colour:** Chocolate brown \
-**Hair Colour & Style:** \
+**Hair Colour & Style:** Brown \
+**Head Accesories:** Energy suppressing spectacles \
 **Skin Tone:** \
 **Distinguishing Features:**
+
 - The Sukanime Vyren Sigil
-**Typical Clothing Style:**
+
+**Typical Clothing Style:** \
+**Core Shape and Colour:** \
 
 ## **Personal Information**
 
 **Personality:** \
 **Strengths:** \
 **Weaknesses:** \
+**Obsessions:** \
+**Addictions:** \
 **Fears/Phobias:** \
 **Hobbies & Interests:** \
+**Dominant hand:** Right \
+**Speech style:** \
+**Accent:** \
+**Sense of Humour:** \
+**Catchphrases:** \
+**Quirks:** \
+**Habits:** \
+**Drives/Motivations:** \
+**Positive traits:** \
+**Negative traits:** \
 **Likes:** \
-**Dislikes:**
+**Dislikes:** \
+
+### Attitudes
+
+**Greatest dream:** \
+**Greatest Fear:** \
+**Most at ease when:** \
+**Least at ease when:** \
+**Worst possible thing that could happen:** \
+**Biggest Achievement:** \
+**Biggest Regret:** \
+**Most Embarrassing Moment:** \
+**Biggest Secret:** \
+**Top Priorities:** \
 
 ## **Abilities & Skills**
 
@@ -38,20 +70,42 @@
 **Combat Skills:** \
 **Talents/Professions:** \
 **Weapons/Equipment:**
+
 - Custom-made Staff of the Eternal Lamp
 - Custom-made Luminous Quill
 
 ## **Social & Background Information**
 
-**Job/Role in Society:** \
+**Occupation:** \
+
 - Head of the UCDA Research Department
 - Supreme Commander and Creator of the Aurorian Armada
-**Home/Place of Residence:** \
-**Family Members:**
+
+**Past jobs & positions:**
+
+- UCDA Research Assosiate
+- **Qualifications:**
+
+- Full UCDA Codehopper piolting License
+
+**Birth place:** \
+**Home town:** \
+**Current residence:** \
+**Parents:** \
+**Siblings:**
+
 - [Lyra Calwen](./lyra_calwen) (younger adoptive sister)
-**Friends/Allies:** \
+- [Elenis Vos](./elenis_vos.md) (Brother in law)
+
+**Partner:** \
+**Children:** \
+**Pets:** \
+**Friends:**
+
+- [Oscar Umbra](./oscar_umbra.md)
+
 **Rivals/Enemies:** \
-**Love Interest(s):**
+**Previous Relationships:** \
 
 ## **Backstory**
 

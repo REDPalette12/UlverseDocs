@@ -2,52 +2,78 @@
 
 ## **Basic Information**
 
-**Full Name:**
-Oscar Umbra (A-T1-OU) \
-**Nickname(s)/Alias(es):** \
-Lord of the void, Commander of Shadows, Ruler of Darkness, Many variations of the previous three titles, Shadow \
+**Full Name:** Oscar Umbra \
+**Pronunciation:**
+**Meaning:**  
+**Nickname(s):** Shadow \
+**Preferred Names:** Umbra, Lord Umbra
+**Titles:** Lord of the void, Commander of Shadows, Ruler of Darkness, Many variations of the previous three titles
+**Tier:** A-T1-OU
 **Age:** Unknown \
-**Date of Birth:** Unknown \
+**Date of Birth:** \
 **Species:** Void Being \
-**Gender & Pronouns:** \
-**Sexuality:** \
-**Nationality/Ethnicity:**
+**Gender & Pronouns:** Male \
 
-## **Physical Appearance**
+## **Physical Appearance & Characteristics**
 
 **Height:** \
 **Weight:** \
 **Eye Colour:** Purple \
 **Hair Colour & Style:** Black \
+**Head Accesories:** \
 **Skin Tone:** \
 **Distinguishing Features:**
 
 - Pure black sclera with glowing purple irises and slit pupils
 - Always wears the Umbra Family crest(rotated with his third pointing up) somewhere on his person as a show of family love and pride
-
-**Typical Clothing Style:**
-
-- Business attire
+  **Typical Clothing Style:** \
+  **Core Shape and Colour:** \
 
 ## **Personal Information**
 
 **Personality:**
-Thinks people are below him, rarely respects them unless he has deemed them worthy. Despite this, he does care for existence and despises liars, especially those whose lies cause harm to many others. He tends to harshly punish those who cause great destruction or harm through their lies. If anyone picks a fight with him he tends to mess with them first before showing them how weak they are in comparison, however due to his 'All Seeing Shadow' ability he is able to very accurately discern another's strength. \
+Thinks people are below him, rarely respects them unless he has deemed them worthy. Despite this, he does care for existence and despises liars, especially those whose lies cause harm to many others. He tends to harshly punish those who cause great destruction or harm through their lies. If anyone picks a fight with him he tends to mess with them first before showing them how weak they are in comparison, however due to his 'All Seeing Shadow' ability he is able to very accurately discern another's \
 **Strengths:** \
 **Weaknesses:** \
+**Obsessions:** \
+**Addictions:** \
 **Fears/Phobias:** \
 **Hobbies & Interests:** \
+**Dominant hand:** \
+**Speech style:** \
+**Accent:** \
+**Sense of Humour:** \
+**Catchphrases:** \
+**Quirks:** \
+**Habits:** \
+**Drives/Motivations:** \
+**Positive traits:** \
+**Negative traits:** \
 **Likes:**
-- Tea, all kinds, but he particularly enjoys 
+
+- Tea, all kinds, but he particularly enjoys
 - Donuts, paticularly those made by [Dulcina](./dulcina)
 - His family
+  **Dislikes:**
+- Liars
 
-**Dislikes:**
-- Liars \
+### Attitudes
 
-## **Abilities & Skills** \
+**Greatest dream:** \
+**Greatest Fear:** \
+**Most at ease when:** \
+**Least at ease when:** \
+**Worst possible thing that could happen:** \
+**Biggest Achievement:** \
+**Biggest Regret:** \
+**Most Embarrassing Moment:** \
+**Biggest Secret:** \
+**Top Priorities:** \
 
-**Powers/Special Abilities :**
+## **Abilities & Skills**
+
+**Powers/Special Abilities:**
+
 - Shadow telekinesis
 - Shadow manipulation
 - Shadow inducement
@@ -107,32 +133,36 @@ Thinks people are below him, rarely respects them unless he has deemed them wort
 - Absolute darkness
 - Absolute erasure
 - Multipresence
-**Combat Skills :**
+  **Combat Skills:**
 - Weapon mastery
-**Talents/Professions:**
-- Superior acting
-- Escape artist
-**Weapons/Equipment :**
+  **Talents/Professions:** \
+  **Weapons/Equipment:**
 - Shadow manifestations (can change into all weapon forms)
 - Shadow Abilities (listed above)
 
 ## **Social & Background Information**
 
-**Job/Role in Society:**
-Aspharion of Fear and Void \
-**Home/Place of Residence:** \
-**Family Members:**
-
-  <!-- `./*` is in the same folder (`/docs/characters/*`), `../*` is back a folder (`/docs/*) -->
+**Occupation:** \
+**Past jobs & positions:** \
+**Qualifications:** \
+**Birth place:** \
+**Home town:** \
+**Current residence:** \
+**Parents:** \
+**Siblings:** \
 
 - [Melaina Umbra](./melaina_umbra) (younger sister)
-- [Ozul Umbra](./ozul_umbra) (youngest sibling) \
-  **Friends/Allies:**
+- [Ozul Umbra](./ozul_umbra) (youngest sibling)
+  **Partner:** \
+  **Children:** \
+  **Pets:** \
+  **Friends:** \
 - [Red Pallette](./red_palette)
 - [Oralyn Lan](./lan6)
 - [Dulcina](./dulcina)
-  **Rivals/Enemies:**
-  **Love Interest(s):**
+**Rivals/Enemies:** \
+**Previous Relationships:** \
+  <!-- `./*` is in the same folder (`/docs/characters/*`), `../*` is back a folder (`/docs/*) -->
 
 ## **Backstory**
 
@@ -140,7 +170,7 @@ Aspharion of Fear and Void \
 
 ## **Additional Notes**
 
-Has three forms, his human 'Shell' Form, his 'Distortion' Form and his True form. \
+Has three forms, his human 'Shell' Form, his 'Distortion' Form and his True form.
 To transition from his 'Shell' Form to his 'Distortion' Form he tears his Sealing core from his chest, and his human 'shell' breaks in half and crumbles away, leaving his distortion form.
 While in his distortion form he retains his human shape but gains his true form's 'shadow' appearance, only his eyes being visible. His main attack while in this form is a mass of hand-Like,
 shadow appendages that he creates from his shadow body. While in this form he is more aggressive and is usually very narrow minded, not stopping his attack until his target is destroyed. \

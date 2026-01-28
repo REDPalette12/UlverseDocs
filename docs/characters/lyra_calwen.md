@@ -2,57 +2,97 @@
 
 ## **Basic Information**
 
-**Full Name:**
-Lyra Calwen \
-**Nickname(s)/Alias(es):** \
+**Full Name:** Lyra Calwen \
+**Pronunciation:** \
+**Meaning:** \
+**Nickname(s):** \
+**Preferred Names:** \
+**Titles:** \
+**Tier:** \
 **Age:** Deceased (was at death) \
 **Date of Birth:** \
 **Species:** Human (with Ulverse energy influence) \
 **Gender & Pronouns:** \
-**Sexuality:** \
-**Nationality/Ethnicity:**
 
-## **Physical Appearance**
+## **Physical Appearance & Characteristics**
 
 **Height:** \
 **Weight:** \
 **Eye Colour:** \
 **Hair Colour & Style:** \
+**Head Accesories:** \
 **Skin Tone:** \
-**Distinguishing Features:**
-
-**Typical Clothing Style:**
+**Distinguishing Features:** \
+**Typical Clothing Style:** \
+**Core Shape and Colour:** \
 
 ## **Personal Information**
 
-**Personality:**
+**Personality:** \
 **Strengths:** \
 **Weaknesses:** \
+**Obsessions:** \
+**Addictions:** \
 **Fears/Phobias:** \
 **Hobbies & Interests:** \
+**Dominant hand:** \
+**Speech style:** \
+**Accent:** \
+**Sense of Humour:** \
+**Catchphrases:** \
+**Quirks:** \
+**Habits:** \
+**Drives/Motivations:** \
+**Positive traits:** \
+**Negative traits:** \
 **Likes:** \
 **Dislikes:** \
 
-## **Abilities & Skills** \
+### Attitudes
 
-## **Powers/Special Abilities :**
+**Greatest dream:** \
+**Greatest Fear:** \
+**Most at ease when:** \
+**Least at ease when:** \
+**Worst possible thing that could happen:** \
+**Biggest Achievement:** \
+**Biggest Regret:** \
+**Most Embarrassing Moment:** \
+**Biggest Secret:** \
+**Top Priorities:** \
 
-**Combat Skills :**
-**Talents/Professions:**
-**Weapons/Equipment :**
+## **Abilities & Skills**
+
+**Powers/Special Abilities:** \
+**Combat Skills:** \
+**Talents/Professions:** \
+**Weapons/Equipment:** \
 
 ## **Social & Background Information**
 
-**Job/Role in Society:**
-**Home/Place of Residence:**
-**Family Members:**
+**Occupation:** \
+**Past jobs & positions:** \
+**Qualifications:** \
+**Birth place:** \
+**Home town:** \
+**Current residence:** \
+**Parents:** \
+**Siblings:**
 
 - [Red Palette](./red_palette) (Older adoptive brother)
-- [Elenis Vos]() (Husband)
-- [Aenys Calwen-Vos]() (Daughter)
-  **Friends/Allies:**
-  **Rivals/Enemies:**
-  **Love Interest(s):**
+
+**Partner:**
+
+- [Elenis Vos](./elenis_vos.md) (Husband)
+
+**Children:**
+
+- [Aenys Calwen-Vos](./aenys_calwen-vos.md) (Daughter)
+
+**Pets:** \
+**Friends:** \
+**Rivals/Enemies:** \
+**Previous Relationships:** \
 
 ## **Backstory**
 

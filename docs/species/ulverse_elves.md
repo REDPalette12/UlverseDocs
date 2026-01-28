@@ -1,32 +1,118 @@
-#### **Ulverse Elves**: Masters of Adaptive Magic
+# **Species Profile: _[Ulverse Elves]_**
 
-- **Strengths**:
-  - Their shapeshifting ability allows them to channel their energy in diverse ways, adapting spells on the fly.
-  - They specialize in **constructing magical tools**, such as staffs, wands, or even temporary weapons and artifacts made entirely of their energy.
-  - Skilled in **illusionary magic**, using light and energy manipulation to confuse or deceive enemies.
-- **Notable Abilities**:
-  - **Lightweaving**: Create intricate barriers, structures, or traps out of condensed light.
-  - **Formflux**: Infuse their shapeshifting into spells, such as growing wings imbued with magic to glide or creating claws for battle.
-  - **Energy Lenses**: Forge magical lenses that amplify spells or direct energy in specific ways (e.g., focusing a beam of starlight).
+> _Short tagline or in-universe description_
 
-Ulverse Elves
+## **Basic Information**
 
-- Appearance:
+**Species Name:** Ulverse Elf \
+**Pronunciation:** \
+**Scientific Species Name:** Homo ulversis sylvaris \
+**Other names:** Energy Elves \
+**Classification:** Energy Lifeform \
+**Sapience Level:** Fully Sapient \
+**Origin:** Ulversian Core \
+**Homeworld / Habitat:** Ulverse Isles \
+**Environment Type:** Can thrive in most enviroments \
+**Average Lifespan:** Infinte (Will continue living forever unless killed) \
+**Population Status:** Common \
+**Language:** Javaxian (Primary) \
 
-  - Tall and slender, with symmetrical, almost otherworldly beauty.
-  - Their features are more refined than humans, and their hair can shimmer subtly, reflecting light like a nebula.
-  - They can shapeshift to alter their gender, grow wings, tails, or animalistic features to suit specific environments or interactions.
+## **Physical Characteristics**
 
-- Abilities:
+### **General Appearance**
 
-  - Shapeshifting: Limited but versatile. They can change facial features, skin tone, and appendages, and mimic others with high precision. This makes them adept at espionage and diplomacy.
-  - Lightcraft: They weave light into illusions, disguises, or physical constructs such as weapons or barriers.
-  - Empathic Harmony: Their connection to the Ulverse Core allows them to influence emotions and align energy flows in others.
+- Height / Size Range:
+- Body Structure: Energy given Physical form (nicknamed hard-energy in many places)
+- Limbs / Appendages:
+- Skin / Surface:
+- Coloration:
+- Distinctive Features:
+  - Large, pointy ears
+  - Glowing Life Core within chest
 
-- Culture:
+### **Biology**
 
-  - A society of wanderers and diplomats, they see themselves as caretakers of the universal balance.
-  - Highly artistic, they use their light-weaving for storytelling, diplomacy, and creating bonds between civilizations.
+- Respiration: Ulversian Breathe Mimicry
+- Circulation: Life Core Energy Veins
+- Diet Type: Excess Ulversian Energy (Can consume physical food as well)
+- Reproduction Method:Energy weaving in the presence of the Ulversian Core
+- Growth Stages:
+- Biological Sexes (if applicable): Positive and Negative Energy poles (Can be switched at will)
+- Healing/Regeneration: Energy Patching
+- Weaknesses/Vulnerabilities: Life Core, Overuse of Shapeshifting abilty
 
-- Weakness:
-  - Their shapeshifting and illusions consume energy rapidly, making overuse dangerous. If their core dims, they lose their form and must retreat to recharge.
+### **Senses**
+
+- Sight:
+- Hearing:
+- Smell/Taste:
+- Extra Senses: (Magnetic sense, mana perception, echolocation, etc.)
+
+## **Psychology & Mind**
+
+- Intelligence Type: (Instinctive, emotional, hyper-logical, hive-mind, etc.)
+- Emotional Range:
+- Instincts:
+- Common Personality Traits:
+- Fears:
+- Drives/Motivations:
+- Memory & Learning Style:
+
+## **Abilities**
+
+### **Natural Abilities**
+
+- Shapeshifting
+- Natural Ulversian Magic compatability
+- Thalorin Surge State (Excessive Energy Release)
+
+### **Supernatural / Technological Abilities**
+
+-
+-
+-
+
+### **Limitations**
+
+-
+-
+-
+
+## **Communication**
+
+- Primary Method: Speech
+- Language Complexity: Simplified (New Javaxian), Complex (Old Javaxian)
+- Ability to Learn Other Languages: High (Common to be multilingual)
+- Nonverbal Signals: Core Energy Fluctuations
+
+## **Society & Culture**
+
+### **Social Structure**
+
+- Solitary / Pack / Hive / Civilized / Other:
+- Family Structure:
+- Leadership Model:
+
+## **Habitat & Ecology**
+
+- Native Biome:
+- Role in Ecosystem: Caretakers
+- Predators: None
+- Prey: None
+- Environmental Impact:
+
+## **Variants / Subspecies**
+
+- Void Touched()
+-
+-
+
+## **Notable Individuals**
+
+- [Red Palette](/docs/characters/red_palette.md)
+
+## **Myths & Misconceptions**
+
+-
+-
+-
